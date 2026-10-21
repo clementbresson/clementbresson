@@ -43,4 +43,6 @@ The core doesn't say "send an email". It returns `{ kind: "send_reminder", to: .
 
 We often write Services that do both at once. An `await db` at the top, three `if`s in the middle, an `await mailer` at the bottom. Impossible to test without mocking, impossible to cover with integration tests.
 
+That same boundary between decision and action is also what the [Result Pattern](/blog/result-pattern-business-errors/) separates: a business error is a decision, and it should come out as a value instead of a throw.
+
 PS: the full talk is 30 minutes, and I can only recommend it.

@@ -42,3 +42,5 @@ In fact, it's possible to build the entire core of a program before a single lin
 In software architecture, that business core is called the [Domain](/blog/model-orm-vs-domain-model/). And please, cherish it: that's where 80% of a project's success or failure is decided.
 
 10 days spent purely thinking about the business upfront can potentially save 9 months of debt and bugs two years later...
+
+And once that business is modeled, the code still has to tell apart [a business rule from a bug](/blog/result-pattern-business-errors/): the two don't get handled the same way.

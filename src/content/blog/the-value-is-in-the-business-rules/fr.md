@@ -42,3 +42,5 @@ D'ailleurs, il est possible de créer l'intégralité du cœur d'un programme av
 En architecture logicielle, ce cœur métier s'appelle le [Domain](/fr/blog/model-orm-vs-domain-model/). Et promis, chérissez-le : c'est là que se joue 80 % du succès ou de l'échec d'un projet.
 
 10 jours passés uniquement à penser au métier en amont, c'est potentiellement 9 mois de dette et de bugs évités 2 ans plus tard...
+
+Et une fois ce métier modélisé, encore faut-il distinguer, dans le code, [ce qui est une règle métier de ce qui est un bug](/fr/blog/result-pattern-business-errors/) : les deux ne se traitent pas de la même façon.
