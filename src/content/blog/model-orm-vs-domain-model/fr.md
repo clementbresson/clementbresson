@@ -39,4 +39,4 @@ Un seul mot, en anglais comme en français, pour deux choses qui n'ont rien à v
 
 Et le piège classique, c'est de croire que parce qu'on a écrit ses Models Prisma, on a modélisé son métier. Non. On a décrit ses tables.
 
-L'avoir bien en tête évite pas mal d'erreurs.
+L'avoir bien en tête évite pas mal d'erreurs, d'autant plus que [c'est ce Model au sens métier qui concentre l'essentiel de la valeur d'un projet](/fr/blog/the-value-is-in-the-business-rules/).

@@ -29,7 +29,7 @@ C'est le moment de prendre le temps de :
 - comprendre le projet en profondeur
 - choisir / [challenger l'architecture](/fr/blog/architecture-decision-records/)
 - choisir ce qui doit être fait, ce qui ne doit pas l'être, et dans quel ordre
-- comprendre les règles métier
+- comprendre [les règles métier](/fr/blog/the-value-is-in-the-business-rules/)
 - [modéliser le domaine métier](/fr/blog/model-orm-vs-domain-model/)
 - voir ce qui existe déjà et pourrait être réutilisé
 - ... etc.
