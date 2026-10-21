@@ -35,4 +35,6 @@ In the repository, a `docs/adr` folder, one file per decision, numbered. No tool
 
 Unlike a [rule a CI pipeline can check](/blog/architecture-rules-that-break-the-build/), an ADR stays an intention. But a written, dated intention that anyone can find again.
 
+It's also [the history the code alone can't tell](/blog/adr-the-history-ai-agents-need/): why this decision, and not another.
+
 Happy designing!
