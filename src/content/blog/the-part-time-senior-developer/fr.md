@@ -26,7 +26,7 @@ Mais vibe-coder, ça atteint vite un mur :
 
 ## La solution : un senior, sur la durée, à temps partiel
 
-Un senior qui connaît le métier, qui peut venir une à deux semaines recadrer tout ça au début, poser un [harnais](/fr/blog/ai-harness-guides-and-sensors/) aux agents IA, des directives, un CI/CD propre… pour que les projets puissent continuer d’être vibe-codés. Oui, j’assume être un senior qui pousse au vice.
+Un senior qui connaît le métier, qui peut venir une à deux semaines recadrer tout ça au début, en commençant par [ralentir avant d'écrire la moindre ligne](/fr/blog/the-first-week-without-code/), poser un [harnais](/fr/blog/ai-harness-guides-and-sensors/) aux agents IA, des directives, un CI/CD propre… pour que les projets puissent continuer d’être vibe-codés. Oui, j’assume être un senior qui pousse au vice.
 
 Résultats :
 
