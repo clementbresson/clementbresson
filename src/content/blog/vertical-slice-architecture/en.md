@@ -39,7 +39,7 @@ So far, this is just moving files around. The real idea comes right after:
 
 Each slice decides for itself how best to answer its request.
 
-- A dead-simple feature? A transaction script with raw SQL. No Service, no Repository.
+- A dead-simple feature? A [transaction script](/blog/architecture-and-craftsmanship-in-the-ai-era/) with raw SQL. No Service, no Repository.
 - A feature with complex business rules? Bring out your finest elaborate designs (because they are useful here, not for show).
 
 Each feature uses exactly the complexity it needs.

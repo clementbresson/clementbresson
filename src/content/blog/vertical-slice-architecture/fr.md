@@ -39,7 +39,7 @@ Jusque-là, ce n'est qu'un déplacement de fichiers. La vraie idée arrive juste
 
 Chaque tranche décide par elle-même comment répondre au mieux à sa requête.
 
-- Une feature ultra simple ? Un transaction script avec du SQL direct. Pas de Service, pas de Repository.
+- Une feature ultra simple ? Un [transaction script](/fr/blog/architecture-and-craftsmanship-in-the-ai-era/) avec du SQL direct. Pas de Service, pas de Repository.
 - Une feature avec des règles métier complexes ? On peut sortir nos plus beaux designs complexes (parce que c'est utile ici, pas pour faire beau).
 
 Chaque feature utilise exactement la complexité dont elle a besoin.
