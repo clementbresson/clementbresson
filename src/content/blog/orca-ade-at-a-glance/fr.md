@@ -19,7 +19,7 @@ draft: false
 
 Tous mes repos visibles d'un coup d'œil.
 
-Pour chacun, créer et gérer des worktrees en quelques clics.
+Pour chacun, créer et gérer des [worktrees](/fr/blog/slow-down-to-go-10x/) en quelques clics.
 
 Dans chaque worktree, un agent qui travaille sur une instance isolée du programme (bon, ça, c'est parce que j'ai poussé la DX pour que ce soit possible sur tous mes projets).
 

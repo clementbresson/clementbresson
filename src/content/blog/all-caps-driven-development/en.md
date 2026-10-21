@@ -34,3 +34,5 @@ And there is one simple rule, far too often forgotten today: EVERYTHING that can
 It is faster, cheaper, and it might add a few years to your life expectancy.
 
 A rule set in a tool like dependency-cruiser or eslint-plugin-boundaries cannot be forgotten, bypassed out of fatigue, or misread. That is exactly [the difference between an intention and a constraint](/blog/architecture-rules-that-break-the-build/): written out in a prompt, the rule stays a pious wish; set in CI, it becomes impossible to cross.
+
+ALL-CAPS Driven Development is also often a symptom of a project that tried to go fast from day one, without building its harness. [Slowing down at the start](/blog/slow-down-to-go-10x/) to build up that tooling is what keeps you from ending up there.
