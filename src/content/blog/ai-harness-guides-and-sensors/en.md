@@ -54,3 +54,5 @@ An [ADR](/blog/architecture-decision-records/) is a guide in the same sense: a p
 A concrete account of what happens when you push these four boxes to their maximum: [zero hand-written lines of code](/blog/zero-hand-written-code-experiment/).
 
 Pushing that logic all the way draws the outline of a new job: the [Harness Engineer](/blog/harness-engineer-the-next-developer-role/).
+
+That same reinforcement, applied to a single import rule, [also lets you drop to a model 4 to 5 times cheaper](/blog/ai-harness-cheaper-models/) at equal quality.
