@@ -16,7 +16,7 @@ The one that provides the maximum number of rules a machine can verify, determin
 
 ## Verbosity is no longer the problem
 
-Structured architectures ([Clean Architecture](/blog/what-is-clean-architecture/), Hexagonal, DDD…) are often criticised for being verbose. With AI, that is less and less of a problem. The cost of writing is collapsing… while the cost of reading and verifying is exploding.
+Structured architectures ([Clean Architecture](/blog/what-is-clean-architecture/), Hexagonal, [DDD](/blog/architecture-and-craftsmanship-in-the-ai-era/)…) are often criticised for being verbose. With AI, that is less and less of a problem. The cost of writing is collapsing… while the cost of reading and verifying is exploding.
 
 That is where an ultra-standardised architecture becomes an asset, despite its potential verbosity.
 

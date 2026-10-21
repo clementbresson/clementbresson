@@ -27,7 +27,7 @@ Purely technical.
 
 ## 2. The Model in the program-design sense
 
-For instance the "domain model" in Eric Evans's DDD.
+For instance the "domain model" in Eric Evans's [DDD](/blog/architecture-and-craftsmanship-in-the-ai-era/).
 
 Here it has nothing to do with technology: the Model is the result of the exercise of modelling the business. Its concepts, its rules, its invariants.
 

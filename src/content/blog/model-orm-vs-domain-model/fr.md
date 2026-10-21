@@ -27,7 +27,7 @@ Pure technique.
 
 ## 2. Le Model au sens design de programme
 
-Par exemple dans le « domain model » d'Eric Evans, en DDD.
+Par exemple dans le « domain model » d'Eric Evans, en [DDD](/fr/blog/architecture-and-craftsmanship-in-the-ai-era/).
 
 Ici, rien à voir avec la technique : le Model est le résultat de l'exercice de modélisation du métier. Ses concepts, ses règles, ses invariants.
 

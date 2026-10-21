@@ -16,7 +16,7 @@ Celle qui apporte un maximum de règles vérifiables par une machine, de façon 
 
 ## La verbosité n’est plus le problème
 
-On reproche souvent aux architectures structurées ([Clean Architecture](/fr/blog/what-is-clean-architecture/), Hexagonale, DDD…) d’être verbeuses. Mais avec l’IA, cela devient de moins en moins un problème. Le coût d’écriture dégringole… pendant que celui de lire et vérifier explose.
+On reproche souvent aux architectures structurées ([Clean Architecture](/fr/blog/what-is-clean-architecture/), Hexagonale, [DDD](/fr/blog/architecture-and-craftsmanship-in-the-ai-era/)…) d’être verbeuses. Mais avec l’IA, cela devient de moins en moins un problème. Le coût d’écriture dégringole… pendant que celui de lire et vérifier explose.
 
 Et là, l’architecture ultra standardisée devient un atout, malgré sa potentielle verbosité.
 
