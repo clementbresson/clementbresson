@@ -10,7 +10,7 @@ It's quite likely.
 
 Indeed, the better agentic development models and tools get, the more the developer's role shifts up a level.
 
-Little by little, developers are leaving implementation details behind (where AI is already more relevant, and faster, than most developers), to move up to the level above: architecture, conventions, technical choices, business rules.
+Little by little, developers are leaving implementation details behind (where AI is already more relevant, and faster, than most developers), to move up to the level above: architecture, [conventions](/blog/boy-scout-rule/), technical choices, business rules.
 
 And when you barely write code by hand anymore (or not at all), there is ONE thing that acts as a guardrail for the models: the [Harness](/blog/ai-harness-guides-and-sensors/).
 

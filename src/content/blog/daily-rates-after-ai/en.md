@@ -22,7 +22,7 @@ The problem? With a few exceptions, the grid was based on years of experience, g
 
 And at every level you had a mix of bad and good developers.
 
-The bad one hurt the project: poor choices, technical debt with every commit. The good one helped enormously: less debt, good practices, training others.
+The bad one hurt the project: poor choices, technical debt with every commit. The good one helped enormously: less debt, [good practices](/blog/boy-scout-rule/), training others.
 
 ## Why it worked anyway
 
