@@ -10,7 +10,7 @@ C'est fort probable.
 
 En effet, plus les modèles et les outils de développement agentique s'améliorent, plus le rôle du développeur change de hauteur.
 
-Il quitte petit à petit les détails d'implémentation (pour lesquels l'IA est déjà plus pertinente, et plus rapide, que la majorité des développeurs), pour monter au niveau du dessus : l'architecture, les [conventions](/fr/blog/boy-scout-rule/), les choix techniques, les règles métier.
+Il quitte petit à petit les détails d'implémentation (pour lesquels l'IA est déjà plus pertinente, et plus rapide, que la majorité des développeurs), pour monter au niveau du dessus : [l'architecture](/fr/blog/the-maintenance-effort-formula/), les [conventions](/fr/blog/boy-scout-rule/), les choix techniques, les règles métier.
 
 Et quand on ne code presque plus (ou plus du tout) à la main, il y a UNE chose qui sert de garde-fou aux modèles : le [Harness](/fr/blog/ai-harness-guides-and-sensors/).
 
