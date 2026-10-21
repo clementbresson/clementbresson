@@ -67,3 +67,5 @@ PS : une règle qui passe ne dit pas que la règle est bonne. Réfléchir et fai
 J'ai poussé ce réflexe à l'extrême dans une [expérience à zéro ligne de code écrite à la main](/fr/blog/zero-hand-written-code-experiment/).
 
 À l'inverse, [écrire la règle en majuscules dans un prompt](/fr/blog/all-caps-driven-development/) ne la transforme jamais en contrainte.
+
+Le gain ne se limite pas à la qualité : [une contrainte vérifiable permet aussi d'utiliser un modèle bien moins cher](/fr/blog/ai-harness-cheaper-models/), sans perdre en fiabilité.

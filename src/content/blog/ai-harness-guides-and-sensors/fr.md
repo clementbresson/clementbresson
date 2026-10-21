@@ -54,3 +54,5 @@ Un [ADR](/fr/blog/architecture-decision-records/) est un guide au même sens : u
 Récit concret de ce que ça donne quand on pousse ces quatre cases à leur maximum : [zéro ligne de code écrite à la main](/fr/blog/zero-hand-written-code-experiment/).
 
 Pousser cette logique jusqu'au bout dessine un nouveau métier : le [Harness Engineer](/fr/blog/harness-engineer-the-next-developer-role/).
+
+Ce même renforcement, appliqué à une simple règle d'import, [permet aussi de descendre vers un modèle 4 à 5 fois moins cher](/fr/blog/ai-harness-cheaper-models/) à qualité égale.

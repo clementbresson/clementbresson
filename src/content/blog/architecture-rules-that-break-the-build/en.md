@@ -67,3 +67,5 @@ PS: a rule that passes does not mean the rule is good. Thinking and making the r
 I pushed this reflex to the extreme in a [zero hand-written code experiment](/blog/zero-hand-written-code-experiment/).
 
 Conversely, [writing the rule in capital letters in a prompt](/blog/all-caps-driven-development/) never turns it into a constraint.
+
+The gain is not just quality: [a verifiable constraint also lets you use a much cheaper model](/blog/ai-harness-cheaper-models/) without losing reliability.
