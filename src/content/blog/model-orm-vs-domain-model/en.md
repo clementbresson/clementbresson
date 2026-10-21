@@ -39,4 +39,4 @@ One word, in English as in French, for two things that have nothing in common.
 
 And the classic trap is to believe that because you've written your Prisma Models, you've modelled your business. No. You've described your tables.
 
-Keeping that clearly in mind avoids quite a few mistakes.
+Keeping that clearly in mind avoids quite a few mistakes, especially since [it's that business-sense Model that holds most of a project's value](/blog/the-value-is-in-the-business-rules/).

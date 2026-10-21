@@ -29,7 +29,7 @@ It's the moment to take the time to:
 - understand the project in depth
 - choose / [challenge the architecture](/blog/architecture-decision-records/)
 - decide what should be built, what shouldn't, and in what order
-- understand the business rules
+- understand [the business rules](/blog/the-value-is-in-the-business-rules/)
 - [map out the business domain](/blog/model-orm-vs-domain-model/)
 - look at what already exists and could be reused
 - ... and so on
