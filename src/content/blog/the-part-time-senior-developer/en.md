@@ -39,7 +39,7 @@ All of it for a fraction of a senior's monthly cost, since they work two to four
 
 ## In practice
 
-This is exactly the model I work with:
+This is exactly the [model I work with](/blog/part-time-support-for-ai-built-tools/):
 
 1. An intensive reset when needed: architecture, security, pipeline.
 2. Regular follow-up for the life of the project: one day a week, two days a month... it is flexible.

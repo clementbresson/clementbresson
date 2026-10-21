@@ -39,7 +39,7 @@ Le tout pour une fraction du coût mensuel d’un senior, puisqu’il travaille 
 
 ## Concrètement
 
-C’est exactement le modèle que je pratique :
+C’est exactement le [modèle que je pratique](/fr/blog/part-time-support-for-ai-built-tools/) :
 
 1. Un recadrage intensif si besoin : architecture, sécurité, pipeline.
 2. Un suivi régulier sur la durée du projet : un jour par semaine, deux jours par mois… c’est flexible.
