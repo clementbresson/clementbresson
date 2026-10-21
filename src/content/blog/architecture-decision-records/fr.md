@@ -35,4 +35,6 @@ Dans le dépôt, un dossier `docs/adr`, un fichier par décision, numéroté. Pa
 
 Contrairement à une [règle vérifiable par la CI](/fr/blog/architecture-rules-that-break-the-build/), l'ADR reste une intention. Mais une intention écrite, datée, que tout le monde peut retrouver.
 
+C'est aussi [l'histoire que le code seul ne raconte pas](/fr/blog/adr-the-history-ai-agents-need/) : pourquoi cette décision, et pas une autre.
+
 Bon designs !
