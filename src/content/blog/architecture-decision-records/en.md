@@ -11,6 +11,8 @@ sources:
 draft: false
 ---
 
+Writing an ADR means [slowing down at the right moment](/blog/the-first-week-without-code/), before you decide.
+
 An ADR, an Architecture Decision Record, is one page. Context, decision, consequences. Three paragraphs, no more.
 
 The idea comes from [Michael Nygard](https://www.cognitect.com/blog/2011/11/15/documenting-architecture-decisions), in 2011. It hasn't aged a day.

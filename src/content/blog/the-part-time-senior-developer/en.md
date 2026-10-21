@@ -26,7 +26,7 @@ But vibe-coding hits a wall fast:
 
 ## The fix: a senior, over time, part-time
 
-A senior who knows the trade, who can come in for one or two weeks at the start to straighten everything out, put a [harness](/blog/ai-harness-guides-and-sensors/) around the AI agents, set guidelines, build a clean CI/CD pipeline... so the projects can keep being vibe-coded. Yes, I am a senior who encourages the habit, and I own it.
+A senior who knows the trade, who can come in for one or two weeks at the start to straighten everything out, starting by [slowing down before writing a single line](/blog/the-first-week-without-code/), put a [harness](/blog/ai-harness-guides-and-sensors/) around the AI agents, set guidelines, build a clean CI/CD pipeline... so the projects can keep being vibe-coded. Yes, I am a senior who encourages the habit, and I own it.
 
 The results:
 

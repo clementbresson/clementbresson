@@ -31,7 +31,7 @@ Par exemple dans le « domain model » d'Eric Evans, en DDD.
 
 Ici, rien à voir avec la technique : le Model est le résultat de l'exercice de modélisation du métier. Ses concepts, ses règles, ses invariants.
 
-Il peut bien sûr être implémenté dans le code ensuite, mais il vit bien en amont : sur un schéma, sur un tableau blanc, dans des discussions orales avec le métier.
+Il peut bien sûr être implémenté dans le code ensuite, mais il vit bien en amont : sur un schéma, sur un tableau blanc, dans des discussions orales avec le métier, [le temps qu'il faut](/fr/blog/the-first-week-without-code/) avant de taper la moindre ligne.
 
 ## Le piège classique
 
