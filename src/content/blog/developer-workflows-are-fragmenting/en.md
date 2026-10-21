@@ -53,3 +53,5 @@ Here is where I personally stand:
 - Focus on the [harness](/blog/ai-harness-guides-and-sensors/) and a quick skim review, with a skill that auto-stages anything low-risk and leaves me to carefully review what matters most.
 
 And I would be very curious to hear about your own development setup. Whether it's a disaster or amazing, there are things we can all learn from each other.
+
+For a closer look at what Orca actually changes day to day, see [Orca: one glance at every repo, worktree and agent](/blog/orca-ade-at-a-glance/).
