@@ -43,7 +43,7 @@ Here we are no longer talking only about the database, but about 100% of the inf
 
 There are services that promise to handle level 3 for you: Neon, Nile, Supabase… A new database created in one second through an API, that costs nothing while it sleeps, and so on.
 
-It works very well, but your data lives with them: American companies. So even if the server is in Europe… the US can request the data.
+It works very well, but your data lives with them: American companies. So even if the server is in Europe… the US can request the data, under the [CLOUD Act](/blog/mini-data-center-for-smes/).
 
 These solutions can therefore be an option… unless you handle sensitive data (or you genuinely don't care… but that only lasts so long).
 
