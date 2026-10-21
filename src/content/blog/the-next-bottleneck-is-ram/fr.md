@@ -37,6 +37,6 @@ Autrement dit : l’outil qu’on veut utiliser fait exploser le prix de l’out
 
 Le fossé ne sera plus entre ceux qui savent utiliser l’IA et les autres.
 
-Il sera entre ceux qui peuvent en faire tourner cinq en parallèle et ceux qui en font tourner un.
+Il sera entre ceux qui peuvent en faire tourner [cinq en parallèle](/fr/blog/developer-workflows-are-fragmenting/) et ceux qui en font tourner un.
 
 Combien de RAM sur votre machine de travail aujourd’hui ? Et qui décide de la prochaine ?

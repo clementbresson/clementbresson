@@ -37,6 +37,6 @@ In other words: the tool we want to use is blowing up the price of the tool we n
 
 The gap will no longer be between those who know how to use AI and the others.
 
-It will be between those who can run five in parallel and those who run one.
+It will be between those who can [run five in parallel](/blog/developer-workflows-are-fragmenting/) and those who run one.
 
 How much RAM is in your work machine today? And who decides on the next one?

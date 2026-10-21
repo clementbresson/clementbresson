@@ -37,6 +37,6 @@ They also have to master a whole new area of knowledge: context management, long
 
 ## The final boss of development
 
-In short, the Harness Engineer is to development what the final boss is to a video game. The ultimate senior, able to run a horde of agents without sacrificing quality.
+In short, the Harness Engineer is to development what the final boss is to a video game. The ultimate senior, able to run [a horde of agents](/blog/developer-workflows-are-fragmenting/) without sacrificing quality.
 
 My bet: within a few months, this job title will be trending on LinkedIn :) — one more symptom of the [ongoing shift in the developer market](/blog/the-developer-market-is-shifting/).
