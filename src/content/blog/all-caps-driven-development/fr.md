@@ -34,3 +34,5 @@ Et il y a une règle toute simple, bien trop souvent oubliée aujourd'hui : TOUT
 C'est plus rapide, moins cher, et ça peut augmenter votre espérance de vie de quelques années.
 
 Une règle posée dans un outil comme dependency-cruiser ou eslint-plugin-boundaries ne peut pas être oubliée, contournée par lassitude ou mal interprétée. C'est exactement [la différence entre une intention et une contrainte](/fr/blog/architecture-rules-that-break-the-build/) : écrite en toutes lettres dans un prompt, la règle reste un vœu pieux ; posée dans la CI, elle devient infranchissable.
+
+Le Majuscules-Driven-Development est aussi souvent le symptôme d'un projet qui a voulu aller vite dès le départ, sans construire son harnais. [Ralentir au début](/fr/blog/slow-down-to-go-10x/) pour muscler cet outillage évite d'en arriver là.

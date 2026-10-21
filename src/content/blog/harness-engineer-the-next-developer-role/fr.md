@@ -26,7 +26,7 @@ Le Harness Engineer doit :
 
 - définir un cadre strict, savoir ce qu'il veut et ce qu'il ne veut pas
 - rendre un maximum de règles inviolables
-- repérer les écarts le plus tôt possible et corriger le harnais au fur et à mesure
+- repérer les écarts le plus tôt possible et [corriger le harnais au fur et à mesure](/fr/blog/slow-down-to-go-10x/)
 - traiter la [dette technique](/fr/blog/daily-rates-after-ai/) aussi vite qu'elle arrive
 
 ## Un nouveau pan de compétences

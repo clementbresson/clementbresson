@@ -26,7 +26,7 @@ The Harness Engineer has to:
 
 - define a strict framework, know what they want and what they don't
 - make as many rules as possible impossible to break
-- spot drift as early as possible and fix the harness as they go
+- spot drift as early as possible and [fix the harness as they go](/blog/slow-down-to-go-10x/)
 - deal with [technical debt](/blog/daily-rates-after-ai/) as fast as it shows up
 
 ## A whole new set of skills
