@@ -22,7 +22,7 @@ Le problème ? Sauf exception, la grille se basait sur les années d’expérien
 
 Et à chaque niveau, vous aviez un mix de mauvais et de bons développeurs.
 
-Le mauvais était néfaste pour le projet : mauvais choix, dette technique à chaque commit. Le bon aidait grandement : moins de dette, bonnes pratiques, formation des autres.
+Le mauvais était néfaste pour le projet : mauvais choix, dette technique à chaque commit. Le bon aidait grandement : moins de dette, [bonnes pratiques](/fr/blog/boy-scout-rule/), formation des autres.
 
 ## Pourquoi ça marchait quand même
 
