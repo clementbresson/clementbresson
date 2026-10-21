@@ -42,3 +42,5 @@ Donc avant d’empiler des agents sur une app générée en 3 semaines, faites r
 PS : dependency-cruiser est gratuit, open source, et s’installe en 10 minutes.
 
 C'est ce genre de capteur qui, empilé avec d'autres, m'a permis de tenter une [expérience à zéro ligne de code écrite à la main](/fr/blog/zero-hand-written-code-experiment/).
+
+Et c'est bien plus efficace que de [crier en majuscules dans votre prompt](/fr/blog/all-caps-driven-development/) pour qu'une règle d'import soit respectée.

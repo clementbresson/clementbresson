@@ -42,3 +42,5 @@ So before stacking agents on an app generated in 3 weeks, have someone who does 
 PS: dependency-cruiser is free, open source, and installs in 10 minutes.
 
 Sensors like this one, stacked with others, are what let me attempt a [zero hand-written code experiment](/blog/zero-hand-written-code-experiment/).
+
+And it works a lot better than [shouting in capital letters in your prompt](/blog/all-caps-driven-development/) to get an import rule respected.

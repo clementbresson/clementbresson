@@ -65,3 +65,5 @@ Un [ADR](/fr/blog/architecture-decision-records/) documente les intentions qui n
 PS : une règle qui passe ne dit pas que la règle est bonne. Réfléchir et faire les bons choix pour le contexte de chaque projet n’est pas en option.
 
 J'ai poussé ce réflexe à l'extrême dans une [expérience à zéro ligne de code écrite à la main](/fr/blog/zero-hand-written-code-experiment/).
+
+À l'inverse, [écrire la règle en majuscules dans un prompt](/fr/blog/all-caps-driven-development/) ne la transforme jamais en contrainte.
