@@ -49,4 +49,6 @@ It is the kind of good reflex to have, whether you are designing a system, codin
 
 The "source" plane is the one that a program's [dependency layers](/blog/what-is-a-layer-in-software-architecture/) carve up.
 
+This is also what makes a dependency more or less costly to evolve: Vlad Khononov turns it into one of the three variables in [his maintenance effort formula](/blog/the-maintenance-effort-formula/).
+
 Happy designing!

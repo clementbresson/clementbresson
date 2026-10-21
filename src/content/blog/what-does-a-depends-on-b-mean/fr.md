@@ -49,4 +49,6 @@ C'est le genre de bon réflexe à avoir, que ce soit quand on conçoit un systè
 
 Le plan « source » est celui que découpent les [couches de dépendances](/fr/blog/what-is-a-layer-in-software-architecture/) d'un programme.
 
+C'est aussi ce qui rend une dépendance plus ou moins coûteuse à faire évoluer : Vlad Khononov en fait une des trois variables de [sa formule de l'effort de maintenance](/fr/blog/the-maintenance-effort-formula/).
+
 Bon designs !
