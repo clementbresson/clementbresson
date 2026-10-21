@@ -65,3 +65,5 @@ An [ADR](/blog/architecture-decision-records/) documents the intentions that can
 PS: a rule that passes does not mean the rule is good. Thinking and making the right choices for each project's context is not optional.
 
 I pushed this reflex to the extreme in a [zero hand-written code experiment](/blog/zero-hand-written-code-experiment/).
+
+Conversely, [writing the rule in capital letters in a prompt](/blog/all-caps-driven-development/) never turns it into a constraint.
