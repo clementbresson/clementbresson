@@ -37,6 +37,6 @@ Il doit aussi maîtriser tout un nouveau pan de connaissances : gestion du conte
 
 ## Le boss final du dev
 
-Bref, le Harness Engineer est au développement ce que le boss final est au jeu vidéo. L'ultime senior, capable de faire travailler une horde d'agents sans sacrifier la qualité.
+Bref, le Harness Engineer est au développement ce que le boss final est au jeu vidéo. L'ultime senior, capable de faire travailler [une horde d'agents](/fr/blog/developer-workflows-are-fragmenting/) sans sacrifier la qualité.
 
 Mon pari : d'ici quelques mois, ce poste sera à la mode sur LinkedIn 🙂 — un symptôme de plus de la [mutation en cours du marché des développeurs](/fr/blog/the-developer-market-is-shifting/).
