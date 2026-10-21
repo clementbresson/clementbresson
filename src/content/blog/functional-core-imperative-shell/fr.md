@@ -43,4 +43,6 @@ Le core ne dit pas « envoie un mail ». Il retourne `{ kind: "send_reminder", t
 
 On écrit souvent des Services qui font les deux à la fois. Un `await db` en haut, trois `if` au milieu, un `await mailer` en bas. Impossible à tester sans mocker, impossible à couvrir en intégration.
 
+Cette même frontière entre décision et action, c'est aussi ce que sépare le [Result Pattern](/fr/blog/result-pattern-business-errors/) : une erreur métier est une décision, qui doit sortir sous forme de valeur plutôt que de throw.
+
 PS : le nom anglais, c'est « Functional Core / Imperative Shell ». Le talk complet dure 30 minutes, je ne peux que le recommander.
