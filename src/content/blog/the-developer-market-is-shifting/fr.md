@@ -33,4 +33,4 @@ Les développeurs à temps plein, souvent en CDI, vont devenir de plus en plus r
 
 Au final, comme lors de toutes les révolutions : un marché dégringole pendant qu’un autre s’ouvre.
 
-En revanche, les attentes sur les survivants de ce nouveau marché vont être énormes.
+En revanche, les attentes sur les survivants de ce nouveau marché vont être énormes : je les vois déjà se dessiner derrière un nouveau nom de poste, celui de [Harness Engineer](/fr/blog/harness-engineer-the-next-developer-role/).

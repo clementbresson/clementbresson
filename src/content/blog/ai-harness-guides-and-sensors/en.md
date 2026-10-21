@@ -52,3 +52,5 @@ A very [opinionated framework](/blog/opinionated-frameworks-as-ai-harnesses/) bu
 An [ADR](/blog/architecture-decision-records/) is a guide in the same sense: a page written before the decision is made, so a human or an AI reading the repo later finds the rules of the game for free.
 
 A concrete account of what happens when you push these four boxes to their maximum: [zero hand-written lines of code](/blog/zero-hand-written-code-experiment/).
+
+Pushing that logic all the way draws the outline of a new job: the [Harness Engineer](/blog/harness-engineer-the-next-developer-role/).

@@ -40,3 +40,5 @@ Attention, ça demande une rigueur tout aussi importante voire plus qu'avant. Ç
 Et ça crame beaucoup plus de tokens que je ne voudrais.
 
 Je vous tiendrai au courant des résultats !
+
+Ce rôle-là, celui qui cadre le harnais plutôt que d'écrire le code, a un nom qui monte : [Harness Engineer](/fr/blog/harness-engineer-the-next-developer-role/).

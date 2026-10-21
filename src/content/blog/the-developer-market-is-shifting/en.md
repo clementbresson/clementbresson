@@ -33,4 +33,4 @@ Full-time developers, often on permanent contracts, will become rarer and rarer.
 
 In the end, like in every revolution: one market collapses while another opens up.
 
-But the expectations placed on the survivors of this new market are going to be enormous.
+But the expectations placed on the survivors of this new market are going to be enormous: I already see them taking shape behind a new job title, the [Harness Engineer](/blog/harness-engineer-the-next-developer-role/).

@@ -40,3 +40,5 @@ Careful though, this demands just as much rigor as before, if not more. It burns
 And it burns a lot more tokens than I'd like.
 
 I'll keep you posted on the results!
+
+That role, framing the harness rather than writing the code, has a name on the rise: [Harness Engineer](/blog/harness-engineer-the-next-developer-role/).
