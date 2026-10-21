@@ -43,7 +43,7 @@ Là, on ne parle plus seulement de la base de données, mais de 100 % de l'infra
 
 Il y a les services qui promettent de gérer le niveau 3 pour vous : Neon, Nile, Supabase… Une nouvelle base créée en une seconde par API, qui ne coûte rien quand elle dort, etc.
 
-Ça marche très bien, mais vos données sont chez eux : des boîtes américaines. Donc même si le serveur est en Europe… les USA peuvent demander les data.
+Ça marche très bien, mais vos données sont chez eux : des boîtes américaines. Donc même si le serveur est en Europe… les USA peuvent demander les data, via le [CLOUD Act](/fr/blog/mini-data-center-for-smes/).
 
 Ces solutions peuvent donc être une option… sauf si vous manipulez des données sensibles (ou que vous vous en fichez totalement… mais bon, ça va bien deux minutes).
 
