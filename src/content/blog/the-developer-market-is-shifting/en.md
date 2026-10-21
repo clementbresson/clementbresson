@@ -29,7 +29,7 @@ What they will need is an expert who keeps pace with the technology and can come
 
 ## Conclusion
 
-Full-time developers, often on permanent contracts, will become rarer and rarer. But [experts for a few days a month](/blog/the-part-time-senior-developer/) will become the norm, and often as freelancers.
+Full-time developers, often on permanent contracts, will become rarer and rarer. But [experts for a few days a month](/blog/the-part-time-senior-developer/) will become the norm, and often as [freelancers](/blog/full-remote-freelance-only/).
 
 In the end, like in every revolution: one market collapses while another opens up.
 

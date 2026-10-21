@@ -47,4 +47,4 @@ This is exactly the model I work with:
 
 There is also a version of this where there is no risky vibe-code in-house at all, and the senior simply comes in a few days a month to update and maintain what needs it.
 
-This model answers a [broader shift in the developer market](/blog/the-developer-market-is-shifting/).
+This model answers a [broader shift in the developer market](/blog/the-developer-market-is-shifting/), and the best of these part-time seniors increasingly [work full remote only](/blog/full-remote-freelance-only/).
