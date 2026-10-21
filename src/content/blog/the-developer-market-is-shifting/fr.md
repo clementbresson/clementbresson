@@ -29,7 +29,7 @@ En revanche, elles auront besoin d’un expert qui évolue au rythme des technol
 
 ## Conclusion
 
-Les développeurs à temps plein, souvent en CDI, vont devenir de plus en plus rares. Mais les [experts quelques jours par mois](/fr/blog/the-part-time-senior-developer/) vont devenir la norme, et souvent en freelance.
+Les développeurs à temps plein, souvent en CDI, vont devenir de plus en plus rares. Mais les [experts quelques jours par mois](/fr/blog/the-part-time-senior-developer/) vont devenir la norme, et souvent en [freelance](/fr/blog/full-remote-freelance-only/).
 
 Au final, comme lors de toutes les révolutions : un marché dégringole pendant qu’un autre s’ouvre.
 

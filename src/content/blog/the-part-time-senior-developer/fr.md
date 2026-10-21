@@ -47,4 +47,4 @@ C’est exactement le modèle que je pratique :
 
 Il y a aussi un monde possible où il n’y a aucun vibe-code dangereux en interne, et où le senior intervient juste quelques jours par mois pour mettre à jour et maintenir ce qui doit l’être.
 
-Ce modèle répond à une [mutation plus large du marché des développeurs](/fr/blog/the-developer-market-is-shifting/).
+Ce modèle répond à une [mutation plus large du marché des développeurs](/fr/blog/the-developer-market-is-shifting/), et les meilleurs de ces seniors à temps partiel travaillent de plus en plus [en full remote uniquement](/fr/blog/full-remote-freelance-only/).
