@@ -32,7 +32,7 @@ The results:
 
 - an architecture that fits
 - regular course corrections
-- an eye kept on security
+- an eye kept on [security](/blog/the-first-deploy-is-only-the-start/)
 - a real senior over the long run
 
 All of it for a fraction of a senior's monthly cost, since they work two to four days a month on the project.

@@ -32,7 +32,7 @@ Résultats :
 
 - une architecture adaptée
 - un recadrage régulier
-- un œil gardé sur la sécurité
+- un œil gardé sur [la sécurité](/fr/blog/the-first-deploy-is-only-the-start/)
 - un vrai senior sur la durée
 
 Le tout pour une fraction du coût mensuel d’un senior, puisqu’il travaille deux à quatre jours par mois sur le projet.
