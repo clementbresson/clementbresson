@@ -18,13 +18,13 @@ En quelques semaines, sans le chercher, j’ai croisé cinq profils quasi identi
 
 Tous sont arrivés jusqu’à moi d’une façon ou d’une autre : en direct, par mise en relation, par message.
 
-Et tous voulaient la même chose : un développeur qui surveille leurs arrières. Mais **pas** à plein temps.
+Et tous voulaient la même chose : [un développeur qui surveille leurs arrières](/fr/work-with-me/). Mais **pas** à plein temps.
 
 Et ça, c’est quand même intéressant.
 
 ## Un créneau qui prend tout son sens
 
-Le [créneau « dev un jour par semaine »](/fr/work-with-me/) était super rare avant. Il prend tout son sens maintenant que beaucoup avancent sans dev, et que le dev devient un consultant qui accompagne.
+Le créneau « dev un jour par semaine » était super rare avant. Il prend tout son sens maintenant que beaucoup avancent sans dev, et que le dev devient un consultant qui accompagne.
 
 Je me lance donc à 100 % dessus : [accompagner ceux qui avancent sans dev mais veulent un pro qui vérifie régulièrement](/fr/blog/the-part-time-senior-developer/).
 

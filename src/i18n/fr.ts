@@ -5,10 +5,10 @@ export const fr: Copy = {
   ogLocale: "fr_FR",
   metaTitle: "Clément Bresson — Tech Lead en temps partagé",
   metaDescription:
-    "Un ingénieur fullstack senior sur votre projet 1 à 2 jours par semaine, sur la durée. Architecture, revues de code, harnais IA, design system.",
+    "Un ingénieur fullstack senior sur votre projet de 1 à 5 jours par semaine, selon vos besoins. Architecture, revues de code, harnais IA, design system.",
   name: "Clément Bresson",
   title: "Tech Lead en temps partagé",
-  p1: "Un ingénieur fullstack senior sur votre projet, 1 à 2 jours par semaine, aussi longtemps que nécessaire. La même personne, de confiance, sur des mois, sans le coût d’un temps plein.",
+  p1: "Un ingénieur fullstack senior sur votre projet, de 1 à 5 jours par semaine selon vos besoins. La même personne, de confiance, aussi longtemps que nécessaire.",
   p2: "12 ans à livrer des produits. Deux fois ingénieur fondateur. Un diplôme ESSEC avant cela.",
   p3: "Je fais ce dont le projet a besoin ce mois-là : architecture, revues de code, encadrer les devs, conseiller sur la direction, construire des harnais IA, créer un design system solide, implémenter des fonctionnalités.",
   p4: "Parlons-en. Toujours un plaisir d’échanger sur le code et les projets.",
@@ -25,19 +25,17 @@ export const fr: Copy = {
     metaTitle:
       "CTO / Tech lead à temps partagé à l’ère de l’IA — Clément Bresson",
     metaDescription:
-      "Produit vibe-codé ou équipe qui adopte les agents IA ? Un tech lead senior 1 à 2 jours par semaine : architecture, harnais IA, revues de code, sécurité.",
+      "Produit vibe-codé ou équipe qui adopte les agents IA ? Un tech lead senior de 1 à 5 jours par semaine : architecture, harnais IA, revues de code, sécurité.",
     heading:
       "Un tech lead à temps partagé pour les produits construits avec l’IA",
     intro:
-      "Un ingénieur fullstack senior sur votre projet, 1 à 2 jours par semaine, aussi longtemps que nécessaire. 12 ans à livrer des produits, deux fois ingénieur fondateur. Vous continuez d’avancer vite avec l’IA ; je m’assure que ce que vous construisez tient.",
+      "Un ingénieur fullstack senior sur votre projet, de 1 à 5 jours par semaine selon vos besoins, aussi longtemps que nécessaire. 12 ans à livrer des produits, deux fois ingénieur fondateur. Vous continuez d’avancer vite avec l’IA ; je m’assure que ce que vous construisez tient.",
     forTitle: "Pour qui",
     forItems: [
       "Les fondateurs et dirigeants de PME, un peu techniques, qui ont vibe-codé un produit et en voient les limites : bugs incompréhensibles, premiers clients payants, questions de sécurité.",
       "Les petites équipes de dev qui adoptent Claude Code, Codex ou d’autres agents, et veulent la vitesse sans perdre le contrôle de la codebase.",
-      "Les entreprises dont le logiciel sert le métier, qui n’ont pas besoin d’un senior à temps plein, mais d’un vrai.",
+      "Les entreprises dont le logiciel sert le métier, et qui ont besoin d’un vrai senior dessus, quel que soit le rythme.",
     ],
-    notFor:
-      "Pas adapté si vous cherchez quelqu’un à temps plein, ou sur site plusieurs jours par semaine.",
     howTitle: "Comment ça marche",
     steps: [
       {
@@ -48,7 +46,7 @@ export const fr: Copy = {
       },
       {
         title: "2. Le suivi",
-        body: "Pendant toute la vie du projet, au rythme dont il a besoin : un jour par semaine, deux jours par mois. Revues de code, décisions d’architecture, encadrement des devs, contrôles de sécurité et de performance, débogage de l’incompréhensible, et la veille IA pour que vous n’y passiez pas vos soirées.",
+        body: "Pendant toute la vie du projet, au rythme dont il a besoin : de 1 à 5 jours par semaine, selon vos besoins. Revues de code, décisions d’architecture, encadrement des devs, contrôles de sécurité et de performance, débogage de l’incompréhensible, et la veille IA pour que vous n’y passiez pas vos soirées.",
         more: "Le développeur senior à temps partiel",
         path: "blog/the-part-time-senior-developer/",
       },
@@ -59,7 +57,7 @@ export const fr: Copy = {
     faq: [
       {
         q: "Tech lead ou CTO à temps partagé ?",
-        a: "Même idée : un senior, à temps partiel, sur des mois. Je dis tech lead parce que je reste dans le code : architecture, revues, harnais, et fonctionnalités quand il le faut, pas seulement la stratégie.",
+        a: "Même idée : un senior sur votre projet pendant des mois, pour les jours dont vous avez besoin. Je dis tech lead parce que je reste dans le code : architecture, revues, harnais, et fonctionnalités quand il le faut, pas seulement la stratégie.",
       },
       {
         q: "Faut-il arrêter de vibe-coder ?",
@@ -87,11 +85,11 @@ export const fr: Copy = {
       harness:
         "Je mets en place ce type de harnais pour les équipes qui travaillent avec des agents IA : règles d’architecture dans la CI, CLAUDE.md, tests qui attrapent ce que l’agent casse.",
       architecture:
-        "J’aide les équipes à garder une codebase simple à faire évoluer sur des mois : architecture, tests, revues de code. En tech lead à temps partagé, 1 à 2 jours par semaine.",
+        "J’aide les équipes à garder une codebase simple à faire évoluer sur des mois : architecture, tests, revues de code. En tech lead à temps partagé, de 1 à 5 jours par semaine.",
       fractional:
-        "C’est comme ça que je travaille : un tech lead senior sur votre projet, 1 à 2 jours par semaine, aussi longtemps que nécessaire.",
+        "C’est comme ça que je travaille : un tech lead senior sur votre projet, de 1 à 5 jours par semaine selon vos besoins, aussi longtemps que nécessaire.",
       default:
-        "Je travaille en tech lead à temps partagé : un ingénieur senior sur votre projet, 1 à 2 jours par semaine. Toujours un plaisir d’échanger sur le code et les projets.",
+        "Je travaille en tech lead à temps partagé : un ingénieur senior sur votre projet, de 1 à 5 jours par semaine selon vos besoins. Toujours un plaisir d’échanger sur le code et les projets.",
     },
     howIWork: "Comment je travaille",
     email: "M’écrire",

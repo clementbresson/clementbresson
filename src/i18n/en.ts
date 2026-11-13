@@ -5,10 +5,10 @@ export const en: Copy = {
   ogLocale: "en_US",
   metaTitle: "Clément Bresson — Fractional Tech Lead",
   metaDescription:
-    "A senior fullstack engineer on your project 1–2 days a week, for as long as you need. Architecture, code reviews, AI harnesses, design systems.",
+    "A senior fullstack engineer on your project 1 to 5 days a week, depending on your needs. Architecture, code reviews, AI harnesses, design systems.",
   name: "Clément Bresson",
   title: "Fractional Tech Lead",
-  p1: "A senior fullstack engineer on your project, 1–2 days a week, for as long as you need. Same person you can trust, over months, without the full-time cost.",
+  p1: "A senior fullstack engineer on your project, 1 to 5 days a week depending on your needs. The same person you can trust, for as long as you need.",
   p2: "12 years shipping products. Founding engineer twice. An ESSEC business degree before that.",
   p3: "I do whatever the project needs that month: architecture, code reviews, leading the devs, advising on direction, building AI harnesses, creating a strong design system, implementing features.",
   p4: "Let’s talk. Always a pleasure to discuss code and projects.",
@@ -25,18 +25,16 @@ export const en: Copy = {
     metaTitle:
       "Fractional Tech Lead for products built with AI — Clément Bresson",
     metaDescription:
-      "Vibe-coded a product or adopting AI coding agents? A senior tech lead 1–2 days a week: architecture, AI harnesses, code reviews, security. Full remote.",
+      "Vibe-coded a product or adopting AI coding agents? A senior tech lead 1 to 5 days a week: architecture, AI harnesses, code reviews, security. Full remote.",
     heading: "A fractional tech lead for products built with AI",
     intro:
-      "A senior fullstack engineer on your project, 1–2 days a week, for as long as you need. 12 years shipping products, founding engineer twice. You keep moving fast with AI; I make sure what you build holds.",
+      "A senior fullstack engineer on your project, 1 to 5 days a week depending on your needs, for as long as you need. 12 years shipping products, founding engineer twice. You keep moving fast with AI; I make sure what you build holds.",
     forTitle: "Who it is for",
     forItems: [
       "Founders and small business owners, a bit technical, who vibe-coded a product and now see the limits: bugs nobody understands, first paying customers, security questions.",
       "Small dev teams adopting Claude Code, Codex or other coding agents, who want the speed without losing control of the codebase.",
-      "Companies whose software supports the business and does not need a full-time senior, but does need a real one.",
+      "Companies whose software supports the business and that need a real senior on it, whatever the rhythm.",
     ],
-    notFor:
-      "Not a fit if you need someone full-time, or on site several days a week.",
     howTitle: "How it works",
     steps: [
       {
@@ -47,7 +45,7 @@ export const en: Copy = {
       },
       {
         title: "2. The follow-up",
-        body: "For the life of the project, at the rhythm it needs: one day a week, two days a month. Code reviews, architecture decisions, leading the devs, security and performance checks, debugging the incomprehensible, and the AI watch so you do not spend your evenings on it.",
+        body: "For the life of the project, at the rhythm it needs: from 1 to 5 days a week, depending on your needs. Code reviews, architecture decisions, leading the devs, security and performance checks, debugging the incomprehensible, and the AI watch so you do not spend your evenings on it.",
         more: "The part-time senior developer",
         path: "blog/the-part-time-senior-developer/",
       },
@@ -58,7 +56,7 @@ export const en: Copy = {
     faq: [
       {
         q: "Fractional tech lead or fractional CTO?",
-        a: "Same idea: a senior, part-time, over months. I say tech lead because I stay hands-on: architecture, reviews, harnesses, and features when needed, not only strategy.",
+        a: "Same idea: a senior on your project over months, for the days you need. I say tech lead because I stay hands-on: architecture, reviews, harnesses, and features when needed, not only strategy.",
       },
       {
         q: "Do I have to stop vibe-coding?",
@@ -86,11 +84,11 @@ export const en: Copy = {
       harness:
         "I set up harnesses like this for teams working with AI coding agents: architecture rules in CI, CLAUDE.md, tests that catch what the agent breaks.",
       architecture:
-        "I help teams keep their codebase simple to change over months: architecture, tests, code reviews. As a fractional tech lead, 1–2 days a week.",
+        "I help teams keep their codebase simple to change over months: architecture, tests, code reviews. As a fractional tech lead, 1 to 5 days a week.",
       fractional:
-        "This is how I work: a senior tech lead on your project, 1–2 days a week, for as long as you need.",
+        "This is how I work: a senior tech lead on your project, 1 to 5 days a week depending on your needs, for as long as you need.",
       default:
-        "I work as a fractional tech lead: a senior engineer on your project, 1–2 days a week. Always happy to talk code and projects.",
+        "I work as a fractional tech lead: a senior engineer on your project, 1 to 5 days a week depending on your needs. Always happy to talk code and projects.",
     },
     howIWork: "How I work",
     email: "Email me",

@@ -79,7 +79,7 @@ Opportunity 1–5 combines demand, difficulty for a new domain, and buyer intent
 
 ### Phase 1 — Conversion layer (weeks 1–3, code in this repo)
 
-1. **Work-with-me page** (`/work-with-me/`, `/fr/work-with-me/`, same slug per the site's locale convention): who it's for / not for, the format (1–2 days/week, minimum duration), the four areas, how the first two weeks go, a price anchor, availability ("one slot from January"), FAQ (vs fractional CTO, vs agency, vs full-time hire), CTA.
+1. **Work-with-me page** (`/work-with-me/`, `/fr/work-with-me/`, same slug per the site's locale convention): who it's for, the format (1 to 5 days a week depending on needs, over months), the four areas, how the first two weeks go, a price anchor, availability ("one slot from January"), FAQ (vs fractional CTO, vs agency, vs full-time hire), CTA.
 2. **Entry step: the reset.** Every engagement starts with one or two weeks of understanding and foundations, ending with a full written report within two weeks; it can also be bought alone as an audit. Not marketed as a separate product, no price shown (see Decisions).
 3. **A contextual CTA in every article**, chosen from the tags: a harness article ends with "I set this up for teams → audit", an architecture article with "I review architectures → work with me", etc. In-text and contextual beats a generic banner.
 4. **Author box** under each article: photo, one line of positioning, LinkedIn + email + booking. It also strengthens the author entity for LLMs.
@@ -163,6 +163,7 @@ Skip for now: Ahrefs Lite (€119/mo) and Semrush (€134/mo) — not enough dat
 
 Taken (2026-11-13):
 
+- **Rhythm: 1 to 5 days a week, depending on the client's needs.** No wording that turns a lead away (no "not a fit", no "part-time only"); full remote is stated as a fact, not an exclusion.
 - **No published rates**, anywhere: not on the site, not for the audit. Pricing questions get "tell me about your project".
 - **The audit is not sold as a product.** It is the first step of every engagement (the reset) and can be bought alone, mentioned in one line on the work-with-me page. Internal floor: from €2,500, full written report within two weeks.
 - **Two buyer personas**, from the clients described in the blog: semi-technical founders and SME owners who vibe-coded a product and hit the wall; small dev teams adopting AI coding agents.

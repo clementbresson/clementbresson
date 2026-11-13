@@ -29,7 +29,6 @@ export interface Copy {
     intro: string;
     forTitle: string;
     forItems: string[];
-    notFor: string;
     howTitle: string;
     steps: { title: string; body: string; more: string; path: string }[];
     auditOnly: string;
