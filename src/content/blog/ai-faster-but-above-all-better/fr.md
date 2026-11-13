@@ -9,7 +9,7 @@ draft: false
 
 Avec l'IA on va plus vite, oui.
 
-Mais surtout : on peut faire **mieux**.
+Mais surtout : [on peut faire **mieux**](/fr/blog/ai-to-build-something-new/).
 
 C'est là que ça se joue. Et je vois trop peu de gens en parler.
 

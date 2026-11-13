@@ -9,7 +9,7 @@ draft: false
 
 With AI we go faster, yes.
 
-But above all: we can do **better**.
+But above all: [we can do **better**](/blog/ai-to-build-something-new/).
 
 That's where the game is played. And I see too few people talking about it.
 
