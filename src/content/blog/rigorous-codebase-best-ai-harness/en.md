@@ -11,7 +11,7 @@ Do you know the best AI "[harness](/blog/ai-harness-guides-and-sensors/)" everyo
 
 [A codebase with a rigorous architecture](/work-with-me/). Simple as that.
 
-Whatever your preferences: pure DDD, TDD, hexagonal architecture, your in-house conventions... What matters is rigour. **Maximum rigour.**
+Whatever your preferences: pure DDD, TDD, [hexagonal architecture](/blog/hexagonal-architecture-ports-and-adapters/), your in-house conventions... What matters is rigour. **Maximum rigour.**
 
 It is **the** best way to get an AI let loose in your codebase to follow your way of doing things. Bonus: it is also much faster for you to check afterwards, because you are on familiar ground.
 

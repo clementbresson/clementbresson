@@ -64,7 +64,7 @@ Et la vraie VSA recommande de ne partager entre les features que le strict minim
 À l'idée d'avoir une architecture unique imposée à l'entièreté d'un programme.
 
 - Pas de [Clean Architecture](/fr/blog/what-is-clean-architecture/) + DDD partout.
-- Pas d'Architecture Hexagonale partout.
+- Pas d'[Architecture Hexagonale](/fr/blog/hexagonal-architecture-ports-and-adapters/) partout.
 - Pas de Transaction Script partout (quelqu'un a déjà essayé ?).
 
 Sur ton projet actuel, est-ce que l'architecture choisie (en espérant qu'il y en ait une) est pertinente partout ?

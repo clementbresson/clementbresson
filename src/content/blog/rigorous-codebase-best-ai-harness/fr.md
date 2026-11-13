@@ -11,7 +11,7 @@ Vous connaissez le meilleur « [harness](/fr/blog/ai-harness-guides-and-sensors/
 
 [Une codebase à l'architecture rigoureuse](/fr/work-with-me/). Tout simplement.
 
-Peu importe vos préférences : DDD pur, TDD, archi hexagonale, vos conventions maison... L'important, c'est la rigueur. **Maximale.**
+Peu importe vos préférences : DDD pur, TDD, [archi hexagonale](/fr/blog/hexagonal-architecture-ports-and-adapters/), vos conventions maison... L'important, c'est la rigueur. **Maximale.**
 
 C'est **la** meilleure façon pour qu'une IA lâchée dans votre codebase suive votre façon de faire. Bonus : c'est aussi beaucoup plus rapide à vérifier pour vous derrière, car vous êtes en terrain connu.
 

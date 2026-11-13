@@ -64,7 +64,7 @@ Et si demain on ne veut plus PostgreSQL mais MongoDB, on remplace `PostgresUserR
 
 ## Quelques précisions sur la vision de Palermo
 
-1. Il le dit lui-même : il n'invente rien. Il propose un nouveau nom pour parler d'un concept d'architecture existant. Il cite notamment l'Architecture Hexagonale de Cockburn, avec laquelle il dit partager l'externalisation des considérations technologiques.
+1. Il le dit lui-même : il n'invente rien. Il propose un nouveau nom pour parler d'un concept d'architecture existant. Il cite notamment l'[Architecture Hexagonale](/fr/blog/hexagonal-architecture-ports-and-adapters/) de Cockburn, avec laquelle il dit partager l'externalisation des considérations technologiques.
 2. Malgré ses schémas, les couches intermédiaires ne sont que des exemples. Seuls comptent vraiment la couche Métier, la couche Infrastructure et le concept d'Application Core.
 3. Il n'impose rien pour la couche Métier. On peut faire une Onion Architecture avec du DDD à l'intérieur, ou pas. C'est indépendant.
 

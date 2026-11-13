@@ -64,7 +64,7 @@ And if tomorrow you want MongoDB instead of PostgreSQL, you replace `PostgresUse
 
 ## A few clarifications on Palermo's view
 
-1. He says it himself: he is not inventing anything. He is proposing a new name for an existing architectural concept. He notably cites Cockburn's Hexagonal Architecture, with which he says he shares the idea of pushing technology concerns outward.
+1. He says it himself: he is not inventing anything. He is proposing a new name for an existing architectural concept. He notably cites Cockburn's [Hexagonal Architecture](/blog/hexagonal-architecture-ports-and-adapters/), with which he says he shares the idea of pushing technology concerns outward.
 2. Despite his diagrams, the intermediate layers are only examples. What really matters is the Business layer, the Infrastructure layer and the concept of an Application Core.
 3. He imposes nothing on the Business layer. You can do Onion Architecture with DDD inside, or without. The two are independent.
 
