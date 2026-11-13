@@ -41,7 +41,7 @@ Et ce, grâce à la context map (la cartographie de vos bounded contexts et de l
 
 On est ici à un niveau **stratégique**. Et pour nous autres développeurs, ça semble trop souvent « peu important ».
 
-Pourtant, cette analyse est absolument clé : pour comprendre ce qu'on fait, repérer des problèmes et les fixer (ou les éviter), savoir où utiliser quel pattern et pourquoi (et pas « à l'instinct »). C'est ce niveau stratégique que [j'apporte aux équipes que j'accompagne](/fr/work-with-me/).
+Pourtant, cette analyse est absolument clé : pour comprendre ce qu'on fait, [repérer des problèmes](/fr/blog/ai-review-of-bounded-contexts/) et les fixer (ou les éviter), savoir où utiliser quel pattern et pourquoi (et pas « à l'instinct »). C'est ce niveau stratégique que [j'apporte aux équipes que j'accompagne](/fr/work-with-me/).
 
 Au final, le code derrière :
 

@@ -41,7 +41,7 @@ All thanks to the context map (the map of your bounded contexts and their relati
 
 We are at a **strategic** level here. And for us developers, it too often seems "not that important".
 
-Yet this analysis is absolutely key: to understand what you are doing, spot problems and fix them (or avoid them), and know where to use which pattern and why (rather than "by instinct"). That strategic level is [what I bring to the teams I support](/work-with-me/).
+Yet this analysis is absolutely key: to understand what you are doing, [spot problems](/blog/ai-review-of-bounded-contexts/) and fix them (or avoid them), and know where to use which pattern and why (rather than "by instinct"). That strategic level is [what I bring to the teams I support](/work-with-me/).
 
 In the end, the code behind it:
 
