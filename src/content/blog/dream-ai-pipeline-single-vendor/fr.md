@@ -33,3 +33,5 @@ Le tout absolument parfaitement, sans aucune supervision humaine, 100 % via les 
 ... et là, [Anthropic](https://www.anthropic.com/) se foire dans une mise à jour et pendant 3 jours les agents deviennent totalement bêtes.
 
 Bon courage.
+
+Voilà pourquoi je garde toujours [un humain dans la boucle](/fr/work-with-me/).

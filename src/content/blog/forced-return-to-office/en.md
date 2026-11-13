@@ -19,4 +19,4 @@ So you are not losing people who "prefer their couch and pyjamas", you are losin
 
 In short, by forcing RTO in 2026, you lose resilience at a time when it is becoming critical, and you lose the best profiles. A management aberration.
 
-PS: full remote teams can have an excellent culture, very strong bonds and excellent collaboration. But it takes work, and it doesn't happen in a rush once you've hit the wall.
+PS: full remote teams can have an excellent culture, very strong bonds and excellent collaboration. But it takes work, and it doesn't happen in a rush once you've hit the wall. Full remote is also [my own daily setup](/work-with-me/).

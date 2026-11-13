@@ -41,4 +41,4 @@ One module reaches into the internals of another. The worst. Run away from it. W
 
 Can you think of others?
 
-The goal isn't to remove 100% of coupling (impossible), but to contain it and keep it under control.
+The goal isn't to remove 100% of coupling (impossible), but to [contain it and keep it under control](/work-with-me/).

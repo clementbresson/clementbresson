@@ -33,3 +33,5 @@ All of it absolutely perfectly, without any human supervision, 100% through [Cla
 ... and then [Anthropic](https://www.anthropic.com/) botches an update, and for 3 days the agents become completely dumb.
 
 Good luck.
+
+That's why I always keep [a human in the loop](/work-with-me/).

@@ -21,4 +21,6 @@ Pour être sûr que [Claude Code](https://claude.com/product/claude-code) a lu a
 
 => S'il te dit bonjour personnellement, c'est que c'est bon !
 
+Ce petit garde-fou finit dans [chaque setup Claude Code que je configure](/fr/work-with-me/).
+
 PS : la même technique peut être utilisée de plein de façons créatives, mais le concept reste le même :)

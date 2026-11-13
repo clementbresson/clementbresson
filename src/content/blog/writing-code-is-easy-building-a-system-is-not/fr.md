@@ -9,4 +9,4 @@ draft: false
 
 Aujourd'hui, écrire du code est devenu facile avec l'IA, comme apprendre à écrire quand on est enfant.
 
-Mais construire un vrai système complexe, cohérent et qui tient dans le temps, ça reste aussi difficile que d'écrire un chef-d'œuvre littéraire.
+Mais [construire un vrai système](/fr/work-with-me/) complexe, cohérent et qui tient dans le temps, ça reste aussi difficile que d'écrire un chef-d'œuvre littéraire.

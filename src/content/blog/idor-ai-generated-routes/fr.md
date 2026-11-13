@@ -36,3 +36,5 @@ Résultat : l'id dans l'URL sert de preuve d'identité. Sauf qu'un id, c'est jus
 Tu vois les données de B ?
 
 ⇒ **Tout le monde** voit tout. Tes clients voient les factures des autres clients.
+
+Cette faille fait partie des premières [que je traque quand j'ouvre le code d'une app](/fr/work-with-me/).

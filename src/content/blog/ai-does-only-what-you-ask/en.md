@@ -22,3 +22,5 @@ Someone for whom this isn't their job rarely asks it:
 The result? Something that works and looks perfect on the surface…
 
 … but is riddled with problems!
+
+Asking those questions is [precisely my job](/work-with-me/).

@@ -23,4 +23,6 @@ If you get any results, that is not a good sign…
 
 AI loves putting keys wherever they work. Except that wherever they work = in the bundle = on everyone's machine, in public.
 
+I run this search on [every app I'm handed](/work-with-me/).
+
 PS: `sk_live_` in the page source is your [Stripe](https://docs.stripe.com/keys) key, free for the taking. Check that one first.

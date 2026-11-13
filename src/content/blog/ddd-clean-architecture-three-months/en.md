@@ -26,6 +26,6 @@ My take after three solid months of intensive DDD + [Clean Architecture](/blog/w
 
 ## Verdict
 
-All in all, after a complete refactor of a codebase, I think I would struggle to do without it on my next project.
+All in all, after a complete refactor of a codebase, I think I would struggle to do without it [on my next project](/work-with-me/).
 
 **Approved!**

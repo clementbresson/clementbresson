@@ -27,6 +27,8 @@ Mais ouvrez une conversation avec un contexte neuf (sans ego :) et demandez d'é
 
 Et autant elle fait parfois du zèle, autant parfois on peut avoir des sueurs…
 
+Ce deuxième avis, d'une IA ou d'un humain, [c'est un réflexe que je ne saute jamais](/fr/work-with-me/).
+
 En résumé : gardez la maîtrise ! C'est vous le patron.
 
 PS : l'étude portait sur 47 **vrais** devs. Imaginez le score avec quelqu'un qui ne lit pas le code du tout :)

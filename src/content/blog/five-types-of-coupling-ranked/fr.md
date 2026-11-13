@@ -41,4 +41,4 @@ Un module accède aux internals d'un autre. Le pire. À fuir. Quand ça arrive, 
 
 Vous en voyez d'autres ?
 
-Le but n'étant pas de retirer 100 % du couplage (impossible), mais de le cantonner et de le maîtriser.
+Le but n'étant pas de retirer 100 % du couplage (impossible), mais de [le cantonner et de le maîtriser](/fr/work-with-me/).

@@ -9,7 +9,7 @@ draft: false
 
 Vous connaissez le meilleur « [harness](/fr/blog/ai-harness-guides-and-sensors/) » IA dont tout le monde parle ?
 
-Une codebase à l'architecture rigoureuse. Tout simplement.
+[Une codebase à l'architecture rigoureuse](/fr/work-with-me/). Tout simplement.
 
 Peu importe vos préférences : DDD pur, TDD, archi hexagonale, vos conventions maison... L'important, c'est la rigueur. **Maximale.**
 

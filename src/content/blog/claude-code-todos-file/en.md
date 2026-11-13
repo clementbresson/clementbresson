@@ -24,4 +24,6 @@ The idea: one very simple instruction in your [CLAUDE.md](https://code.claude.co
 
 The result: between two tasks, you have a memo of small things to clean up. And in the AI era, a clean, strict codebase is still the [best harness you can get](/blog/rigorous-codebase-best-ai-harness/).
 
+I add this rule to [the CLAUDE.md of every project I take on](/work-with-me/).
+
 PS: this is not a replacement for [Linear](https://linear.app/) or anything else. Just a space for what doesn't deserve a ticket, a quick memo so you don't forget.

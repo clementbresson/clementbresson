@@ -38,4 +38,6 @@ Last year, 170+ [Lovable](https://docs.lovable.dev/introduction) apps had their 
 
 ⇒ A table with no policy = a public table.
 
+RLS sits near the top of [what I look at on a Supabase project](/work-with-me/).
+
 You're welcome :)

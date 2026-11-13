@@ -25,4 +25,4 @@ PPS : Si ça se trouve, on pointe tous à [France Travail](https://www.francetra
 
 PPPS : Enfin, pour ceux qui sont en CDI.
 
-PPPPS : Je suis en freelance.
+PPPPS : [Je suis en freelance](/fr/work-with-me/).

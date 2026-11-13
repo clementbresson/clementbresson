@@ -22,6 +22,8 @@ C'est quoi cette nouvelle mode du :
 
 ...mais imposer d'être physiquement quelque part pour du vrai full remote, c'est absurde.
 
+Je suis moi-même [freelance en full remote](/fr/work-with-me/).
+
 Curieux d'avoir vos avis (notamment ceux des recruteurs).
 
 PS : c'est dommage pour les recruteurs, vous êtes à un red flag près (qui n'a aucun sens ?) de pouvoir attirer vraiment les [top talents](/fr/blog/full-remote-freelance-only/).

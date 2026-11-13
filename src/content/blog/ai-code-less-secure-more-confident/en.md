@@ -27,6 +27,8 @@ But open a conversation with a fresh context (no ego :) and ask it to evaluate, 
 
 And while it sometimes overdoes it, sometimes it can also give you cold sweats…
 
+Getting that second opinion, from an AI or a human, is [a reflex I never skip](/work-with-me/).
+
 In short: stay in control! You are the boss.
 
 PS: the study was run on 47 **real** devs. Imagine the score with someone who does not read the code at all :)

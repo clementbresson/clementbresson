@@ -14,3 +14,5 @@ You can have modules that are a bit rotten inside: if they are well separated an
 On the other hand, if they are much "better" (fast, optimised...) but [coupled to each other](/blog/five-types-of-coupling-ranked/) in every direction, everything will very quickly turn into an unmaintainable hell.
 
 Don't get your priorities wrong.
+
+Untangling that kind of coupling is [a good share of my work](/work-with-me/).

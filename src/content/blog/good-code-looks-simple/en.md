@@ -23,3 +23,5 @@ Because behind that simplicity, there is often:
 
 "Impressive" code is often easy to write.
 Obvious, readable code that lasts takes far more mastery.
+
+Simple-looking code is [what I aim for, day after day](/work-with-me/).

@@ -23,3 +23,5 @@ Parce que derrière cette simplicité, il y a souvent :
 
 Le code « impressionnant » est souvent facile à écrire.
 Le code évident, lisible et durable demande beaucoup plus de maîtrise.
+
+Ce code d'apparence simple, [c'est ce que je vise jour après jour](/fr/work-with-me/).

@@ -25,4 +25,4 @@ PPS: For all we know, we'll all be signing on at [France Travail](https://www.fr
 
 PPPS: Well, those of us on permanent contracts.
 
-PPPPS: I'm a freelancer.
+PPPPS: [I'm a freelancer](/work-with-me/).

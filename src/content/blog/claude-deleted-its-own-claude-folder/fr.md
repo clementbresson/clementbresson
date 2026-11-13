@@ -11,7 +11,7 @@ sources:
 draft: false
 ---
 
-Le dev n'est pas encore mort.
+[Le dev n'est pas encore mort](/fr/work-with-me/).
 
 Aujourd'hui, au détour d'une feature, [Claude](https://claude.com/product/claude-code) a tout simplement supprimé le dossier `.claude` de la codebase.
 

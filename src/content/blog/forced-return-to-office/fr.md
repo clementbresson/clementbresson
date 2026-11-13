@@ -19,4 +19,4 @@ Donc vous ne perdez pas des gens qui « préfèrent leur canapé en pyjama », v
 
 En résumé, en forçant le RTO en 2026, vous perdez en résilience à un moment où ça devient critique, et vous perdez les meilleurs profils. Une aberration managériale.
 
-PS : en full remote, on peut avoir une excellente culture, de très bons liens et une excellente collaboration. Mais ça se travaille, ça ne se fait pas dans la précipitation une fois dans le mur.
+PS : en full remote, on peut avoir une excellente culture, de très bons liens et une excellente collaboration. Mais ça se travaille, ça ne se fait pas dans la précipitation une fois dans le mur. Le full remote, c'est d'ailleurs [mon propre quotidien](/fr/work-with-me/).

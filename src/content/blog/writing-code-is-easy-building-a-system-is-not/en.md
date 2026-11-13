@@ -9,4 +9,4 @@ draft: false
 
 Today, writing code has become easy with AI, like learning to write as a child.
 
-But building a real system, complex, coherent and built to last, is still as hard as writing a literary masterpiece.
+But [building a real system](/work-with-me/), complex, coherent and built to last, is still as hard as writing a literary masterpiece.

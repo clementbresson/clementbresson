@@ -9,7 +9,7 @@ draft: false
 
 Do you know the best AI "[harness](/blog/ai-harness-guides-and-sensors/)" everyone is talking about?
 
-A codebase with a rigorous architecture. Simple as that.
+[A codebase with a rigorous architecture](/work-with-me/). Simple as that.
 
 Whatever your preferences: pure DDD, TDD, hexagonal architecture, your in-house conventions... What matters is rigour. **Maximum rigour.**
 

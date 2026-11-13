@@ -7,7 +7,7 @@ linkedin: https://www.linkedin.com/feed/update/urn:li:activity:74406574845596344
 draft: false
 ---
 
-À partir d'un moment, la meilleure feature pour un SaaS, c'est de surtout ne rien rajouter, et de préférer peaufiner, améliorer et simplifier l'existant.
+À partir d'un moment, la meilleure feature pour un SaaS, c'est de surtout ne rien rajouter, et de préférer [peaufiner, améliorer et simplifier l'existant](/fr/work-with-me/).
 
 Beaucoup de projets font la même erreur :
 

@@ -21,4 +21,6 @@ To make sure [Claude Code](https://claude.com/product/claude-code) has read at l
 
 => If it says hello to you by name, you're good!
 
+This little safeguard ends up in [every Claude Code setup I configure](/work-with-me/).
+
 PS: the same technique can be used in plenty of creative ways, but the concept stays the same :)

@@ -38,4 +38,6 @@ L'an dernier, 170+ apps [Lovable](https://docs.lovable.dev/introduction) se sont
 
 ⇒ Une table sans policy = une table publique.
 
+Le RLS est en haut de la liste de [ce que je regarde sur un projet Supabase](/fr/work-with-me/).
+
 De rien :)

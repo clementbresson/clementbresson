@@ -22,3 +22,5 @@ Quelqu'un dont ce n'est pas le métier lui demande rarement :
 Résultat ? Quelque chose de fonctionnel, qui semble parfait en surface…
 
 … mais truffé de problèmes !
+
+Poser ces questions, [c'est justement mon métier](/fr/work-with-me/).

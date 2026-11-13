@@ -24,3 +24,5 @@ A [Claude Code](https://claude.com/product/claude-code) tip to stay employable.
 2. Work on all of that, hard.
 
 It prepares you for the "new" jobs of tomorrow... and it's absolutely fascinating (yes, really, [DDD](https://www.domainlanguage.com/ddd/blue-book/) is fascinating).
+
+Those are also the topics [I spend my days on](/work-with-me/).

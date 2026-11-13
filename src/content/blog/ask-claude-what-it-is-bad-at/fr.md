@@ -24,3 +24,5 @@ Une astuce [Claude Code](https://claude.com/product/claude-code) anti-chômage.
 2. Travailler tout ça à fond.
 
 Ça permet de préparer les « nouveaux » métiers de demain... et c'est absolument passionnant (si si, le [DDD](https://www.domainlanguage.com/ddd/blue-book/) est passionnant).
+
+Ce sont d'ailleurs les sujets [sur lesquels je passe mes journées](/fr/work-with-me/).

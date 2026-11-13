@@ -16,3 +16,5 @@ Alors qu'en réalité, l'UX est laaargement plus importante que l'UI.
 Un site moche mais parfaitement fonctionnel sera utilisé bien plus longtemps qu'un site magnifique où chaque utilisation est un combat.
 
 Bien entendu, une belle UI sur une UX parfaite, c'est le graal.
+
+UX d'abord, UI ensuite : [l'ordre que je garde sur les produits que je construis](/fr/work-with-me/).

@@ -16,3 +16,5 @@ When in reality, UX matters waaay more than UI.
 An ugly but perfectly functional site will stay in use far longer than a gorgeous one where every use is a fight.
 
 Of course, a beautiful UI on top of a perfect UX is the holy grail.
+
+UX first, UI second: [the order I stick to on the products I build](/work-with-me/).

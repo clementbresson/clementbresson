@@ -36,3 +36,5 @@ The result: the id in the URL acts as proof of identity. Except an id is just a 
 Can you see B's data?
 
 ⇒ **Everyone** sees everything. Your customers see other customers' invoices.
+
+That flaw is among the first [I probe for when I open an app's code](/work-with-me/).

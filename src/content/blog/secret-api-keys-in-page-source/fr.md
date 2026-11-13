@@ -23,4 +23,6 @@ Si tu as des résultats, ce n'est pas bon signe…
 
 L'IA adore mettre les clés là où ça marche. Sauf que là où ça marche = dans le bundle = chez tout le monde, en public.
 
+Je fais cette recherche sur [chaque app qu'on me confie](/fr/work-with-me/).
+
 PS : `sk_live_` dans le code source, c'est ta clé [Stripe](https://docs.stripe.com/keys) en libre-service. Vérifie celle-là en premier.

@@ -11,6 +11,6 @@ Alright, I'll say it: I like daily stand-ups every morning.
 
 Don't throw stones at me.
 
-Why? Not so much for the "I did this, I'm going to do that" part, but because it lets you see your colleagues and talk with them at least once a day. And that matters.
+Why? Not so much for the "I did this, I'm going to do that" part, but because it lets you see your colleagues and talk with them at least once a day. And that matters. Even more so when, like me, you're [a freelancer embedded in the team](/work-with-me/).
 
 PS: this is for 100% [full remote](/blog/full-remote-freelance-only/) teams. For on-site teams, dusting off the foosball table and grabbing a beer at lunch (oops) is nice too.

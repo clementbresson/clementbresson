@@ -26,6 +26,6 @@ Avis après trois bons mois de DDD + [Clean Architecture](/fr/blog/what-is-clean
 
 ## Verdict
 
-Au global, après une refacto complète d'une codebase, je pense que j'aurais du mal à m'en passer sur un prochain projet.
+Au global, après une refacto complète d'une codebase, je pense que j'aurais du mal à m'en passer [sur un prochain projet](/fr/work-with-me/).
 
 **Validé !**

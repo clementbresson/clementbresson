@@ -7,7 +7,7 @@ linkedin: https://www.linkedin.com/feed/update/urn:li:activity:74406574845596344
 draft: false
 ---
 
-Past a certain point, the best feature for a SaaS is to add nothing at all, and to polish, improve and simplify what already exists instead.
+Past a certain point, the best feature for a SaaS is to add nothing at all, and to [polish, improve and simplify what already exists](/work-with-me/) instead.
 
 Many projects make the same mistake:
 

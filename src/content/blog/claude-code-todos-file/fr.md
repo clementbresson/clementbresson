@@ -24,4 +24,6 @@ L'idée : une consigne toute simple dans votre [CLAUDE.md](https://code.claude.c
 
 Résultat : entre deux tâches, vous avez un mémo de petites choses à nettoyer. Et à l'heure de l'IA, une codebase propre et stricte reste le [meilleur harness possible](/fr/blog/rigorous-codebase-best-ai-harness/).
 
+J'ajoute cette règle au [CLAUDE.md de chaque projet sur lequel j'interviens](/fr/work-with-me/).
+
 PS : ce n'est pas un remplacement pour [Linear](https://linear.app/) ou autre. Juste un espace pour ce qui ne mérite pas de ticket, un mémo rapide pour ne pas oublier.

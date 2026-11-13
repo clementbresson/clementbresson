@@ -11,7 +11,7 @@ sources:
 draft: false
 ---
 
-The developer isn't dead yet.
+[The developer isn't dead yet](/work-with-me/).
 
 Today, in the middle of a feature, [Claude](https://claude.com/product/claude-code) simply deleted the `.claude` folder from the codebase.
 

@@ -14,3 +14,5 @@ Tu peux avoir des modules un peu pourris en interne : s'ils sont bien découpés
 Mais à l'inverse, s'ils sont bien « meilleurs » (performants, optimisés...) mais [couplés les uns aux autres](/fr/blog/five-types-of-coupling-ranked/) dans tous les sens, tout va très vite devenir un enfer impossible à maintenir.
 
 Il ne faut pas se tromper de priorité.
+
+Démêler ce genre de couplage, [c'est une bonne partie de mon travail](/fr/work-with-me/).
