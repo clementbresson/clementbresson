@@ -25,7 +25,7 @@ Or, un bon harnais, c'est :
 - un code métier très très bien pensé, [documenté](/fr/blog/architecture-decision-records/) et testé (spoiler : c'est compliqué)
 - un [linter sur mesure](/fr/blog/dependency-cruiser-as-a-sensor-for-ai-agents/)
 - une observabilité locale maximale
-- de la vraie revue de code IA en début de projet
+- de la [vraie revue de code IA](/fr/blog/ai-review-loop-specialised-agents/) en début de projet
 - des itérations sur tout ça à chaque écart repéré
 - ... et des dizaines d'autres choses chronophages au début
 

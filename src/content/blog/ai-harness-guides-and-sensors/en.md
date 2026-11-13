@@ -29,7 +29,7 @@ Without sensors, the agent repeats the same mistake. Without guides, it does not
 ## Axis 2: mode
 
 - **Computational**: tsc, ESLint, [dependency-cruiser](/blog/dependency-cruiser-as-a-sensor-for-ai-agents/). Deterministic, a few seconds.
-- **Inferential**: a review skill, an LLM judge. Semantic, expensive, non-deterministic.
+- **Inferential**: [a review skill](/blog/ai-review-loop-specialised-agents/), an LLM judge. Semantic, expensive, non-deterministic.
 
 ## Four boxes
 

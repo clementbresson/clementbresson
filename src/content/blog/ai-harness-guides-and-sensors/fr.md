@@ -29,7 +29,7 @@ Sans capteurs, l’agent répète la même erreur. Sans guides, il ne sait pas q
 ## Axe 2 : le mode
 
 - **Computationnel** : tsc, ESLint, [dependency-cruiser](/fr/blog/dependency-cruiser-as-a-sensor-for-ai-agents/). Déterministe, quelques secondes.
-- **Inférentiel** : skill de revue, juge LLM. Sémantique, cher, non déterministe.
+- **Inférentiel** : [skill de revue](/fr/blog/ai-review-loop-specialised-agents/), juge LLM. Sémantique, cher, non déterministe.
 
 ## Quatre cases
 

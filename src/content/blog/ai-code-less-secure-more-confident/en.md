@@ -21,7 +21,7 @@ The group with AI:
 
 Why? When you ask the AI to evaluate what it just did… it often says everything is spotless.
 
-But open a conversation with a fresh context (no ego :) and ask it to evaluate, to find flaws in what another AI just did…
+But [open a conversation with a fresh context](/blog/ai-review-loop-specialised-agents/) (no ego :) and ask it to evaluate, to find flaws in what another AI just did…
 
 … it will find problems, guaranteed!
 

@@ -25,7 +25,7 @@ A good harness means:
 - business code that is very, very well designed, [documented](/blog/architecture-decision-records/) and tested (spoiler: that part is hard)
 - a [custom-built linter](/blog/dependency-cruiser-as-a-sensor-for-ai-agents/)
 - maximal local observability
-- real AI code review from the start of the project
+- [real AI code review](/blog/ai-review-loop-specialised-agents/) from the start of the project
 - iterating on all of it every time a gap shows up
 - ... and dozens of other time-consuming things early on
 

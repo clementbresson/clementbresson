@@ -21,7 +21,7 @@ Le groupe avec IA :
 
 Pourquoi ? Quand on demande à l'IA d'évaluer ce qu'elle vient de faire… elle dit souvent que tout est nickel.
 
-Mais ouvrez une conversation avec un contexte neuf (sans ego :) et demandez d'évaluer, de trouver des failles dans ce que vient de faire une autre IA…
+Mais [ouvrez une conversation avec un contexte neuf](/fr/blog/ai-review-loop-specialised-agents/) (sans ego :) et demandez d'évaluer, de trouver des failles dans ce que vient de faire une autre IA…
 
 … elle va trouver des problèmes à coup sûr !
 
