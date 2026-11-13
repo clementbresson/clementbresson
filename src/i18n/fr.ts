@@ -87,7 +87,7 @@ export const fr: Copy = {
       harness:
         "Je mets en place ce type de harnais pour les équipes qui travaillent avec des agents IA : règles d’architecture dans la CI, CLAUDE.md, tests qui attrapent ce que l’agent casse.",
       architecture:
-        "J’aide les équipes à choisir une architecture et à la tenir sur des mois, en tech lead à temps partagé, 1 à 2 jours par semaine.",
+        "J’aide les équipes à garder une codebase simple à faire évoluer sur des mois : architecture, tests, revues de code. En tech lead à temps partagé, 1 à 2 jours par semaine.",
       fractional:
         "C’est comme ça que je travaille : un tech lead senior sur votre projet, 1 à 2 jours par semaine, aussi longtemps que nécessaire.",
       default:

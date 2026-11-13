@@ -86,7 +86,7 @@ export const en: Copy = {
       harness:
         "I set up harnesses like this for teams working with AI coding agents: architecture rules in CI, CLAUDE.md, tests that catch what the agent breaks.",
       architecture:
-        "I help teams choose an architecture and keep it over months, as a fractional tech lead, 1–2 days a week.",
+        "I help teams keep their codebase simple to change over months: architecture, tests, code reviews. As a fractional tech lead, 1–2 days a week.",
       fractional:
         "This is how I work: a senior tech lead on your project, 1–2 days a week, for as long as you need.",
       default:
