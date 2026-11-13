@@ -25,7 +25,7 @@ So rather than:
 
 - skimming
 - thinking that reading = understanding (the worst)
-- staying passive in front of AI
+- [staying passive in front of AI](/blog/learning-faster-with-ai/)
 - ... etc.
 
 Try to:

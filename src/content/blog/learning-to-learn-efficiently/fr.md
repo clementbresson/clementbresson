@@ -25,7 +25,7 @@ Alors plutôt que de :
 
 - lire en diagonale
 - penser que lire = comprendre (le pire)
-- rester passif devant l'IA
+- [rester passif devant l'IA](/fr/blog/learning-faster-with-ai/)
 - ... etc.
 
 Essayer de :
