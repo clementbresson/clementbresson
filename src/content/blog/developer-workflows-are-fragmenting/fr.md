@@ -31,7 +31,7 @@ Aujourd'hui, entre ceux qui :
 - codent depuis leur téléphone
 - délèguent à un ou plusieurs agents sur VPS distants
 - font tout sur leur [Mac Studio](https://www.apple.com/mac-studio/) 512 Go à 20k
-- relisent 100 % du code
+- [relisent 100 % du code](/fr/blog/github-pr-review-logical-reading-order/)
 - délèguent 100 % des reviews à des agents
 - tapent au clavier
 - codent vocalement

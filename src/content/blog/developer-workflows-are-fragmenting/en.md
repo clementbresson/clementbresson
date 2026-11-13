@@ -31,7 +31,7 @@ Today, between those who:
 - code from their phone
 - delegate to one or several agents on remote VPS
 - do everything on their [Mac Studio](https://www.apple.com/mac-studio/) with 512GB of RAM, at $20k
-- review 100% of the code
+- [review 100% of the code](/blog/github-pr-review-logical-reading-order/)
 - delegate 100% of reviews to agents
 - type on a keyboard
 - code by voice
