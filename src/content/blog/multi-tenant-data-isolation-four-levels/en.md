@@ -52,3 +52,5 @@ These solutions can therefore be an option… unless you handle sensitive data (
 Level 2, with [guard rails in the code](/blog/architecture-rules-that-break-the-build/) so that an omission is either impossible or harmless (tenant omitted ⇒ zero rows returned).
 
 And built so that moving a customer out into their own database, should the need arise (a dump of all the tenant's tables), is easy.
+
+It's something [I check early on when I join a SaaS project](/work-with-me/).

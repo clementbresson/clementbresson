@@ -33,7 +33,7 @@ Une règle d'import non respectée ?
 
 → [une règle en dur dans la config](/fr/blog/architecture-rules-that-break-the-build/). Pas une consigne : un truc qui casse si on triche.
 
-Et petit à petit, je commence à voir émerger des skills, scripts, templates, [règles d'archi](/fr/blog/dependency-cruiser-as-a-sensor-for-ai-agents/), lint custom... etc qui viennent cadrer les agents... pour produire extrêmement vite tout en gardant le contrôle.
+Et petit à petit, je commence à voir émerger des skills, scripts, templates, [règles d'archi](/fr/blog/dependency-cruiser-as-a-sensor-for-ai-agents/), lint custom... etc qui viennent cadrer les agents... pour [produire extrêmement vite tout en gardant le contrôle](/fr/work-with-me/).
 
 Attention, ça demande une rigueur tout aussi importante voire plus qu'avant. Ça crame le cerveau à grande vitesse, ça touche énormément de sujets où il y a 50 façons créatives de répondre.
 

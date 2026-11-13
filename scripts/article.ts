@@ -14,6 +14,7 @@ import { spawnSync } from "node:child_process";
 import { fileURLToPath } from "node:url";
 import yaml from "js-yaml";
 import sharp from "sharp";
+import { links } from "../src/data/links.ts";
 import { isLive, today } from "../src/lib/publish-date.ts";
 
 process.stdout.on("error", (e: NodeJS.ErrnoException) => {
@@ -98,6 +99,10 @@ const ARTICLE_LINK = new RegExp(
   `\\]\\(\\/(?:(?:${prefixed})\\/)?blog\\/([a-z0-9-]+)\\/?(?:#[^)\\s]*)?(?:\\s+"[^"]*")?\\)`,
   "g",
 );
+const workPath = (locale: Locale) =>
+  `${locale === DEFAULT_LOCALE ? "" : `/${locale}`}/${links.work}`;
+const hasWorkLink = (body: string, locale: Locale) =>
+  prose(body).includes(`](${workPath(locale)}`);
 const IMAGE_REF = /!\[[^\]]*\]\(\.\/([^)\s]+)\)/g;
 
 const fail = (msg: string): never => {
@@ -228,6 +233,10 @@ function validateSpec(spec: Spec, knownTags: string[]): string[] {
       if (foreignLinks(l.body, locale))
         errors.push(
           `${locale}.body links to another language's blog path: use ${blogPrefix(locale)}<slug>/`,
+        );
+      if (!hasWorkLink(l.body, locale))
+        errors.push(
+          `${locale}.body has no link to ${workPath(locale)} (see "Work-with-me link" in the skill)`,
         );
     }
     if (spec.cover && !l.coverAlt)
@@ -473,6 +482,8 @@ async function check(slug?: string): Promise<void> {
         report(`${locale}.md links to the site with an absolute URL`);
       if (foreignLinks(body, locale))
         report(`${locale}.md links to another language's blog path`);
+      if (!hasWorkLink(body, locale))
+        report(`${locale}.md has no link to ${workPath(locale)}`);
       article.links = [...text.matchAll(ARTICLE_LINK)].map((m) => m[1]);
       for (const target of article.links) {
         if (target === s) report(`${locale}.md links to itself`);

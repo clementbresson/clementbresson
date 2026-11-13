@@ -55,6 +55,6 @@ And the math becomes simple:
 
 The 1000 will be far more profitable than the 500.
 
-This is the reasoning behind the [part-time senior developer](/blog/the-part-time-senior-developer/) model.
+This is the reasoning behind the [part-time senior developer](/blog/the-part-time-senior-developer/) model. It's also [how I work](/work-with-me/).
 
 PS: this means the real risk is no longer paying too much. It is paying too little.

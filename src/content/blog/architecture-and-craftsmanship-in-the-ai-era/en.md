@@ -70,6 +70,8 @@ It has never mattered more than in the AI era... and whatever you do, don't list
 
 Knowing when to choose what, for which reasons, and mastering it all.
 
+It's the heart of [my work as a tech lead](/work-with-me/).
+
 ## More accessible than ever
 
 On top of that, it's absolutely fascinating, and nowadays super accessible with the internet and a handful of books.

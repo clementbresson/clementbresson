@@ -1,0 +1,113 @@
+---
+import { Image } from "astro:assets";
+import { getRelativeLocaleUrl } from "astro:i18n";
+import portrait from "../assets/portrait.png";
+import { links } from "../data/links";
+import { getCopy } from "../i18n";
+import { ctaFor } from "../lib/cta";
+import type { Post } from "../lib/blog";
+
+interface Props {
+  post: Post;
+}
+
+const { post } = Astro.props;
+const t = getCopy(post.locale);
+const message = t.cta.messages[ctaFor(post.data.tags)];
+const mailto = `${links.email}?subject=${encodeURIComponent(post.data.title)}`;
+---
+
+<aside class="cta rise" style="--delay: 420ms" aria-label={t.name}>
+  <Image
+    class="avatar"
+    src={portrait}
+    alt=""
+    width={56}
+    densities={[1, 2]}
+    format="webp"
+    quality={80}
+  />
+  <div>
+    <p class="who">
+      <a href={getRelativeLocaleUrl(post.locale)} rel="author">
+        {t.name}
+      </a>
+      <span> · {t.title}</span>
+    </p>
+    <p class="message">{message}</p>
+    <p class="actions">
+      <a href={getRelativeLocaleUrl(post.locale, links.work)}>
+        {t.cta.howIWork}
+      </a>
+      <a href={mailto}>{t.cta.email}</a>
+      <a href={links.linkedin} target="_blank" rel="noopener">
+        {t.links.linkedin}
+      </a>
+    </p>
+  </div>
+</aside>
+
+<style>
+  .cta {
+    margin-top: 56px;
+    padding: 24px;
+    display: flex;
+    gap: 18px;
+    align-items: flex-start;
+    border: 1px solid #e5e5e5;
+    border-radius: 6px;
+  }
+
+  .avatar {
+    flex: none;
+    width: 56px;
+    height: 56px;
+    border-radius: 50%;
+    object-fit: cover;
+    object-position: 50% 20%;
+  }
+
+  .who {
+    margin: 0;
+    font: 400 14.5px/1.4 var(--font-geist);
+    color: var(--color-muted);
+  }
+
+  .who a {
+    color: var(--color-ink);
+    text-decoration: none;
+  }
+
+  .message {
+    margin: 8px 0 0;
+    font: 400 16px/1.6 var(--font-geist);
+    color: var(--color-body);
+    text-wrap: pretty;
+  }
+
+  .actions {
+    margin: 16px 0 0;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px 24px;
+    font: 400 14.5px/1 var(--font-geist);
+  }
+
+  .actions a {
+    color: var(--color-ink);
+    text-decoration: none;
+    border-bottom: 1px solid currentColor;
+    padding-bottom: 3px;
+    transition: color 120ms ease;
+  }
+
+  .actions a:hover {
+    color: var(--color-hover);
+  }
+
+  @media (max-width: 480px) {
+    .cta {
+      flex-direction: column;
+    }
+  }
+</style>

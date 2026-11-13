@@ -34,7 +34,7 @@ C'est le moment de prendre le temps de :
 - voir ce qui existe déjà et pourrait être réutilisé
 - ... etc.
 
-Et chacune de ces choses aide à faire les bons choix, dans le bon ordre.
+Et chacune de ces choses aide à faire les bons choix, dans le bon ordre. C'est [par là que je commence quand je rejoins un projet](/fr/work-with-me/).
 
 On parle de 5, 10, 15 jours « perdus »... mais de mois (facile) gagnés derrière.
 

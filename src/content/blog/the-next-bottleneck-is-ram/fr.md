@@ -39,4 +39,6 @@ Le fossé ne sera plus entre ceux qui savent utiliser l’IA et les autres.
 
 Il sera entre ceux qui peuvent en faire tourner [cinq en parallèle](/fr/blog/developer-workflows-are-fragmenting/) et ceux qui en font tourner un.
 
+Plus d’agents, c’est aussi plus de code à relire, [ce que je prends en charge pour les équipes avec lesquelles je travaille](/fr/work-with-me/).
+
 Combien de RAM sur votre machine de travail aujourd’hui ? Et qui décide de la prochaine ?

@@ -25,7 +25,7 @@ None of it depends on us. Sometimes it feels like moving backwards, and weeks ca
 
 1. Vibe-code an MVP.
 2. Find customers who are genuinely interested.
-3. Have [a professional developer](/blog/the-part-time-senior-developer/) check your product to polish and secure it. At this stage it should still be simple: one to two weeks at the very most.
+3. Have [a professional developer](/blog/the-part-time-senior-developer/) check your product to [polish and secure it](/work-with-me/). At this stage it should still be simple: one to two weeks at the very most.
 4. Go back to distributing and selling, 100% focus.
 5. If the commercial results come in, ask your developer for a few adjustments or new features.
 6. And so on.

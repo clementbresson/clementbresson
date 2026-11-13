@@ -45,7 +45,7 @@ When you talk about a dependency, always ask yourself:
 - **in which form?** (name, type, structure, meaning, timing...)
 - **who sees it?** (the compiler, a test, nobody)
 
-It is the kind of good reflex to have, whether you are designing a system, coding by hand, prompting, or doing a review.
+It is the kind of good reflex to have, whether you are designing a system, coding by hand, prompting, or doing a review. I ask myself these questions all the time [when I review a team's architecture](/work-with-me/).
 
 The "source" plane is the one that a program's [dependency layers](/blog/what-is-a-layer-in-software-architecture/) carve up.
 

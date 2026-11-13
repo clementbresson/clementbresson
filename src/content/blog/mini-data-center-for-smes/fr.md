@@ -43,4 +43,4 @@ Au fond, le même usage qu'un [Claude](https://www.anthropic.com/claude) ou qu'u
 
 Guillaume a déjà monté ce genre d'installation pour son usage personnel, et peut la mettre en place dans une entreprise.
 
-C'est un signe de plus de la tendance que je vois se dessiner chez les PME : elles commencent à investir directement dans leur propre tech, plutôt que de tout louer à l'extérieur. J'en parle dans [Le marché des développeurs est en pleine mutation](/fr/blog/the-developer-market-is-shifting/).
+C'est un signe de plus de la tendance que je vois se dessiner chez les PME : elles commencent à investir directement dans leur propre tech, plutôt que de tout louer à l'extérieur. Faire appel à [un senior à temps partiel](/fr/work-with-me/) pour leur propre code relève du même mouvement. J'en parle dans [Le marché des développeurs est en pleine mutation](/fr/blog/the-developer-market-is-shifting/).

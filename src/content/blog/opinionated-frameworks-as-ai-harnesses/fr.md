@@ -22,7 +22,7 @@ Parmi les sujets passionnants abordés :
 
 - l'apparition d'un nouveau besoin chez les PME, le [développeur fractionnel](/fr/blog/the-developer-market-is-shifting/)
 - le harness engineering
-- le nouveau rôle du développeur comme guide et créateur d'outils, pour que les clients puissent être en relative autonomie sur leur développement
+- le nouveau rôle du développeur comme [guide et créateur d'outils](/fr/work-with-me/), pour que les clients puissent être en relative autonomie sur leur développement
 - la facilité (toute relative) à faire 20 000 par mois avec un seul prompt — désolé, ça, ce n'est pas vrai, on laisse ça aux vendeurs de vent
 
 ## AdonisJS, ou la rigidité qui paie

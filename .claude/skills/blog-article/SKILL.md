@@ -28,6 +28,7 @@ Do not ask for slug, description or tags: propose them.
    - Structure: short intro, `##` headings where natural (never `#`), lists for enumerations, fenced code
      blocks with a language. CAPS emphasis becomes **bold**.
    - Images: reference them as `![alt](./file.jpg)` where they belong in the text.
+   - Work-with-me link: see "Work-with-me link" below.
    - Internal links: see "Cross-linking" below. Relative URLs only: `/blog/<slug>/` in EN,
      `/fr/blog/<slug>/` in FR. Same targets in both languages.
    - Do not write a Sources section in the body: put sources in the `sources` field. See "Sources" below.
@@ -57,6 +58,22 @@ article), fetch the URL to confirm it, then add a `sources` entry (`title`, `aut
 link the first mention in both bodies to that URL. Never write a URL you have not fetched. When the text
 relies on a figure or a study you cannot find, keep the sentence and add
 `<!-- TODO source: what is missing -->` after the paragraph, in both languages, and say so in the report.
+
+## Work-with-me link
+
+Every article links once to the work-with-me page, in both languages: `/work-with-me/` in `en.md`,
+`/fr/work-with-me/` in `fr.md`. `create` and `check` fail without it. This is the one place where the
+article may go beyond the source text, so the reader who liked it knows Clément can help.
+
+1. Prefer existing words: a passage about what Clément does, a senior who helps, a team, a setup he
+   recommends, the fractional model, a harness to put in place. Link those words.
+2. If no passage fits, add one short first-person sentence where it reads naturally (often right after
+   the advice it relates to), linking a few of its words. For example: "This is the kind of harness
+   [I set up when I join a team](/work-with-me/)." / "C'est le genre de harnais que
+   [je mets en place quand je rejoins une équipe](/fr/work-with-me/)."
+3. It must make sense in the text: a hint, not an ad. No price, no promise, no invented client, number
+   or result, no imperative ("contact me now"). Never in a heading, a quote or code.
+4. Same place and same meaning in both languages. One link per language, not more.
 
 ## Cross-linking
 

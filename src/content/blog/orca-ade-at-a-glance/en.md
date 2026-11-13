@@ -21,7 +21,7 @@ All my repos visible at a glance.
 
 For each one, creating and managing [worktrees](/blog/slow-down-to-go-10x/) in a few clicks.
 
-In each worktree, an agent working on an isolated instance of the program (well, that part is because I pushed the DX so this would be possible across all my projects).
+In each worktree, an agent working on an isolated instance of the program (well, that part is because I pushed the DX so this would be possible [across all my projects](/work-with-me/)).
 
 An overview of every agent running: the ones that finished, the ones waiting for a reply.
 

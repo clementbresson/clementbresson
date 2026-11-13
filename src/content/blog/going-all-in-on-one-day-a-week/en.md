@@ -24,7 +24,7 @@ And that is genuinely interesting.
 
 ## A niche that suddenly makes sense
 
-The "developer one day a week" niche was very rare before. It makes complete sense now that many people move forward without a developer, and the developer becomes a consultant who accompanies them.
+The ["developer one day a week" niche](/work-with-me/) was very rare before. It makes complete sense now that many people move forward without a developer, and the developer becomes a consultant who accompanies them.
 
 So I am going all in on it: [supporting those who build without a developer but want a professional who checks in regularly](/blog/the-part-time-senior-developer/).
 

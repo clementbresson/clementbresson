@@ -47,6 +47,8 @@ Result: Haiku makes the mistake, sees the (prompt-like) message from my custom r
 
 We are talking about a model that becomes viable on certain well-scoped tasks, at a cost 4 to 5 times lower. What CLAUDE.md could only describe as an intention, [an ESLint rule turns into a constraint](/blog/architecture-rules-that-break-the-build/): the cheaper model no longer even needs to fully understand the rule, just to know how to fix it once the sensor flags it.
 
+It's the kind of sensor [I set up when I join a team](/work-with-me/).
+
 Today, we are still fed on cheap tokens, paying only a fraction of their real cost… but within a few years, the party will probably be over. And those who got ahead on their harness will be rubbing their hands.
 
 So, you… where is your harness at?

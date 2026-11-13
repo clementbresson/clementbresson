@@ -20,7 +20,7 @@ Dummy, stub, spy, mock, fake.
 
 They all refer to a test double (a version of a component dedicated to testing), but they are frequently confused with one another (me first).
 
-Yet to communicate well between developers (or with an AI), precision matters.
+Yet to communicate well between developers (or with an AI), precision matters. It's vocabulary I use all the time [when I review a team's code](/work-with-me/).
 
 To settle it, you only need to remember one question asked of the double. Gerard Meszaros put it forward in 2007: "what is this double for, in terms of what goes **in** and what comes **out** of the code under test?"
 

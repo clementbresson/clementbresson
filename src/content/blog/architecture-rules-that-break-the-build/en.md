@@ -54,6 +54,8 @@ Tomorrow, ask yourself: how many of your architecture rules break the build?
 
 The others are actually intentions.
 
+Turning intentions into constraints is one of the foundations [I lay on every project](/work-with-me/).
+
 [dependency-cruiser](/blog/dependency-cruiser-as-a-sensor-for-ai-agents/) applies the same idea to the whole import graph.
 
 The same reflex applies to [isolating customer data in a SaaS](/blog/multi-tenant-data-isolation-four-levels/): an omitted tenant must return zero rows, not a leak.

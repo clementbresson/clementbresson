@@ -70,6 +70,8 @@ Pensée du dimanche soir : bossez l'architecture logicielle et le craftsmanship.
 
 Savoir quand choisir quoi, pour quelles raisons, et les maîtriser.
 
+C'est le cœur de [mon travail de tech lead](/fr/work-with-me/).
+
 ## Accessible comme jamais
 
 En plus, c'est absolument passionnant, et aujourd'hui super accessible avec Internet et quelques bouquins.

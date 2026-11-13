@@ -47,7 +47,8 @@ Give Claude the text (French or English, a draft or a LinkedIn post) and the ima
 1. translate to the other language and clean the text (LinkedIn calls-to-action removed, headings and lists added),
 2. propose the slug, a 120–160 character description per language and 1–2 tags,
 3. read the article index and add links to related articles, in the new article and from existing ones,
-4. run the script below, which does everything mechanical and builds the site.
+4. place one link to the work-with-me page in each language, on existing words when possible,
+5. run the script below, which does everything mechanical and builds the site.
 
 Review the output, then commit and push. The deploy is automatic.
 
@@ -55,12 +56,12 @@ Review the output, then commit and push. The deploy is automatic.
 
 `scripts/article.ts` is deterministic and does not use any AI.
 
-| Command                                    | What it does                                                                                                                                                           |
-| ------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| `npm run article create spec.json --build` | Creates the folder from a JSON spec: copies images (resizing above 1600px, phone photos rotated upright), writes `fr.md` and `en.md`, validates, builds                |
-| `npm run article check [slug]`             | Validates one or all articles: both languages in sync (tags, `pubDate`, draft), known tags, images present, internal links resolve. Also runs in CI before every build |
-| `npm run article index [--tag key]`        | Prints every article (or one topic) with titles, descriptions and headings, to choose link targets                                                                     |
-| `npm run article tags`                     | Lists the tag vocabulary                                                                                                                                               |
+| Command                                    | What it does                                                                                                                                                                                      |
+| ------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `npm run article create spec.json --build` | Creates the folder from a JSON spec: copies images (resizing above 1600px, phone photos rotated upright), writes `fr.md` and `en.md`, validates, builds                                           |
+| `npm run article check [slug]`             | Validates one or all articles: both languages in sync (tags, `pubDate`, draft), known tags, images present, internal links resolve, work-with-me link present. Also runs in CI before every build |
+| `npm run article index [--tag key]`        | Prints every article (or one topic) with titles, descriptions and headings, to choose link targets                                                                                                |
+| `npm run article tags`                     | Lists the tag vocabulary                                                                                                                                                                          |
 
 Minimal spec:
 
@@ -96,6 +97,7 @@ GitHub app → Actions → "Blog post" → Run workflow, paste the text — or p
 - Frontmatter `tags` must be keys of `src/data/tags.json`, identical in both languages. To add a topic, add it there first with an EN and FR label and description. A tag page appears once an article uses it.
 - Use `##` headings only: the layout renders the title as H1.
 - Link other articles with relative URLs: `/blog/<slug>/` in `en.md`, `/fr/blog/<slug>/` in `fr.md`.
+- Link the work-with-me page once per language: `/work-with-me/` in `en.md`, `/fr/work-with-me/` in `fr.md` (`check` fails without it).
 - `draft: true` shows in `npm run dev` but is excluded from the build (`SHOW_DRAFTS=1 npm run build` includes drafts).
 - Scheduling: give a future `pubDate` and push. The article stays out of the build until that day (Europe/Paris); the deploy workflow rebuilds every morning and publishes it.
 - The "Updated" date is derived from git: the day of the last commit that touched the language file (commits before `src/lib/modified-date.ts`'s baseline are ignored). It feeds the post page, `dateModified` and the sitemap, and only shows when later than `pubDate`. Set `updatedDate` in the frontmatter only to override it; uncommitted edits do not count.

@@ -25,7 +25,7 @@ Concrètement, quand vous touchez d'anciens fichiers pour une fonctionnalité, v
 
 Entre ces fichiers retouchés, les nouveaux fichiers créés d'emblée aux bonnes conventions, et les anciens fichiers supprimés au fil du temps... petit à petit, tout finit par être bon partout.
 
-C'est super efficace : je l'ai mis en pratique, avec des résultats constatés sur plusieurs grosses codebases.
+C'est super efficace : [je l'ai mis en pratique](/fr/work-with-me/), avec des résultats constatés sur plusieurs grosses codebases.
 
 C'est le même réflexe qu'applique un [Harness Engineer](/fr/blog/harness-engineer-the-next-developer-role/) face à la [dette technique](/fr/blog/daily-rates-after-ai/) : la traiter au fil de l'eau, pas lors d'un chantier dédié.
 

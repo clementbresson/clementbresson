@@ -52,6 +52,8 @@ Personnellement, voici où j'en suis :
 - 2 à 5 agents en même temps selon la complexité des tâches.
 - Focus sur le [Harness](/fr/blog/ai-harness-guides-and-sensors/) et relecture diagonale, avec un skill pour auto-stager tout ce qui est peu critique et relire en détail le plus important.
 
+Le harness, c'est aussi [ce que je mets en place avec les équipes qui se mettent aux agents IA](/fr/work-with-me/).
+
 Et je serais très preneur de retours sur votre setup de développement. Que ce soit désastreux ou incroyable, il y a des choses qu'on peut s'apprendre les un(e)s aux autres.
 
 Pour un zoom sur ce qu'Orca change concrètement au quotidien, voir [Orca : une vue d'ensemble sur mes repos et mes agents](/fr/blog/orca-ade-at-a-glance/).

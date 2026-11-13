@@ -33,6 +33,8 @@ Ici, rien à voir avec la technique : le Model est le résultat de l'exercice de
 
 Il peut bien sûr être implémenté dans le code ensuite, mais il vit bien en amont : sur un schéma, sur un tableau blanc, dans des discussions orales avec le métier, [le temps qu'il faut](/fr/blog/the-first-week-without-code/) avant de taper la moindre ligne.
 
+C'est d'ailleurs par là que [je commence quand je rejoins un projet](/fr/work-with-me/).
+
 ## Le piège classique
 
 Un seul mot, en anglais comme en français, pour deux choses qui n'ont rien à voir.

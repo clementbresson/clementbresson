@@ -37,7 +37,7 @@ And that is where it gets vicious: the more chaotic the codebase, the fewer guar
 
 The AI gets worse and worse on _your_ project. Not because the model is degrading. Because the terrain is.
 
-So before stacking agents on an app generated in 3 weeks, have someone who does this for a living look at the structure. That is what decides whether AI is still helping you in 6 months… or not at all.
+So before stacking agents on an app generated in 3 weeks, have [someone who does this for a living](/work-with-me/) look at the structure. That is what decides whether AI is still helping you in 6 months… or not at all.
 
 PS: dependency-cruiser is free, open source, and installs in 10 minutes.
 

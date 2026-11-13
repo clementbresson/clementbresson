@@ -52,6 +52,8 @@ Here is where I personally stand:
 - 2 to 5 agents at the same time, depending on how complex the task is.
 - Focus on the [harness](/blog/ai-harness-guides-and-sensors/) and a quick skim review, with a skill that auto-stages anything low-risk and leaves me to carefully review what matters most.
 
+The harness is also [what I set up with teams moving to AI coding agents](/work-with-me/).
+
 And I would be very curious to hear about your own development setup. Whether it's a disaster or amazing, there are things we can all learn from each other.
 
 For a closer look at what Orca actually changes day to day, see [Orca: one glance at every repo, worktree and agent](/blog/orca-ade-at-a-glance/).

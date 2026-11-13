@@ -25,7 +25,7 @@ Concretely, when you touch an old file for some feature, you also take the chanc
 
 Between these touched-up files, the new files created the right way from the start, and the old files that get deleted over time... little by little, everything ends up in good shape everywhere.
 
-It's remarkably effective: I've put it into practice, with results I've seen on several large codebases.
+It's remarkably effective: [I've put it into practice](/work-with-me/), with results I've seen on several large codebases.
 
 It's the same reflex a [Harness Engineer](/blog/harness-engineer-the-next-developer-role/) applies to [technical debt](/blog/daily-rates-after-ai/): deal with it as you go, rather than in a dedicated cleanup project.
 

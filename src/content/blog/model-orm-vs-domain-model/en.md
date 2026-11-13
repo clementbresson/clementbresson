@@ -33,6 +33,8 @@ Here it has nothing to do with technology: the Model is the result of the exerci
 
 It can of course be implemented in code afterwards, but it lives well upstream: in a diagram, on a whiteboard, in conversations with the business, [taking the time it needs](/blog/the-first-week-without-code/) before a single line gets typed.
 
+It's also [where I start when I join a project](/work-with-me/).
+
 ## The classic trap
 
 One word, in English as in French, for two things that have nothing in common.

@@ -28,6 +28,8 @@ Or, un bon harnais, c'est :
 - des itérations sur tout ça à chaque écart repéré
 - ... et des dizaines d'autres choses chronophages au début
 
+Ce sont les fondations [que je pose quand je démarre sur un projet](/fr/work-with-me/).
+
 ## Paralléliser sans se marcher dessus
 
 Mais le harnais ne suffit pas. Le 10x ne passe pas par un agent unique.

@@ -37,7 +37,7 @@ Et c’est là que ça devient vicieux : plus la codebase est chaotique, moins l
 
 L’IA devient de moins en moins bonne sur _votre_ projet. Pas parce que le modèle baisse. Parce que le terrain se dégrade.
 
-Donc avant d’empiler des agents sur une app générée en 3 semaines, faites regarder la structure par quelqu’un du métier. C’est là que se joue si l’IA vous aide encore dans 6 mois… ou plus du tout.
+Donc avant d’empiler des agents sur une app générée en 3 semaines, faites regarder la structure par [quelqu’un du métier](/fr/work-with-me/). C’est là que se joue si l’IA vous aide encore dans 6 mois… ou plus du tout.
 
 PS : dependency-cruiser est gratuit, open source, et s’installe en 10 minutes.
 

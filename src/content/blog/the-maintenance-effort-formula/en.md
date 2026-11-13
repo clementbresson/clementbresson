@@ -41,7 +41,7 @@ Even if two dimensions are very high, bringing **just one** dimension close to z
 - High distance and high volatility? Not a problem if the integration goes through a contract.
 - Strong integration and high volatility? Not a problem if it all happens inside the same class.
 
-This is the kind of conceptualization that very concretely helps you make the day-to-day decisions that keep a program maintainable.
+This is the kind of conceptualization that very concretely helps you make the day-to-day [decisions that keep a program maintainable](/work-with-me/).
 
 It is also exactly the kind of topic AI is not good at at all, and where [a developer's value](/blog/harness-engineer-the-next-developer-role/) lies (and increasingly so).
 

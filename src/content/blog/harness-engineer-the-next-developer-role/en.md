@@ -16,6 +16,8 @@ And when you barely write code by hand anymore (or not at all), there is ONE thi
 
 The Harness is everything around the AI model that makes an agent do what you want it to do. Instructions, tools, rules, tests, hooks, CI...
 
+It's the part [I take care of for my clients](/work-with-me/).
+
 And watch out, this is nowhere near blind, uncontrolled [vibe-coding](/blog/the-part-time-senior-developer/).
 
 It's the exact opposite.

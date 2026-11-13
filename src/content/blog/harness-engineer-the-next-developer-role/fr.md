@@ -16,6 +16,8 @@ Et quand on ne code presque plus (ou plus du tout) à la main, il y a UNE chose 
 
 Le Harness, c'est tout ce qu'il y a autour du modèle IA pour avoir un agent qui fait ce qu'on veut qu'il fasse. Instructions, outils, règles, tests, hooks, CI...
 
+C'est la partie [dont je m'occupe chez mes clients](/fr/work-with-me/).
+
 Et attention, on est bien bien loin du [vibecoding](/fr/blog/the-part-time-senior-developer/) aveugle, sans maîtrise.
 
 C'est tout l'inverse.

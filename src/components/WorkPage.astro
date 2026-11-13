@@ -1,0 +1,158 @@
+---
+import { getAbsoluteLocaleUrl, getRelativeLocaleUrl } from "astro:i18n";
+import { links } from "../data/links";
+import { getCopy, type Locale } from "../i18n";
+import Base from "../layouts/Base.astro";
+import { breadcrumbNode } from "../lib/schema";
+import LangToggle from "./LangToggle.astro";
+
+interface Props {
+  locale: Locale;
+}
+
+const { locale } = Astro.props;
+const t = getCopy(locale);
+const w = t.work;
+const schema = [
+  breadcrumbNode([
+    { name: t.name, url: getAbsoluteLocaleUrl(locale) },
+    { name: t.links.work, url: getAbsoluteLocaleUrl(locale, links.work) },
+  ]),
+];
+---
+
+<Base
+  locale={locale}
+  path={links.work}
+  title={w.metaTitle}
+  description={w.metaDescription}
+  schema={schema}
+>
+  <LangToggle current={locale} label={t.langSwitchLabel} path={links.work} />
+
+  <main class="page">
+    <nav class="crumbs rise" aria-label="Breadcrumb">
+      <a href={getRelativeLocaleUrl(locale)}>{t.name}</a>
+    </nav>
+    <h1 class="heading rise" style="--delay: 80ms">
+      {w.heading}
+    </h1>
+    <p class="lead rise" style="--delay: 160ms">
+      {w.intro}
+    </p>
+
+    <div class="prose rise" style="--delay: 240ms">
+      <h2>{w.forTitle}</h2>
+      <ul>
+        {w.forItems.map((item) => (
+          <li>{item}</li>
+        ))}
+      </ul>
+      <p class="aside">{w.notFor}</p>
+
+      <h2>{w.howTitle}</h2>
+      {w.steps.map((step) => (
+        <>
+          <h3>{step.title}</h3>
+          <p>
+            {step.body}{" "}
+            <a href={getRelativeLocaleUrl(locale, step.path)}>{step.more}</a>
+          </p>
+        </>
+      ))}
+      <p class="aside">{w.auditOnly}</p>
+
+      <h2>{w.faqTitle}</h2>
+      {w.faq.map((item) => (
+        <>
+          <h3>{item.q}</h3>
+          <p>{item.a}</p>
+        </>
+      ))}
+
+      <h2 id="contact">{w.contactTitle}</h2>
+      <p>{w.contactBody}</p>
+    </div>
+
+    <nav class="links rise" style="--delay: 320ms">
+      <a href={links.email}>{t.links.email}</a>
+      <a href={links.linkedin} target="_blank" rel="noopener">
+        {t.links.linkedin}
+      </a>
+      <a href={links.malt} target="_blank" rel="noopener">
+        {t.links.malt}
+      </a>
+    </nav>
+  </main>
+</Base>
+
+<style>
+  .page {
+    max-width: 640px;
+    margin: 0 auto;
+    padding: 96px 24px 80px;
+    box-sizing: border-box;
+  }
+
+  .crumbs {
+    font: 400 14.5px/1 var(--font-geist);
+  }
+
+  .crumbs a {
+    color: var(--color-muted);
+    text-decoration: none;
+  }
+
+  .crumbs a:hover {
+    color: var(--color-ink);
+  }
+
+  .heading {
+    margin: 28px 0 0;
+    font: 400 40px/1.15 var(--font-newsreader);
+    letter-spacing: -0.015em;
+    color: var(--color-ink);
+    text-wrap: balance;
+  }
+
+  .lead {
+    margin: 24px 0 0;
+    font: 400 19px/1.6 var(--font-geist);
+    color: var(--color-body);
+    text-wrap: pretty;
+  }
+
+  .prose {
+    margin-top: 16px;
+  }
+
+  .aside {
+    color: var(--color-muted);
+  }
+
+  .links {
+    margin-top: 32px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 28px;
+    font: 400 15.5px/1 var(--font-geist);
+  }
+
+  .links a {
+    color: var(--color-ink);
+    text-decoration: none;
+    border-bottom: 1px solid currentColor;
+    padding-bottom: 3px;
+    transition: color 120ms ease;
+  }
+
+  .links a:hover {
+    color: var(--color-hover);
+  }
+
+  @media (max-width: 400px) {
+    .heading {
+      font-size: 34px;
+    }
+  }
+</style>

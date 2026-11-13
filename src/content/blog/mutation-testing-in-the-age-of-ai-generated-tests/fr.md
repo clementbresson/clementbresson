@@ -65,7 +65,7 @@ Et du coup l'argument de la lenteur tombe aussi. Vous ne le lancez pas en local 
 
 Et commencez par votre domaine critique uniquement. Pas toute la codebase, sinon vous ne le ferez jamais.
 
-Personnellement, je l'inclus dans le [harnais](/fr/blog/ai-harness-guides-and-sensors/) de mes clients.
+Personnellement, [je l'inclus](/fr/work-with-me/) dans le [harnais](/fr/blog/ai-harness-guides-and-sensors/) de mes clients.
 
 Un test qui ne peut pas échouer n'est pas un test. C'est un commentaire qui coûte du CPU.
 

@@ -45,7 +45,7 @@ Quand vous parlez de dépendance, demandez-vous toujours :
 - **sous quelle forme ?** (nom, type, structure, sens, timing...)
 - **qui la voit ?** (le compilateur, un test, personne)
 
-C'est le genre de bon réflexe à avoir, que ce soit quand on conçoit un système, quand on code à la main, quand on prompte, ou quand on fait une revue.
+C'est le genre de bon réflexe à avoir, que ce soit quand on conçoit un système, quand on code à la main, quand on prompte, ou quand on fait une revue. Je me pose ces questions en permanence [quand je passe en revue l'architecture d'une équipe](/fr/work-with-me/).
 
 Le plan « source » est celui que découpent les [couches de dépendances](/fr/blog/what-is-a-layer-in-software-architecture/) d'un programme.
 

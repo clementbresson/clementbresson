@@ -33,7 +33,7 @@ An import rule not being respected?
 
 → [a hard rule baked into the config](/blog/architecture-rules-that-break-the-build/). Not a guideline: something that breaks if you cheat.
 
-And little by little, I'm starting to see skills, scripts, templates, [architecture rules](/blog/dependency-cruiser-as-a-sensor-for-ai-agents/), custom lints... etc emerge, framing the agents so they can produce extremely fast while keeping control.
+And little by little, I'm starting to see skills, scripts, templates, [architecture rules](/blog/dependency-cruiser-as-a-sensor-for-ai-agents/), custom lints... etc emerge, framing the agents so they can [produce extremely fast while keeping control](/work-with-me/).
 
 Careful though, this demands just as much rigor as before, if not more. It burns through your brain at high speed, and touches a huge number of topics where there are 50 creative ways to answer.
 

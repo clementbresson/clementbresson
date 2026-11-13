@@ -47,6 +47,8 @@ Résultat : Haiku fait l'erreur, voit le message (prompt-like) de ma règle cust
 
 On parle d'un modèle qui devient viable sur certaines tâches bien cadrées, pour un coût 4 à 5 fois inférieur. Ce que CLAUDE.md ne faisait que décrire comme une intention, [une règle ESLint le transforme en contrainte](/fr/blog/architecture-rules-that-break-the-build/) : le modèle le moins cher n'a même plus besoin de bien comprendre la règle, juste de savoir la corriger quand le capteur la lui signale.
 
+C'est le genre de capteur [que je mets en place quand je rejoins une équipe](/fr/work-with-me/).
+
 Aujourd'hui, on est encore biberonnés aux tokens pas chers, qu'on paie une fraction de leur coût réel… mais d'ici quelques années, la fête sera probablement finie. Et ceux qui auront pris une longueur d'avance sur le harnais se frotteront les mains.
 
 Et vous… il en est où, votre harnais ?

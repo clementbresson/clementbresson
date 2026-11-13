@@ -46,6 +46,8 @@ For an AI, reading these files is instant. And it lets it understand the why beh
 
 And that, among plenty of other things, contributes to a solid [AI harness](/blog/ai-harness-guides-and-sensors/).
 
+ADRs are part of the harness [I set up on my clients' projects](/work-with-me/).
+
 ## Don't bury them in a wiki
 
 PS: whatever you do, don't go bury these files in a [Notion](https://www.notion.com/) nobody wants anymore, except the CEOs who heard back in 2019 that it was a must-have.

@@ -34,6 +34,8 @@ Elles ne sont que différents angles pour schématiser, analyser et comprendre v
 - **Dépendances** : le [graphe d'imports](/fr/blog/what-does-a-depends-on-b-mean/) est-il clair ? Ou y a-t-il des dépendances circulaires dans tous les sens ? Y a-t-il du couplage nuisible et évitable ? Est-il facile de changer une partie et de savoir exactement ce qui est impacté ? Cet impact est-il aussi faible que possible ?
 - **Déploiement** : qu'est-ce qui se déploie ensemble ou séparément ? Qu'est-ce que cela suppose ?
 
+Ce sont les questions que [je me pose sur une codebase quand je rejoins une équipe](/fr/work-with-me/).
+
 ## Un exercice
 
 Tentez de faire un schéma pour chaque type de couches sur un de vos programmes. Vous aurez peut-être des surprises, et vous aurez assurément appris des choses.

@@ -43,4 +43,4 @@ Deep down, the same use case as a [Claude](https://www.anthropic.com/claude) or 
 
 Guillaume has already built this kind of setup for his personal use, and can deploy it inside a company.
 
-It's one more sign of a trend I see taking shape among SMEs: they are starting to invest directly in their own tech, rather than renting everything from outside. I write about it in [The developer market is shifting](/blog/the-developer-market-is-shifting/).
+It's one more sign of a trend I see taking shape among SMEs: they are starting to invest directly in their own tech, rather than renting everything from outside. Bringing in [a part-time senior](/work-with-me/) for their own code is part of the same move. I write about it in [The developer market is shifting](/blog/the-developer-market-is-shifting/).

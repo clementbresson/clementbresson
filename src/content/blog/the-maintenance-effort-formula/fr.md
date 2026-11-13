@@ -41,7 +41,7 @@ Même si deux dimensions sont très fortes, il suffit de ramener **une seule** d
 - Forte distance et haute volatilité ? Pas un problème si l'intégration passe par un contrat.
 - Intégration forte et haute volatilité ? Pas un problème si tout se passe dans une même classe.
 
-C'est le genre de conceptualisation qui aide très très concrètement à prendre, au quotidien, les décisions qui gardent un programme maintenable.
+C'est le genre de conceptualisation qui aide très très concrètement à prendre, au quotidien, [les décisions qui gardent un programme maintenable](/fr/work-with-me/).
 
 C'est aussi exactement le genre de sujet où l'IA n'excelle pas du tout, et où réside [la valeur d'un développeur](/fr/blog/harness-engineer-the-next-developer-role/) (et de plus en plus).
 

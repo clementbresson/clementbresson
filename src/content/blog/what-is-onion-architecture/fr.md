@@ -43,6 +43,8 @@ Et une règle pour régir toutes ces couches : **une couche ne peut dépendre qu
 
 Corollaire : le cœur Métier, au centre, ne doit dépendre d'**aucune** autre couche. Pas d'imports, pas de noms de technologies (point parfois oublié).
 
+C'est une des premières choses [que je vérifie quand j'audite une codebase](/fr/work-with-me/).
+
 ## Concrètement, ça donne quoi ?
 
 Si on reprend l'exemple de la persistance.

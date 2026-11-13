@@ -57,6 +57,8 @@ Le test que j'utilise :
 - Oui → Result.
 - Non → throw, et direction Sentry.
 
+C'est une question que je pose souvent [quand je relis le code d'une équipe](/fr/work-with-me/).
+
 ## Peu importe l'implémentation
 
 [Rust](https://doc.rust-lang.org/std/result/enum.Result.html) l'a dans le langage. [Go](https://go.dev/blog/error-handling-and-go) le fait à sa façon. En [TypeScript](https://www.typescriptlang.org/), ça se fait en trois lignes, ou avec des librairies comme [neverthrow](https://github.com/supermacro/neverthrow) ou [Effect](https://effect.website/).

@@ -28,6 +28,8 @@ A good harness means:
 - iterating on all of it every time a gap shows up
 - ... and dozens of other time-consuming things early on
 
+This is the foundation [I put in place when I start on a project](/work-with-me/).
+
 ## Parallelising without agents stepping on each other
 
 But the harness is not enough. 10x does not come from a single agent.

@@ -43,6 +43,8 @@ And one rule governing all these layers: **a layer may only depend on layers mor
 
 Corollary: the Business core, at the centre, must depend on **no** other layer. No imports, no technology names (a point that is sometimes forgotten).
 
+It's one of the first things [I check when I audit a codebase](/work-with-me/).
+
 ## What does that look like in practice?
 
 Back to the persistence example.

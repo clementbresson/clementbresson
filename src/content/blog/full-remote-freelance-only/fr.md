@@ -20,7 +20,7 @@ Ceux qui ont le choix du format... et qui, en grande majorité, choisissent le f
 
 Avec ce format, on ne se cantonne pas non plus à chercher dans un rayon de 30 à 45 minutes de transport autour de locaux.
 
-C'est sur ce format que j'ai vu, et de loin, les meilleures équipes depuis douze ans.
+C'est sur ce format que j'ai vu, et de loin, les meilleures équipes depuis douze ans. C'est d'ailleurs [le format dans lequel je travaille moi-même](/fr/work-with-me/).
 
 ## Ce que je ne comprends pas
 

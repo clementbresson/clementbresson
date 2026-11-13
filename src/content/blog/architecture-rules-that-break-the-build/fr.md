@@ -54,6 +54,8 @@ Demain, posez-vous la question : combien de vos règles d’architecture cassent
 
 Les autres sont en réalité des intentions.
 
+Transformer des intentions en contraintes fait partie des fondations que [je pose sur chaque projet](/fr/work-with-me/).
+
 [dependency-cruiser](/fr/blog/dependency-cruiser-as-a-sensor-for-ai-agents/) applique la même idée à l’ensemble du graphe d’imports.
 
 Le même réflexe vaut pour la [séparation des données entre clients d’un SaaS](/fr/blog/multi-tenant-data-isolation-four-levels/) : un tenant omis doit rendre zéro donnée, pas une fuite.

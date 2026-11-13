@@ -46,6 +46,8 @@ Pour une IA, lire ces fichiers est instantané. Et ça lui permet de comprendre 
 
 Et ça, parmi plein d'autres choses, contribue à un [harnais IA](/fr/blog/ai-harness-guides-and-sensors/) solide.
 
+Les ADR font partie du harnais [que je mets en place sur les projets de mes clients](/fr/work-with-me/).
+
 ## Ne les enterrez pas dans un wiki
 
 PS : surtout, n'allez pas enterrer ces fichiers dans un [Notion](https://www.notion.com/) dont plus personne ne veut, sauf les CEOs qui ont entendu en 2019 que c'était le must.

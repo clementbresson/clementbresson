@@ -22,7 +22,7 @@ Among the topics we covered:
 
 - a new need showing up at small businesses: the [fractional developer](/blog/the-developer-market-is-shifting/)
 - harness engineering
-- the developer's new role as a guide and tool builder, so clients can be relatively autonomous on their own development
+- the developer's new role as a [guide and tool builder](/work-with-me/), so clients can be relatively autonomous on their own development
 - how easy it supposedly is to make 20,000 a month with a single prompt — sorry, that one is not true, let's leave that to the hype merchants
 
 ## AdonisJS, or rigidity that pays off

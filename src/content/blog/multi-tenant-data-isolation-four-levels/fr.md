@@ -52,3 +52,5 @@ Ces solutions peuvent donc être une option… sauf si vous manipulez des donné
 Niveau 2, avec des [gardes-fous dans le code](/fr/blog/architecture-rules-that-break-the-build/) pour qu'un oubli soit impossible ou sans aucune incidence (tenant omis ⇒ zéro donnée retournée).
 
 Et fait de façon à ce que sortir un client dans sa propre base si le besoin se présente (un dump de toutes les tables du tenant) soit facile.
+
+C'est un point [que je vérifie dès que je rejoins un projet SaaS](/fr/work-with-me/).

@@ -69,6 +69,8 @@ Et la vraie VSA recommande de ne partager entre les features que le strict minim
 
 Sur ton projet actuel, est-ce que l'architecture choisie (en espérant qu'il y en ait une) est pertinente partout ?
 
+C'est une des premières questions [que je me pose sur une nouvelle codebase](/fr/work-with-me/).
+
 PS : je n'ai pas encore d'avis tranché sur la question. J'ai un peu expérimenté avec la VSA, mais moins qu'avec des architectures plus répandues (Clean Architecture + DDD notamment). Donc si des personnes ont fait de la VSA sur de gros projets, et sur la durée, ce serait génial d'avoir des retours.
 
 Bon designs !

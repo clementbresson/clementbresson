@@ -20,7 +20,7 @@ Dummy, stub, spy, mock, fake.
 
 Tous désignent une doublure (« test double » chez les Anglais, soit une version d'un élément dédiée au test), mais il est fréquent de les confondre (moi le premier).
 
-Or, pour bien communiquer entre développeurs (ou avec l'IA), il est important d'être précis.
+Or, pour bien communiquer entre développeurs (ou avec l'IA), il est important d'être précis. C'est un vocabulaire que j'utilise tout le temps [quand je relis le code d'une équipe](/fr/work-with-me/).
 
 Pour trancher, il suffit de retenir une question posée à la doublure. Gerard Meszaros la présente en 2007 : « à quoi sert cette doublure par rapport à ce qui **entre** et ce qui **sort** du code testé ? »
 

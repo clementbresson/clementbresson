@@ -40,4 +40,6 @@ Il insiste aussi sur ce qui traverse les frontières : uniquement des structures
 
 Au final, Martin nous donne une règle unique, vérifiable dans le code, au lieu de plusieurs schémas.
 
+C'est l'une des premières règles [que j'automatise dans une codebase](/fr/work-with-me/).
+
 Bon designs !

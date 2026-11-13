@@ -20,7 +20,7 @@ Those who have the choice of format... and who, in a large majority, choose full
 
 With this format, you're also not limited to searching within a 30 to 45 minute commute around an office.
 
-This is the format where I have seen, by far, the best teams in twelve years.
+This is the format where I have seen, by far, the best teams in twelve years. It's also [the format I work in myself](/work-with-me/).
 
 ## What I don't understand
 

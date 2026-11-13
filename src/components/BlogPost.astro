@@ -12,6 +12,7 @@ import {
   readingMinutes,
   type Post,
 } from "../lib/blog";
+import ContactCta from "./ContactCta.astro";
 import LangToggle from "./LangToggle.astro";
 import TagList from "./TagList.astro";
 
@@ -131,6 +132,8 @@ const related = await getRelated(post);
       )}
     </footer>
   </article>
+
+  <ContactCta post={post} />
 
   {related.length > 0 && (
     <aside

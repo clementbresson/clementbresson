@@ -65,7 +65,7 @@ And with that, the slowness argument falls too. You don't run it locally on ever
 
 And start with your critical domain only. Not the whole codebase, or you'll never do it.
 
-Personally, I include it in my clients' [harness](/blog/ai-harness-guides-and-sensors/).
+Personally, [I include it](/work-with-me/) in my clients' [harness](/blog/ai-harness-guides-and-sensors/).
 
 A test that cannot fail is not a test. It's a comment that burns CPU.
 

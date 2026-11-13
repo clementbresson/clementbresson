@@ -28,4 +28,6 @@ Votre code envoie un email. Vous ne pouvez pas relire la boîte de votre utilisa
 
 Ce troisième cas est un test plus faible que le deuxième : vous vérifiez que vous avez demandé, pas que l'effet derrière a bien été effectué. Mais c'est mieux que rien !
 
+C'est la stratégie que je transmets [aux équipes de dev avec qui je travaille](/fr/work-with-me/).
+
 Bon designs !

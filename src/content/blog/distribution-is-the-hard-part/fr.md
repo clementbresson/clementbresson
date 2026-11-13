@@ -25,7 +25,7 @@ Ok, ça peut être un peu complexe. Mais ça ne dépend que de nous, et on sait 
 
 1. Vibe-codez un MVP.
 2. Trouvez des clients vraiment intéressés.
-3. Faites vérifier votre produit par [un développeur de métier](/fr/blog/the-part-time-senior-developer/) pour le peaufiner et le sécuriser. À ce stade il doit encore être simple : une à deux semaines grand maximum.
+3. Faites vérifier votre produit par [un développeur de métier](/fr/blog/the-part-time-senior-developer/) pour [le peaufiner et le sécuriser](/fr/work-with-me/). À ce stade il doit encore être simple : une à deux semaines grand maximum.
 4. Retournez distribuer et vendre, focus à 100 %.
 5. S’il y a des résultats commerciaux, demandez à votre développeur quelques ajustements ou nouvelles fonctionnalités.
 6. Et ainsi de suite.

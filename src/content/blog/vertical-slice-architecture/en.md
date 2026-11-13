@@ -69,6 +69,8 @@ The idea of a single architecture imposed on the entire program.
 
 On your current project, is the chosen architecture (assuming there is one) relevant everywhere?
 
+It's one of the first questions [I ask myself on a new codebase](/work-with-me/).
+
 PS: I do not have a firm opinion on this yet. I have experimented a little with VSA, but less than with more widespread architectures (Clean Architecture + DDD in particular). So if people have done VSA on large projects, over the long term, feedback would be very welcome.
 
 Happy designing!

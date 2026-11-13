@@ -1,4 +1,5 @@
 export const links = {
+  work: "work-with-me/",
   linkedin: "https://www.linkedin.com/in/cl%C3%A9ment-bresson-37111944/",
   blog: "blog/",
   github: "https://github.com/Clement-Bresson",
@@ -9,6 +10,7 @@ export const links = {
 export type LinkKey = keyof typeof links;
 
 export const linkOrder: LinkKey[] = [
+  "work",
   "linkedin",
   "blog",
   "github",

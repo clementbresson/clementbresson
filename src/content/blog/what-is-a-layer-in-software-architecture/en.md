@@ -34,6 +34,8 @@ They are simply different angles for diagramming, analysing and understanding yo
 - **Dependencies**: is the [import graph](/blog/what-does-a-depends-on-b-mean/) clear? Or are there circular dependencies everywhere? Is there harmful, avoidable coupling? Is it easy to change one part and know exactly what is affected? Is that impact as small as it could be?
 - **Deployment**: what is deployed together, and what separately? What does that imply?
 
+These are the questions [I ask about a codebase when I join a team](/work-with-me/).
+
 ## An exercise
 
 Try drawing a diagram for each type of layer on one of your programs. You may be surprised, and you will certainly learn something.

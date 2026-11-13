@@ -28,4 +28,6 @@ Your code sends an email. You can't read your user's inbox. So, from your point 
 
 This third case is a weaker test than the second: you're checking that you asked, not that the effect behind it actually happened. But it's better than nothing!
 
+It's the strategy I pass on to [the dev teams I work with](/work-with-me/).
+
 Happy designing!

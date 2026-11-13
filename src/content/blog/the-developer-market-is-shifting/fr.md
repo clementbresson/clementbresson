@@ -25,7 +25,7 @@ Et ça, c’est tout neuf ! C’est encore timide et à la marge dans les entrep
 
 Ces PME n’ont et n’auront clairement pas besoin d’un développeur à temps plein : trop cher, et démesuré par rapport au besoin.
 
-En revanche, elles auront besoin d’un expert qui évolue au rythme des technologies et saura venir recadrer, corriger, améliorer, sécuriser et dimensionner ces outils internes au fur et à mesure.
+En revanche, elles auront besoin d’[un expert qui évolue au rythme des technologies](/fr/work-with-me/) et saura venir recadrer, corriger, améliorer, sécuriser et dimensionner ces outils internes au fur et à mesure.
 
 ## Conclusion
 

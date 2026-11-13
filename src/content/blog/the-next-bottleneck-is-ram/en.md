@@ -39,4 +39,6 @@ The gap will no longer be between those who know how to use AI and the others.
 
 It will be between those who can [run five in parallel](/blog/developer-workflows-are-fragmenting/) and those who run one.
 
+More agents also means more code to review, [which is what I handle for the teams I work with](/work-with-me/).
+
 How much RAM is in your work machine today? And who decides on the next one?

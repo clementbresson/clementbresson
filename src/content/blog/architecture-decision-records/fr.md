@@ -23,6 +23,8 @@ L'idée vient de [Michael Nygard](https://www.cognitect.com/blog/2011/11/15/docu
 2. Le nouvel arrivant lit dix ADR et comprend pourquoi le code ressemble à ça.
 3. Une IA qui lit le dépôt trouve les règles du jeu : c'est un [guide](/fr/blog/ai-harness-guides-and-sensors/) feedforward, gratuit.
 
+C'est pour ça que j'en demande [dans chaque équipe que je rejoins](/fr/work-with-me/).
+
 ## Le piège classique
 
 Écrire l'ADR après coup, pour justifier une décision déjà prise.

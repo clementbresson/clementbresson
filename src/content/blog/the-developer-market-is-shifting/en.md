@@ -25,7 +25,7 @@ And that is brand new! It is still timid and marginal in non-tech companies, but
 
 These businesses clearly do not, and will not, need a full-time developer: too expensive, and out of proportion with the need.
 
-What they will need is an expert who keeps pace with the technology and can come in to reframe, fix, improve, secure and right-size these internal tools as they go.
+What they will need is [an expert who keeps pace with the technology](/work-with-me/) and can come in to reframe, fix, improve, secure and right-size these internal tools as they go.
 
 ## Conclusion
 

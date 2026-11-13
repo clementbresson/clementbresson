@@ -23,6 +23,8 @@ The idea comes from [Michael Nygard](https://www.cognitect.com/blog/2011/11/15/d
 2. A new hire reads ten ADRs and understands why the code looks the way it does.
 3. An AI reading the repo finds the rules of the game: it's a free, feedforward [guide](/blog/ai-harness-guides-and-sensors/).
 
+That's why I ask for them [in every team I join](/work-with-me/).
+
 ## The classic trap
 
 Writing the ADR after the fact, to justify a decision already made.

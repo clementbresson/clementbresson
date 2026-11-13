@@ -1,4 +1,5 @@
 import { getAbsoluteLocaleUrl } from "astro:i18n";
+import { links } from "../data/links";
 import { tagCopy } from "../data/tags";
 import { getCopy, locales, type Locale } from "../i18n";
 import {
@@ -29,6 +30,8 @@ function header(): string[] {
     "",
     `- [${en.name} (${langName.en})](${getAbsoluteLocaleUrl("en")}): ${en.title}`,
     `- [${fr.name} (${langName.fr})](${getAbsoluteLocaleUrl("fr")}): ${fr.title}`,
+    `- [${en.links.work} (${langName.en})](${getAbsoluteLocaleUrl("en", links.work)}): ${en.work.metaDescription}`,
+    `- [${fr.links.work} (${langName.fr})](${getAbsoluteLocaleUrl("fr", links.work)}): ${fr.work.metaDescription}`,
     `- [Blog (${langName.en})](${getAbsoluteLocaleUrl("en", blogPath)}): ${en.blog.description}`,
     `- [Blog (${langName.fr})](${getAbsoluteLocaleUrl("fr", blogPath)}): ${fr.blog.description}`,
     "",

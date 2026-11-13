@@ -40,4 +40,6 @@ He also insists on what crosses the boundaries: only simple data structures, in 
 
 In the end, Martin gives us a single rule that can be verified in the code, instead of several diagrams.
 
+It's one of the first rules [I automate in a codebase](/work-with-me/).
+
 Happy designing!

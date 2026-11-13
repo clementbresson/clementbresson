@@ -34,7 +34,7 @@ It's the moment to take the time to:
 - look at what already exists and could be reused
 - ... and so on
 
-Each of these helps make the right choices, in the right order.
+Each of these helps make the right choices, in the right order. That's [how I start whenever I join a project](/work-with-me/).
 
 We're talking about 5, 10, 15 days "lost"... against months (easily) gained afterward.
 

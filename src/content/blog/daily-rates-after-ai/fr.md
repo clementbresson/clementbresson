@@ -55,6 +55,6 @@ Et le calcul devient simple :
 
 Le 1000 sera beaucoup plus rentable que le 500.
 
-C’est le raisonnement qui sous-tend le modèle du [développeur senior à temps partiel](/fr/blog/the-part-time-senior-developer/).
+C’est le raisonnement qui sous-tend le modèle du [développeur senior à temps partiel](/fr/blog/the-part-time-senior-developer/). C’est d’ailleurs [ma façon de travailler](/fr/work-with-me/).
 
 PS : ça veut dire que le vrai risque n’est plus de payer trop cher. C’est de payer pas cher.
