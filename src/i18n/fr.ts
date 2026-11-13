@@ -68,8 +68,8 @@ export const fr: Copy = {
         a: "Oui. Encadrer des développeurs et relire leur code fait partie du métier, qu’ils soient salariés, freelances ou en agence.",
       },
       {
-        q: "D’où travaillez-vous ?",
-        a: "En full remote, en français ou en anglais.",
+        q: "Travaillez-vous à distance ?",
+        a: "Surtout, avec des journées sur place quand le projet le demande, comme un lancement ou un atelier. En français ou en anglais.",
       },
       {
         q: "Combien ça coûte ?",

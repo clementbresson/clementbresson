@@ -163,7 +163,7 @@ Skip for now: Ahrefs Lite (€119/mo) and Semrush (€134/mo) — not enough dat
 
 Taken (2026-11-13):
 
-- **Rhythm: 1 to 5 days a week, depending on the client's needs.** No wording that turns a lead away (no "not a fit", no "part-time only"); full remote is stated as a fact, not an exclusion.
+- **Rhythm: 1 to 5 days a week, depending on the client's needs.** No wording that turns a lead away (no "not a fit", no "part-time only"); the way of working is remote with on-site days when the project calls for them (kickoff, workshop), and "full remote" is never used as a headline or filter.
 - **No published rates**, anywhere: not on the site, not for the audit. Pricing questions get "tell me about your project".
 - **The audit is not sold as a product.** It is the first step of every engagement (the reset) and can be bought alone, mentioned in one line on the work-with-me page. Internal floor: from €2,500, full written report within two weeks.
 - **Two buyer personas**, from the clients described in the blog: semi-technical founders and SME owners who vibe-coded a product and hit the wall; small dev teams adopting AI coding agents.

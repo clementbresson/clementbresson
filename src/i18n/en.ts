@@ -25,7 +25,7 @@ export const en: Copy = {
     metaTitle:
       "Fractional Tech Lead for products built with AI — Clément Bresson",
     metaDescription:
-      "Vibe-coded a product or adopting AI coding agents? A senior tech lead 1 to 5 days a week: architecture, AI harnesses, code reviews, security. Full remote.",
+      "Vibe-coded a product or adopting AI coding agents? A senior tech lead 1 to 5 days a week: architecture, AI harnesses, code reviews, security.",
     heading: "A fractional tech lead for products built with AI",
     intro:
       "A senior fullstack engineer on your project, 1 to 5 days a week depending on your needs, for as long as you need. 12 years shipping products, founding engineer twice. You keep moving fast with AI; I make sure what you build holds.",
@@ -67,8 +67,8 @@ export const en: Copy = {
         a: "Yes. Leading developers and reviewing their code is part of the job, whether they are employees, freelancers or an agency.",
       },
       {
-        q: "Where do you work from?",
-        a: "Full remote, in English or French.",
+        q: "Do you work remotely?",
+        a: "Mostly, with on-site days when the project calls for them, such as a kickoff or a workshop. In English or French.",
       },
       {
         q: "How much does it cost?",
