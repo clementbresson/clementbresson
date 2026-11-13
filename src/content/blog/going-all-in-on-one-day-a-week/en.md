@@ -38,3 +38,5 @@ So I am going all in on it: [supporting those who build without a developer but 
 - Sharing good practices between my clients, as long as they are not competitors
 
 In short: twelve years of experience and the fruit of my ongoing research, so that projects can exist and move forward with peace of mind.
+
+I detail [the four steps of this support](/blog/part-time-support-for-ai-built-tools/) in another article.

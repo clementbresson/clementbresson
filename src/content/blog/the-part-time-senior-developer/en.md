@@ -45,6 +45,8 @@ This is exactly [the model I work with](/work-with-me/):
 2. Regular follow-up for the life of the project: one day a week, two days a month... it is flexible.
 3. The guarantee of someone who does not fall asleep on a technology.
 
+I describe [how this support works, step by step](/blog/part-time-support-for-ai-built-tools/).
+
 There is also a version of this where there is no risky vibe-code in-house at all, and the senior simply comes in a few days a month to update and maintain what needs it.
 
 This model answers a [broader shift in the developer market](/blog/the-developer-market-is-shifting/), and the best of these part-time seniors increasingly [work full remote only](/blog/full-remote-freelance-only/).

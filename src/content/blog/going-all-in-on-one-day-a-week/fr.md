@@ -38,3 +38,5 @@ Je me lance donc à 100 % dessus : [accompagner ceux qui avancent sans dev mais 
 - Partage de bonnes pratiques entre mes clients, tant qu’ils ne sont pas concurrents
 
 En gros : douze ans d’expérience et le fruit de ma veille, pour que des projets puissent exister et avancer sereinement.
+
+Je détaille [les quatre étapes de cet accompagnement](/fr/blog/part-time-support-for-ai-built-tools/) dans un autre article.

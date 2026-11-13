@@ -45,6 +45,8 @@ C’est exactement [le modèle que je pratique](/fr/work-with-me/) :
 2. Un suivi régulier sur la durée du projet : un jour par semaine, deux jours par mois… c’est flexible.
 3. La garantie de quelqu’un qui ne s’endort pas sur une techno.
 
+Je détaille [comment se déroule cet accompagnement, étape par étape](/fr/blog/part-time-support-for-ai-built-tools/).
+
 Il y a aussi un monde possible où il n’y a aucun vibe-code dangereux en interne, et où le senior intervient juste quelques jours par mois pour mettre à jour et maintenir ce qui doit l’être.
 
 Ce modèle répond à une [mutation plus large du marché des développeurs](/fr/blog/the-developer-market-is-shifting/), et les meilleurs de ces seniors à temps partiel travaillent de plus en plus [en full remote uniquement](/fr/blog/full-remote-freelance-only/).
