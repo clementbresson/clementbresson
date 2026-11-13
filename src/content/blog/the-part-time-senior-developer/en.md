@@ -20,7 +20,7 @@ In these companies, there is often one person (the CEO, a partner, someone a bit
 But vibe-coding hits a wall fast:
 
 - [security](/blog/lovable-cve-real-cost-of-vibe-coding/)
-- scalability
+- [scalability](/blog/scaling-a-vibe-coded-mvp/)
 - more and more bugs
 - older features that break
 

@@ -21,7 +21,7 @@ What's hard? [Everything else](/blog/side-projects-die-after-the-mvp/):
 - [distribution](/blog/distribution-is-the-hard-part/)
 - iterating until you find product-market fit
 - iterating
-- scaling
+- [scaling](/blog/scaling-a-vibe-coded-mvp/)
 - avoiding churn
 - [keeping quality up over time](/work-with-me/)
 - …etc.

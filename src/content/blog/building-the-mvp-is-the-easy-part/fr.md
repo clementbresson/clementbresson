@@ -21,7 +21,7 @@ Ce qui est dur ? [Tout le reste](/fr/blog/side-projects-die-after-the-mvp/) :
 - [la distribution](/fr/blog/distribution-is-the-hard-part/)
 - itérer jusqu'à trouver le product-market fit
 - itérer
-- scaler
+- [scaler](/fr/blog/scaling-a-vibe-coded-mvp/)
 - éviter le churn
 - [maintenir la qualité sur la durée](/fr/work-with-me/)
 - …etc.
