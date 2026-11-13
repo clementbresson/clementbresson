@@ -29,7 +29,7 @@ Purely technical.
 
 For instance the "domain model" in Eric Evans's [DDD](/blog/architecture-and-craftsmanship-in-the-ai-era/).
 
-Here it has nothing to do with technology: the Model is the result of the exercise of modelling the business. Its concepts, its rules, its invariants.
+Here it has nothing to do with technology: the Model is the result of the exercise of modelling the business. Its concepts, its rules, its [invariants](/blog/ddd-aggregate-consistency-boundary/).
 
 It can of course be implemented in code afterwards, but it lives well upstream: in a diagram, on a whiteboard, in conversations with the business, [taking the time it needs](/blog/the-first-week-without-code/) before a single line gets typed.
 
