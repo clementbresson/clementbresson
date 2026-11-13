@@ -23,7 +23,7 @@ Pourquoi ? Quand on demande à l'IA d'évaluer ce qu'elle vient de faire… elle
 
 Mais [ouvrez une conversation avec un contexte neuf](/fr/blog/ai-review-loop-specialised-agents/) (sans ego :) et demandez d'évaluer, de trouver des failles dans ce que vient de faire une autre IA…
 
-… elle va trouver des problèmes à coup sûr !
+… elle va [trouver des problèmes à coup sûr](/fr/blog/ai-code-review-you-are-the-referee/) !
 
 Et autant elle fait parfois du zèle, autant parfois on peut avoir des sueurs…
 

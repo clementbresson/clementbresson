@@ -23,7 +23,7 @@ Why? When you ask the AI to evaluate what it just did… it often says everythin
 
 But [open a conversation with a fresh context](/blog/ai-review-loop-specialised-agents/) (no ego :) and ask it to evaluate, to find flaws in what another AI just did…
 
-… it will find problems, guaranteed!
+… it will [find problems, guaranteed](/blog/ai-code-review-you-are-the-referee/)!
 
 And while it sometimes overdoes it, sometimes it can also give you cold sweats…
 

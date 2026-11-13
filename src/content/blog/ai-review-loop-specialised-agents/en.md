@@ -15,7 +15,7 @@ My AI review workflow (for now).
 2. You create a `review-wrap-up` skill, in which you ask a review orchestrator to:
    - run up to X review rounds (usually 5 for me)
    - at each round, launch a [fresh, unbiased session](/blog/ai-code-less-secure-more-confident/) for each agent, reviewing from its own angle
-   - sort the feedback, check for false positives, and fix as it goes
+   - sort the feedback, [check for false positives](/blog/ai-code-review-you-are-the-referee/), and fix as it goes
 3. As a bonus, you ask that at the end of the reviews, a nice artifact be generated to present the work done, the way you like it:
    - the problem / the feature
    - the context

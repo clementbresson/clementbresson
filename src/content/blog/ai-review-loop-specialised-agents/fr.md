@@ -15,7 +15,7 @@ Mon workflow de review IA (du moment).
 2. Vous créez un skill `review-wrap-up`, dans lequel vous demandez à un orchestrateur de review de :
    - faire jusqu'à X rounds de review (5 en général pour moi)
    - lancer à chaque round une [session fraîche, non biaisée](/fr/blog/ai-code-less-secure-more-confident/), pour chaque agent, de review sur son angle
-   - trier les retours, vérifier les faux positifs, et fixer au fur et à mesure
+   - trier les retours, [vérifier les faux positifs](/fr/blog/ai-code-review-you-are-the-referee/), et fixer au fur et à mesure
 3. En bonus, vous demandez qu'à la fin des reviews, un joli artifact soit généré pour présenter le travail fait, comme vous l'aimez :
    - le problème / la feature
    - le contexte
