@@ -1,8 +1,9 @@
 ---
 title: "Maintenance effort = Integration strength × Distance × Volatility"
 description: "Vlad Khononov's formula from DDD Europe: maintenance effort is strength times distance times volatility, and zeroing just one dimension collapses it."
-pubDate: 2026-10-21
+pubDate: 2026-10-10
 tags: ["architecture", "ai-era"]
+linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7514755677114978304/
 sources:
   - title: "Balancing Coupling in Software Design (talk)"
     author: "Vlad Khononov"

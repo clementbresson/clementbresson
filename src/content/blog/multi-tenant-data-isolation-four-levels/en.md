@@ -18,7 +18,7 @@ There are four levels of isolation.
 Everyone in the same database, with a "who owns this" label on every row (a `tenant_id` column, for example).
 
 - **Pros**: cheap, easy.
-- **Cons**: one forgotten filter can cost you dearly. And if a big customer runs heavy jobs and it is badly managed, everyone slows down, because resources are shared (we see you, giant data ingestion workers).
+- **Cons**: [one forgotten filter](/blog/idor-ai-generated-routes/) can cost you dearly. And if a big customer runs heavy jobs and it is badly managed, everyone slows down, because resources are shared (we see you, giant data ingestion workers).
 
 ## Level 2: one shared database, one space per customer
 

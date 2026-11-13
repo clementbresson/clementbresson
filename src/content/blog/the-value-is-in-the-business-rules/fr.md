@@ -1,8 +1,9 @@
 ---
 title: "La valeur d'un projet tech est dans les règles métier"
 description: "Les règles métier, pas la technologie, concentrent 80 % de la valeur d'un projet tech. Pourtant la plupart des projets commencent par le code ou les interfaces."
-pubDate: 2026-10-21
+pubDate: 2026-10-04
 tags: ["architecture"]
+linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7512544186831835136/
 draft: false
 ---
 

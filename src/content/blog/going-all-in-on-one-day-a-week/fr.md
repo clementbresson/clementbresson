@@ -14,7 +14,7 @@ En quelques semaines, sans le chercher, j’ai croisé cinq profils quasi identi
 - Un peu tech : dev dans une autre vie, ancien PM, entrepreneur touche-à-tout, patron de PME…
 - Ont découvert l’IA sur les six à neuf derniers mois (coucou Claude).
 - Ont [vibe-codé](/fr/blog/distribution-is-the-hard-part/) des trucs assez impressionnants, que je n’aurais pas cru possibles il y a un an…
-- … et ont vu les limites arriver : bugs incompréhensibles, premiers clients qui paient sans savoir ce qu’il y a derrière, grosses questions de sécurité, qualité du vibe-code qui s’écroule.
+- … et ont vu les limites arriver : bugs incompréhensibles, premiers clients qui paient sans savoir ce qu’il y a derrière, [grosses questions de sécurité](/fr/blog/lovable-cve-real-cost-of-vibe-coding/), qualité du vibe-code qui s’écroule.
 
 Tous sont arrivés jusqu’à moi d’une façon ou d’une autre : en direct, par mise en relation, par message.
 

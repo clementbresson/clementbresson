@@ -1,8 +1,9 @@
 ---
 title: "Effort de maintenance = Force × Distance × Volatilité"
 description: "Vlad Khononov présente à DDD Europe une formule simple : il suffit de ramener une seule dimension à zéro pour que l'effort de maintenance s'effondre."
-pubDate: 2026-10-21
+pubDate: 2026-10-10
 tags: ["architecture", "ai-era"]
+linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7514755677114978304/
 sources:
   - title: "Balancing Coupling in Software Design (talk)"
     author: "Vlad Khononov"

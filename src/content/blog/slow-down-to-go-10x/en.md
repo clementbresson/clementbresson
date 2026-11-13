@@ -1,8 +1,9 @@
 ---
 title: "Reaching 10x in the agentic era starts by going 0.3x"
 description: "To ship 10x faster with AI agents, you first have to slow down: a solid harness, clean parallelisation and mastered CI/CD before you accelerate."
-pubDate: 2026-10-21
+pubDate: 2026-09-28
 tags: ["ai-harnesses", "ai-era"]
+linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7510412986759446528/
 draft: false
 ---
 

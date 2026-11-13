@@ -1,8 +1,9 @@
 ---
 title: "Harness Engineer: the developer job of tomorrow?"
 description: "When you barely write code by hand, the real guardrail for AI is the harness. A portrait of the Harness Engineer, the ultimate senior of the agentic era."
-pubDate: 2026-10-21
+pubDate: 2026-09-22
 tags: ["ai-harnesses", "ai-era"]
+linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7508230022730604545/
 draft: false
 ---
 

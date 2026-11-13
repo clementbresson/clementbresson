@@ -1,8 +1,9 @@
 ---
 title: "ADRs give AI agents the history your code can't tell"
 description: "README, CLAUDE.md and AGENTS.md only describe the current state of the code. ADRs add the missing history: why that decision, which alternatives were ruled out."
-pubDate: 2026-10-21
+pubDate: 2026-09-30
 tags: ["architecture", "ai-harnesses"]
+linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7511129903107551233/
 sources:
   - title: "AGENTS.md"
     url: https://agents.md/

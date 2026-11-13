@@ -39,6 +39,16 @@
       "description": "Des tests qui attrapent vraiment les bugs : doublures, frontières, mutation testing et ce que le coverage cache."
     }
   },
+  "security": {
+    "en": {
+      "label": "Security",
+      "description": "The security holes AI-generated apps ship with, and how to catch them before production."
+    },
+    "fr": {
+      "label": "Sécurité",
+      "description": "Les failles de sécurité des apps générées par IA, et comment les repérer avant la prod."
+    }
+  },
   "ai-era": {
     "en": {
       "label": "The AI era",
@@ -47,6 +57,16 @@
     "fr": {
       "label": "L’ère de l’IA",
       "description": "Comment l’IA change le travail des développeurs, leur marché et ce qui est valorisé."
+    }
+  },
+  "product": {
+    "en": {
+      "label": "Product",
+      "description": "Building products people actually use: scope, UX, launching and selling what you build."
+    },
+    "fr": {
+      "label": "Produit",
+      "description": "Construire des produits vraiment utilisés : périmètre, UX, lancement et vente de ce qu’on construit."
     }
   },
   "design-system": {

@@ -2,7 +2,7 @@
 title: "Créer un produit est simple. La distribution, non."
 description: "Construire un produit dépend des développeurs. Vendre, onboarder et retenir des clients, non. Un plan simple pour les porteurs de projet tech."
 pubDate: 2026-09-06
-tags: ["fractional"]
+tags: ["product", "fractional"]
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7502480074588389376/
 draft: false
 ---
@@ -30,6 +30,6 @@ Ok, ça peut être un peu complexe. Mais ça ne dépend que de nous, et on sait 
 5. S’il y a des résultats commerciaux, demandez à votre développeur quelques ajustements ou nouvelles fonctionnalités.
 6. Et ainsi de suite.
 
-De la distribution découlera votre réussite commerciale. Pas des dix fonctionnalités de plus sans aucun utilisateur.
+De la distribution découlera votre réussite commerciale. Pas des [dix fonctionnalités de plus](/fr/blog/the-best-saas-feature-is-adding-nothing/) sans aucun utilisateur.
 
 Bon courage aux entrepreneurs !

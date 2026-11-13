@@ -3,6 +3,7 @@ title: "Onion Architecture: business code at the centre"
 description: "What Jeffrey Palermo proposed in 2008 with Onion Architecture: a single dependency rule so that business code stops paying for every technology change."
 pubDate: 2026-08-24
 tags: ["architecture"]
+linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7497547150860443649/
 sources:
   - title: "The Onion Architecture: part 1"
     author: "Jeffrey Palermo"

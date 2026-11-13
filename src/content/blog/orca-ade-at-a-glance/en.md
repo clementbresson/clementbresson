@@ -1,8 +1,9 @@
 ---
 title: "Orca: one glance at every repo, worktree and agent"
 description: "An ADE that shows every repo and its worktrees, with the status of each agent at a glance: with 3 to 6 parallel sessions, visibility changes everything."
-pubDate: 2026-10-21
+pubDate: 2026-09-26
 tags: ["ai-era", "ai-harnesses"]
+linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7509720442962808832/
 sources:
   - title: "Orca — The agent development environment"
     author: "Stably"

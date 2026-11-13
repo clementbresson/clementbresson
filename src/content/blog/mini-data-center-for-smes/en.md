@@ -1,7 +1,7 @@
 ---
 title: "The next big IT purchase for SMEs? A mini data center"
 description: "Local models are finally credible, and the US CLOUD Act is real: an SME's next big IT purchase might be a machine instead of a cloud AI subscription."
-pubDate: 2026-10-21
+pubDate: 2026-10-08
 tags: ["ai-era"]
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7513778374192971776/
 sources:

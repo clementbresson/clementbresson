@@ -26,7 +26,7 @@ Une IA produit du code qui ressemble à du code juste… très souvent sans l’
 
 Exemple de règle : le code métier du domaine n’importe rien de l’infrastructure (si on fait de la Clean Architecture ou de l’Hexagonale, par exemple).
 
-Cette règle dans un README ou un CLAUDE.md, c’est une **intention**. Mieux que rien… mais souvent non lue ou ignorée.
+Cette règle dans un README ou un CLAUDE.md, c’est une **intention**. Mieux que rien… mais [souvent non lue](/fr/blog/check-claude-code-read-your-claude-md/) ou ignorée.
 
 Placée dans une config, elle devient une **contrainte** :
 
@@ -43,7 +43,7 @@ La règle ne peut plus être contournée.
 
 C’était déjà vrai avant… mais ça l’est encore plus aujourd’hui.
 
-Une fois choisie une architecture cohérente avec le projet (un CRUD n’a pas besoin d’une Clean Architecture avec du DDD…), elle doit être standardisée à outrance.
+Une fois choisie une architecture cohérente avec le projet (un CRUD n’a pas besoin d’[une Clean Architecture avec du DDD](/fr/blog/ddd-clean-architecture-three-months/)…), elle doit être standardisée à outrance.
 
 Pour chaque règle :
 

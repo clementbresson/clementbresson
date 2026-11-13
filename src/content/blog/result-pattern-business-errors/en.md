@@ -1,8 +1,9 @@
 ---
 title: "The Result Pattern: telling bugs from business errors"
 description: "Your cancelOrder() can fail in many predictable ways. The Result Pattern separates the business error you return from the bug that goes to Sentry."
-pubDate: 2026-10-21
+pubDate: 2026-10-12
 tags: ["architecture"]
+linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7515512106939678720/
 sources:
   - title: "Result (std::result)"
     author: "The Rust Project"

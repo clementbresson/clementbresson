@@ -18,7 +18,7 @@ Il y a quatre niveaux de séparation.
 Tout le monde dans la même base, avec une étiquette « à qui ça appartient » sur chaque ligne (une colonne `tenant_id`, par exemple).
 
 - **Pour** : pas cher, facile.
-- **Contre** : un filtre oublié peut coûter cher. Et si un gros client fait tourner des trucs lourds et que c'est mal géré, tout le monde rame, car les ressources sont partagées (on vous voit, les énormes workers d'ingestion de données).
+- **Contre** : [un filtre oublié](/fr/blog/idor-ai-generated-routes/) peut coûter cher. Et si un gros client fait tourner des trucs lourds et que c'est mal géré, tout le monde rame, car les ressources sont partagées (on vous voit, les énormes workers d'ingestion de données).
 
 ## Niveau 2 : une base partagée, un espace par client
 

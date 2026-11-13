@@ -19,7 +19,7 @@ Dans ces boîtes, il y a souvent une personne (le CEO, un associé, quelqu’un 
 
 Mais vibe-coder, ça atteint vite un mur :
 
-- sécurité
+- [sécurité](/fr/blog/lovable-cve-real-cost-of-vibe-coding/)
 - scalabilité
 - de plus en plus de bugs
 - anciennes fonctionnalités qui cassent

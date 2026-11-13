@@ -3,6 +3,7 @@ title: 'What is a "layer" in software architecture?'
 description: 'Abstraction, technical role, call flow, dependencies, deployment: "layer" names five ways of slicing a program, and yours probably has all of them.'
 pubDate: 2026-08-26
 tags: ["architecture"]
+linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7498319107990212608/
 draft: false
 ---
 
@@ -31,7 +32,7 @@ They are simply different angles for diagramming, analysing and understanding yo
 - **Abstraction**: where is the concrete code? The conceptual code? Is everything mixed together from this point of view?
 - **Technical**: who does what? Are the operational roles clear? Or does everything take part a little in everything?
 - **Call flow**: is the data flow clear? Could it be simplified? Is it performant? Are there a huge number of round trips?
-- **Dependencies**: is the [import graph](/blog/what-does-a-depends-on-b-mean/) clear? Or are there circular dependencies everywhere? Is there harmful, avoidable coupling? Is it easy to change one part and know exactly what is affected? Is that impact as small as it could be?
+- **Dependencies**: is the [import graph](/blog/what-does-a-depends-on-b-mean/) clear? Or are there circular dependencies everywhere? Is there [harmful, avoidable coupling](/blog/coupling-is-the-worst-thing-in-a-codebase/)? Is it easy to change one part and know exactly what is affected? Is that impact as small as it could be?
 - **Deployment**: what is deployed together, and what separately? What does that imply?
 
 These are the questions [I ask about a codebase when I join a team](/work-with-me/).

@@ -2,7 +2,7 @@
 title: "Building a product is easy. Distribution is the hard part."
 description: "Developers often forget that building a product depends on them. Selling, onboarding and keeping customers does not. A simple plan for technical founders."
 pubDate: 2026-09-06
-tags: ["fractional"]
+tags: ["product", "fractional"]
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7502480074588389376/
 draft: false
 ---
@@ -30,6 +30,6 @@ None of it depends on us. Sometimes it feels like moving backwards, and weeks ca
 5. If the commercial results come in, ask your developer for a few adjustments or new features.
 6. And so on.
 
-Your commercial success will come from distribution. Not from ten more features with no users.
+Your commercial success will come from distribution. Not from [ten more features](/blog/the-best-saas-feature-is-adding-nothing/) with no users.
 
 Good luck to the founders out there!

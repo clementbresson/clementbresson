@@ -1,8 +1,9 @@
 ---
 title: "Les ADR racontent à l'IA l'histoire que le code ne raconte pas"
 description: "README, CLAUDE.md et AGENTS.md ne racontent que l'état actuel du code. Les ADR ajoutent l'histoire : pourquoi cette décision, quelles alternatives écartées."
-pubDate: 2026-10-21
+pubDate: 2026-09-30
 tags: ["architecture", "ai-harnesses"]
+linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7511129903107551233/
 sources:
   - title: "AGENTS.md"
     url: https://agents.md/

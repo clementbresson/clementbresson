@@ -1,8 +1,9 @@
 ---
 title: "Orca : une vue d'ensemble sur mes repos et mes agents"
 description: "Un ADE qui affiche tous mes repos et leurs worktrees, avec l'état de chaque agent d'un coup d'œil : avec 3 à 6 sessions en parallèle, la visibilité change tout."
-pubDate: 2026-10-21
+pubDate: 2026-09-26
 tags: ["ai-era", "ai-harnesses"]
+linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7509720442962808832/
 sources:
   - title: "Orca — The agent development environment"
     author: "Stably"

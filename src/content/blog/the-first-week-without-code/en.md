@@ -1,8 +1,9 @@
 ---
 title: "The first week without writing a line of code"
 description: "On any project, greenfield or brownfield, leave the keyboard alone the first week: understand, challenge the architecture, model the business."
-pubDate: 2026-10-21
+pubDate: 2026-09-29
 tags: ["architecture", "fractional"]
+linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7510793394902757376/
 draft: false
 ---
 

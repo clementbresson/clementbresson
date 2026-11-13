@@ -1,8 +1,9 @@
 ---
 title: "Full remote, freelance: the only team I would hire"
 description: "If I had to hire a team tomorrow, it would be freelance and full remote only: that is where the best talent actually is, not within a 30-minute commute."
-pubDate: 2026-10-21
+pubDate: 2026-10-03
 tags: ["fractional", "leading-devs"]
+linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7512088649287794688/
 draft: false
 ---
 
@@ -24,7 +25,7 @@ This is the format where I have seen, by far, the best teams in twelve years. It
 
 ## What I don't understand
 
-Why do French companies still insist on imposing two to three on-site days a week?
+Why do French companies still insist on [imposing two to three on-site days a week](/blog/forced-return-to-office/)?
 
 Nobody wants it. It shrinks the talent pool enormously. And it drives away the best, precisely those who have the choice.
 

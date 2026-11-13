@@ -1,7 +1,7 @@
 ---
 title: "Software architecture and craftsmanship in the AI era"
 description: "Transaction Script, DDD, Clean Architecture, CQRS, TDD, SOLID, Big Ball of Mud: working on software architecture has never been more useful or accessible."
-pubDate: 2026-10-21
+pubDate: 2026-10-11
 tags: ["architecture", "ai-era"]
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7515165221951438848/
 sources:
@@ -79,3 +79,5 @@ On top of that, it's absolutely fascinating, and nowadays super accessible with 
 If you don't know where to start, my first recommendation is [Learning DDD](https://vladikk.com/page/books/) by Khononov (DDD-focused, but you have to start somewhere).
 
 To go further on the Model question in DDD, I've also written about [the difference between an ORM's Model and the domain model](/blog/model-orm-vs-domain-model/).
+
+And to know what to work on first, [ask Claude what it is bad at](/blog/ask-claude-what-it-is-bad-at/).

@@ -1,8 +1,9 @@
 ---
 title: "Opinionated frameworks are an AI harness"
 description: "AdonisJS is famously opinionated. A talk with Jonathan Serra (AI2H) on why that rigidity gives an AI an extra harness, and an open question."
-pubDate: 2026-09-18
+pubDate: 2026-09-17
 tags: ["ai-harnesses", "architecture"]
+linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7506422415611142144/
 sources:
   - title: "AI2H"
     author: "Jonathan Serra"
@@ -37,7 +38,7 @@ Of course, the more opinionated a framework is, the more rigid it is. But rigidi
 
 ## What I have been noticing for a year
 
-That echoes something I have observed since last year: the more [standardised and strict a codebase](/blog/architecture-rules-that-break-the-build/) is, the less the AI goes off in every direction.
+That echoes something I have observed since last year: the more [standardised and strict a codebase](/blog/architecture-rules-that-break-the-build/) is, [the less the AI goes off in every direction](/blog/rigorous-codebase-best-ai-harness/).
 
 It is one of the best feedforward guides (see [Böckeler's matrix](https://martinfowler.com/articles/harness-engineering.html)) you can give a good harness.
 

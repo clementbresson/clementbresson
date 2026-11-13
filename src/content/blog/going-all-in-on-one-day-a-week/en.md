@@ -14,7 +14,7 @@ In a few weeks, without looking for it, I met five near-identical profiles.
 - A bit technical: a developer in another life, a former PM, a jack-of-all-trades entrepreneur, the owner of a small business...
 - Discovered AI over the last six to nine months (hi, Claude).
 - [Vibe-coded](/blog/distribution-is-the-hard-part/) some pretty impressive things, things I would not have believed possible a year ago...
-- ...and saw the limits arrive: incomprehensible bugs, first paying customers with no idea what is behind the product, big security questions, vibe-code quality collapsing.
+- ...and saw the limits arrive: incomprehensible bugs, first paying customers with no idea what is behind the product, [big security questions](/blog/lovable-cve-real-cost-of-vibe-coding/), vibe-code quality collapsing.
 
 All of them reached me one way or another: directly, through an introduction, through a message.
 

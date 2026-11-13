@@ -1,8 +1,9 @@
 ---
 title: "Majuscules-Driven Development : crier sur l'IA ne sert à rien"
 description: "Crier en majuscules sur une IA pour qu'elle respecte une règle d'architecture ne sert à rien : un outil déterministe la vérifie à votre place."
-pubDate: 2026-10-21
+pubDate: 2026-09-24
 tags: ["architecture", "ai-harnesses"]
+linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7508938574520672256/
 sources:
   - title: "eslint-plugin-boundaries"
     author: "Javier Brea"

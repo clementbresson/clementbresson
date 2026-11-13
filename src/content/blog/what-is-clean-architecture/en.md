@@ -3,6 +3,7 @@ title: "Clean Architecture is one rule: the Dependency Rule"
 description: "What Robert C. Martin extracted in 2012 from Hexagonal, Onion and friends: a single rule you can verify in the code, the Dependency Rule."
 pubDate: 2026-08-25
 tags: ["architecture"]
+linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7497979999753375744/
 sources:
   - title: "The Clean Architecture"
     author: "Robert C. Martin"

@@ -26,7 +26,7 @@ An AI produces code that looks like correct code… and very often is not. The d
 
 Example rule: domain code imports nothing from the infrastructure (if you are doing Clean Architecture or Hexagonal, for instance).
 
-That rule in a README or a CLAUDE.md is an **intention**. Better than nothing… but often unread or ignored.
+That rule in a README or a CLAUDE.md is an **intention**. Better than nothing… but [often unread](/blog/check-claude-code-read-your-claude-md/) or ignored.
 
 Placed in a config, it becomes a **constraint**:
 
@@ -43,7 +43,7 @@ The rule can no longer be bypassed.
 
 It was already true before… but it is even more true today.
 
-Once you have chosen an architecture that fits the project (a CRUD does not need Clean Architecture plus DDD…), it must be standardised to the extreme.
+Once you have chosen an architecture that fits the project (a CRUD does not need [Clean Architecture plus DDD](/blog/ddd-clean-architecture-three-months/)…), it must be standardised to the extreme.
 
 For every rule:
 

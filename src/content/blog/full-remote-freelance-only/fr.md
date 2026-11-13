@@ -1,8 +1,9 @@
 ---
 title: "Freelance, full remote : la seule équipe que je recruterais"
 description: "Si je dois recruter demain, ce sera freelance et full remote : c'est là que se trouve le vivier des meilleurs profils, pas dans un rayon de 30 minutes."
-pubDate: 2026-10-21
+pubDate: 2026-10-03
 tags: ["fractional", "leading-devs"]
+linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7512088649287794688/
 draft: false
 ---
 
@@ -24,7 +25,7 @@ C'est sur ce format que j'ai vu, et de loin, les meilleures équipes depuis douz
 
 ## Ce que je ne comprends pas
 
-Pourquoi les entreprises françaises s'obstinent-elles encore à imposer deux à trois jours sur site par semaine ?
+Pourquoi les entreprises françaises s'obstinent-elles encore à [imposer deux à trois jours sur site par semaine](/fr/blog/forced-return-to-office/) ?
 
 Personne n'en veut. Ça restreint énormément le vivier. Et ça fait fuir les meilleurs, justement ceux qui ont le choix.
 

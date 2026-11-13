@@ -3,6 +3,7 @@ title: "Zero hand-written code: my harness engineering experiment"
 description: "I set myself the challenge of writing a program without typing a single line myself, pushing the AI harness to its limit, inspired by an OpenAI experiment."
 pubDate: 2026-09-21
 tags: ["ai-harnesses", "architecture"]
+linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7507865743212961792/
 sources:
   - title: "Harness engineering: leveraging Codex in an agent-first world"
     author: "Ryan Lopopolo"

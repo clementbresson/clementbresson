@@ -1,8 +1,9 @@
 ---
 title: "Le Result Pattern : distinguer bug et erreur métier"
 description: "cancelOrder() peut échouer de plein de façons prévisibles. Le Result Pattern distingue l'erreur métier qu'on renvoie du bug qui part dans Sentry."
-pubDate: 2026-10-21
+pubDate: 2026-10-12
 tags: ["architecture"]
+linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7515512106939678720/
 sources:
   - title: "Result (std::result)"
     author: "The Rust Project"

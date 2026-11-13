@@ -1,8 +1,9 @@
 ---
 title: "Le 10x à l'ère agentique commence par du 0,3x"
 description: "Pour livrer 10x plus vite avec des agents IA, il faut d'abord ralentir : harnais solide, parallélisation propre et CI/CD maîtrisée avant d'accélérer."
-pubDate: 2026-10-21
+pubDate: 2026-09-28
 tags: ["ai-harnesses", "ai-era"]
+linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7510412986759446528/
 draft: false
 ---
 

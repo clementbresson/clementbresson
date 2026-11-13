@@ -1,8 +1,9 @@
 ---
 title: "La première semaine sans écrire une ligne de code"
 description: "Sur un projet greenfield ou brownfield, ne pas toucher au clavier la première semaine : comprendre, challenger l'architecture, modéliser le métier."
-pubDate: 2026-10-21
+pubDate: 2026-09-29
 tags: ["architecture", "fractional"]
+linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7510793394902757376/
 draft: false
 ---
 

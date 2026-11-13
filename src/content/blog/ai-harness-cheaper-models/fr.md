@@ -1,8 +1,9 @@
 ---
 title: "Un bon harnais IA permet d'utiliser des modèles moins chers"
 description: "Sur une codebase aux règles d'import enfreintes, Opus corrige seul, Haiku s'y fait piéger, jusqu'à ce qu'une règle ESLint le corrige pour 4 à 5 fois moins cher."
-pubDate: 2026-10-21
+pubDate: 2026-10-05
 tags: ["ai-harnesses", "architecture"]
+linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7512918489033052160/
 sources:
   - title: "Claude Opus"
     author: "Anthropic"

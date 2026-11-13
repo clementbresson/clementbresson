@@ -1,7 +1,7 @@
 ---
 title: "Architecture logicielle et craftsmanship à l'ère de l'IA"
 description: "Transaction Script, DDD, Clean Architecture, CQRS, TDD, SOLID, Big Ball of Mud : bosser l'architecture logicielle n'a jamais été aussi utile ni accessible."
-pubDate: 2026-10-21
+pubDate: 2026-10-11
 tags: ["architecture", "ai-era"]
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7515165221951438848/
 sources:
@@ -79,3 +79,5 @@ En plus, c'est absolument passionnant, et aujourd'hui super accessible avec Inte
 Si vous ne savez pas par où commencer, je recommande en premier [Learning DDD](https://vladikk.com/page/books/) de Khononov (focus DDD, mais il faut bien commencer quelque part).
 
 Pour creuser le sujet du Model en DDD, j'ai aussi écrit sur [la différence entre le Model d'un ORM et le domain model](/fr/blog/model-orm-vs-domain-model/).
+
+Et pour savoir quoi travailler en priorité, [demandez à Claude dans quoi il est nul](/fr/blog/ask-claude-what-it-is-bad-at/).

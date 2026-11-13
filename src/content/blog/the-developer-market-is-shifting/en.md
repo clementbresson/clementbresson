@@ -34,3 +34,7 @@ Full-time developers, often on permanent contracts, will become rarer and rarer.
 In the end, like in every revolution: one market collapses while another opens up.
 
 But the expectations placed on the survivors of this new market are going to be enormous: I already see them taking shape behind a new job title, the [Harness Engineer](/blog/harness-engineer-the-next-developer-role/).
+
+To get ready, one simple lead: [work hard on what AI will stay mediocre at](/blog/ask-claude-what-it-is-bad-at/).
+
+As for the total number of developers, [I even bet it will go up](/blog/ai-will-need-more-developers/): AI is going to make the number of projects explode.

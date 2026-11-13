@@ -1,8 +1,9 @@
 ---
 title: "Where the value of a tech project really lives"
 description: "Business rules, not technology, hold 80% of a tech project's value. Yet most projects start with code choices or the first screens instead."
-pubDate: 2026-10-21
+pubDate: 2026-10-04
 tags: ["architecture"]
+linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7512544186831835136/
 draft: false
 ---
 

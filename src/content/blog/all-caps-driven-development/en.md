@@ -1,8 +1,9 @@
 ---
 title: "ALL-CAPS Driven Development: shouting at AI does not work"
 description: "Shouting in capital letters at an AI to enforce an architecture rule does not work: a deterministic tool can check it for you instead."
-pubDate: 2026-10-21
+pubDate: 2026-09-24
 tags: ["architecture", "ai-harnesses"]
+linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7508938574520672256/
 sources:
   - title: "eslint-plugin-boundaries"
     author: "Javier Brea"

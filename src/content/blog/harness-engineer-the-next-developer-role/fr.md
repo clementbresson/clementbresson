@@ -1,8 +1,9 @@
 ---
 title: "Harness Engineer : le métier de demain ?"
 description: "Quand on ne code presque plus à la main, le seul vrai garde-fou de l'IA, c'est le harnais. Portrait du Harness Engineer, l'ultime senior de l'ère agentique."
-pubDate: 2026-10-21
+pubDate: 2026-09-22
 tags: ["ai-harnesses", "ai-era"]
+linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7508230022730604545/
 draft: false
 ---
 

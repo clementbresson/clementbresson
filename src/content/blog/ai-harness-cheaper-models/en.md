@@ -1,8 +1,9 @@
 ---
 title: "A good AI harness lets you use much cheaper models"
 description: "On a codebase with broken import rules, Opus fixes it alone, Haiku falls for it, until an ESLint rule corrects it for 4 to 5 times less money."
-pubDate: 2026-10-21
+pubDate: 2026-10-05
 tags: ["ai-harnesses", "architecture"]
+linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7512918489033052160/
 sources:
   - title: "Claude Opus"
     author: "Anthropic"

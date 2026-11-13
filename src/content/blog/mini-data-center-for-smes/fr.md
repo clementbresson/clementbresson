@@ -1,7 +1,7 @@
 ---
 title: "Le prochain gros achat IT des PME ? Un mini data-center"
 description: "Modèles locaux enfin crédibles, CLOUD Act américain : la prochaine grosse dépense IT d'une PME pourrait être une machine plutôt qu'un abonnement cloud."
-pubDate: 2026-10-21
+pubDate: 2026-10-08
 tags: ["ai-era"]
 linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7513778374192971776/
 sources:

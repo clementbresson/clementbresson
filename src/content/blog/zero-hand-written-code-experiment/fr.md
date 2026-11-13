@@ -3,6 +3,7 @@ title: "Zéro ligne de code écrite à la main : mon expérience"
 description: "J'ai relevé le défi d'écrire un programme sans taper une seule ligne moi-même, en poussant le harnais IA à son maximum, inspiré par une expérience d'OpenAI."
 pubDate: 2026-09-21
 tags: ["ai-harnesses", "architecture"]
+linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7507865743212961792/
 sources:
   - title: "Harness engineering: leveraging Codex in an agent-first world"
     author: "Ryan Lopopolo"

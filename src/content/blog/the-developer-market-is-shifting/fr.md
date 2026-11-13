@@ -34,3 +34,7 @@ Les développeurs à temps plein, souvent en CDI, vont devenir de plus en plus r
 Au final, comme lors de toutes les révolutions : un marché dégringole pendant qu’un autre s’ouvre.
 
 En revanche, les attentes sur les survivants de ce nouveau marché vont être énormes : je les vois déjà se dessiner derrière un nouveau nom de poste, celui de [Harness Engineer](/fr/blog/harness-engineer-the-next-developer-role/).
+
+Pour s'y préparer, une piste simple : [travailler à fond ce dans quoi l'IA restera moyenne](/fr/blog/ask-claude-what-it-is-bad-at/).
+
+Et sur le nombre total de développeurs, [je parie même sur une hausse](/fr/blog/ai-will-need-more-developers/) : l'IA va faire exploser le nombre de projets.

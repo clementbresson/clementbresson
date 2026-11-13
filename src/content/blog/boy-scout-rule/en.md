@@ -1,8 +1,9 @@
 ---
 title: "The boy scout rule: clean up a codebase without a big rewrite"
 description: "Updating a codebase's conventions without a big bang rewrite: every time you touch a file, you apply the latest rules the team agreed on."
-pubDate: 2026-10-21
+pubDate: 2026-09-27
 tags: ["architecture", "code-review"]
+linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7510098144819347456/
 sources:
   - title: "Clean Code: A Handbook of Agile Software Craftsmanship"
     author: "Robert C. Martin"

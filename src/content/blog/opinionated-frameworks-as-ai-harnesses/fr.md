@@ -1,8 +1,9 @@
 ---
 title: "Un framework opinionated, c'est un harnais pour l'IA"
 description: "AdonisJS est réputé très opinionated. Discussion avec Jonathan Serra (AI2H) sur pourquoi cette rigidité donne un harnais de plus à l'IA."
-pubDate: 2026-09-18
+pubDate: 2026-09-17
 tags: ["ai-harnesses", "architecture"]
+linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7506422415611142144/
 sources:
   - title: "AI2H"
     author: "Jonathan Serra"
@@ -37,7 +38,7 @@ Bien sûr, plus un framework est opinionated, plus il est rigide. Mais la rigidi
 
 ## Ce que j'observe depuis un an
 
-Ça fait écho à un constat que je fais depuis l'année dernière : plus une [codebase est standardisée et stricte](/fr/blog/architecture-rules-that-break-the-build/), moins l'IA part dans tous les sens.
+Ça fait écho à un constat que je fais depuis l'année dernière : plus une [codebase est standardisée et stricte](/fr/blog/architecture-rules-that-break-the-build/), [moins l'IA part dans tous les sens](/fr/blog/rigorous-codebase-best-ai-harness/).
 
 C'est un des meilleurs guides feedforward (voir [la matrice de Böckeler](https://martinfowler.com/articles/harness-engineering.html)) qu'on puisse offrir à un bon harnais.
 

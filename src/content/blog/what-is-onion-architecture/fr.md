@@ -3,6 +3,7 @@ title: "L'Onion Architecture : le code métier au centre"
 description: "Jeffrey Palermo, 2008 : une règle de dépendance unique pour que le code métier ne subisse plus les changements de technologie."
 pubDate: 2026-08-24
 tags: ["architecture"]
+linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7497547150860443649/
 sources:
   - title: "The Onion Architecture: part 1"
     author: "Jeffrey Palermo"

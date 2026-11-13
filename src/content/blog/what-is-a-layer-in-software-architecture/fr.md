@@ -3,6 +3,7 @@ title: "Une « couche » en architecture logicielle, c'est quoi ?"
 description: "Abstraction, technique, flux d'appel, dépendances, déploiement : « couche » désigne cinq découpages différents, et votre programme les a sans doute tous."
 pubDate: 2026-08-26
 tags: ["architecture"]
+linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7498319107990212608/
 draft: false
 ---
 
@@ -31,7 +32,7 @@ Elles ne sont que différents angles pour schématiser, analyser et comprendre v
 - **Abstraction** : où se trouve le code concret ? Le code conceptuel ? Est-ce que tout est mélangé de ce point de vue ?
 - **Technique** : qui fait quoi ? Les rôles pour le fonctionnement sont-ils clairs ? Ou tout participe-t-il un peu à tout ?
 - **Flux d'appel** : le flux de données est-il clair ? Simplifiable ? Performant ? Y a-t-il énormément d'allers-retours ?
-- **Dépendances** : le [graphe d'imports](/fr/blog/what-does-a-depends-on-b-mean/) est-il clair ? Ou y a-t-il des dépendances circulaires dans tous les sens ? Y a-t-il du couplage nuisible et évitable ? Est-il facile de changer une partie et de savoir exactement ce qui est impacté ? Cet impact est-il aussi faible que possible ?
+- **Dépendances** : le [graphe d'imports](/fr/blog/what-does-a-depends-on-b-mean/) est-il clair ? Ou y a-t-il des dépendances circulaires dans tous les sens ? Y a-t-il du [couplage nuisible](/fr/blog/coupling-is-the-worst-thing-in-a-codebase/) et évitable ? Est-il facile de changer une partie et de savoir exactement ce qui est impacté ? Cet impact est-il aussi faible que possible ?
 - **Déploiement** : qu'est-ce qui se déploie ensemble ou séparément ? Qu'est-ce que cela suppose ?
 
 Ce sont les questions que [je me pose sur une codebase quand je rejoins une équipe](/fr/work-with-me/).

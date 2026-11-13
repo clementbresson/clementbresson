@@ -1,8 +1,9 @@
 ---
 title: "As many developer setups as there are developers"
 description: "IDE, ADE, terminal, keyboard or voice, one or ten agents: ways of coding have exploded with AI. My current setup, and a call to compare yours."
-pubDate: 2026-10-21
+pubDate: 2026-09-23
 tags: ["ai-era", "ai-harnesses"]
+linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7508584438574878721/
 sources:
   - title: "Orca — The agent development environment"
     author: "Stably"
