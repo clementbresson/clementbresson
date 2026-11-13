@@ -41,7 +41,7 @@ Aujourd'hui, entre ceux qui :
 - utilisent [10 agents à la fois](/fr/blog/the-next-bottleneck-is-ram/)
 - … etc etc
 
-On peine un peu à trouver le workflow gagnant, si tant est qu'il y en ait un.
+On peine un peu à [trouver le workflow gagnant](/fr/blog/ai-fatigue-back-to-fundamentals/), si tant est qu'il y en ait un.
 
 ## Mon setup, aujourd'hui
 

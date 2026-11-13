@@ -41,7 +41,7 @@ Today, between those who:
 - run [10 agents at once](/blog/the-next-bottleneck-is-ram/)
 - … and so on
 
-It's hard to find the winning workflow, if there even is one.
+It's [hard to find the winning workflow](/blog/ai-fatigue-back-to-fundamentals/), if there even is one.
 
 ## My setup, today
 
