@@ -20,7 +20,8 @@ Do not ask for slug, description or tags: propose them.
 ## Steps
 
 1. `node scripts/article.ts tags` to see the tag vocabulary. Pick 1–2 tags. If none fits, add one to
-   `src/data/tags.json` (key + EN/FR label and description) before continuing.
+   `src/data/tags.json` (key + EN/FR label and description) and a cover motif in `src/lib/motifs.ts`
+   before continuing.
 2. Prepare the source language version:
    - Keep the author's voice, first person, and tu/vous choice. Fix typos and accents. Do not add facts.
    - If it comes from LinkedIn, remove every call-to-action ("n'hésitez pas à me suivre", "DM ouverts",

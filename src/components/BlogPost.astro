@@ -15,6 +15,7 @@ import {
 import ContactCta from "./ContactCta.astro";
 import LangToggle from "./LangToggle.astro";
 import TagList from "./TagList.astro";
+import TagMark from "./TagMark.astro";
 
 interface Props {
   post: Post;
@@ -44,6 +45,11 @@ const related = await getRelated(post);
         <span aria-hidden="true">/</span>
         <a href={getRelativeLocaleUrl(locale, blogPath)}>{t.blog.title}</a>
       </nav>
+      {data.tags[0] && (
+        <div class="mark rise" style="--delay: 40ms">
+          <TagMark tag={data.tags[0]} size={40} />
+        </div>
+      )}
       <h1 class="heading rise" style="--delay: 80ms">
         {data.title}
       </h1>
@@ -190,6 +196,12 @@ const related = await getRelated(post);
   .origin a:hover {
     color: var(--color-ink);
     border-bottom-color: currentColor;
+  }
+
+  .mark {
+    margin-top: 32px;
+    line-height: 0;
+    color: var(--color-ink);
   }
 
   .heading {

@@ -14,7 +14,9 @@ interface Props {
   title?: string;
   description?: string;
   ogType?: "website" | "article";
-  ogImage?: { src: ImageMetadata; alt: string };
+  ogImage?:
+    | { src: ImageMetadata; alt: string }
+    | { url: string; width: number; height: number; alt: string };
   article?: {
     published: Date;
     modified?: Date;
@@ -52,16 +54,24 @@ const portraitImage = await getImage({
 const portraitUrl = new URL(portraitImage.src, Astro.site).href;
 
 const ogSource = Astro.props.ogImage;
-const ogImage = ogSource
-  ? await getImage({
-      src: ogSource.src,
-      width: 1200,
-      format: "jpg",
-      quality: 82,
-    })
-  : portraitImage;
-const ogImageUrl = new URL(ogImage.src, Astro.site).href;
-const ogImageAlt = ogSource?.alt ?? t.portraitAlt;
+const ogImage =
+  ogSource && "src" in ogSource
+    ? await getImage({
+        src: ogSource.src,
+        width: 1200,
+        format: "jpg",
+        quality: 82,
+      })
+    : portraitImage;
+const og =
+  ogSource && "url" in ogSource
+    ? ogSource
+    : {
+        url: new URL(ogImage.src, Astro.site).href,
+        width: ogImage.attributes.width,
+        height: ogImage.attributes.height,
+        alt: ogSource?.alt ?? t.portraitAlt,
+      };
 
 const jsonLd = graph([
   personNode(Astro.site, locale, portraitUrl),
@@ -83,6 +93,7 @@ const rssHref = filePath(locale, "rss.xml");
       <meta name="robots" content="noindex" />
     ) : (
       <>
+        <meta name="robots" content="max-image-preview:large" />
         <link rel="canonical" href={canonical} />
         {alternates.map((a) => (
           <link rel="alternate" hreflang={a.locale} href={a.href} />
@@ -109,16 +120,10 @@ const rssHref = filePath(locale, "rss.xml");
     <meta property="og:title" content={title} />
     <meta property="og:description" content={description} />
     <meta property="og:url" content={canonical} />
-    <meta property="og:image" content={ogImageUrl} />
-    <meta
-      property="og:image:width"
-      content={String(ogImage.attributes.width)}
-    />
-    <meta
-      property="og:image:height"
-      content={String(ogImage.attributes.height)}
-    />
-    <meta property="og:image:alt" content={ogImageAlt} />
+    <meta property="og:image" content={og.url} />
+    <meta property="og:image:width" content={String(og.width)} />
+    <meta property="og:image:height" content={String(og.height)} />
+    <meta property="og:image:alt" content={og.alt} />
     <meta property="og:locale" content={t.ogLocale} />
     {locales
       .filter((l) => l !== locale)
@@ -152,8 +157,8 @@ const rssHref = filePath(locale, "rss.xml");
     />
     <meta name="twitter:title" content={title} />
     <meta name="twitter:description" content={description} />
-    <meta name="twitter:image" content={ogImageUrl} />
-    <meta name="twitter:image:alt" content={ogImageAlt} />
+    <meta name="twitter:image" content={og.url} />
+    <meta name="twitter:image:alt" content={og.alt} />
 
     <script
       type="application/ld+json"

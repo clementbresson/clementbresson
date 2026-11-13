@@ -94,7 +94,7 @@ GitHub app → Actions → "Blog post" → Run workflow, paste the text — or p
 
 ### Rules worth knowing
 
-- Frontmatter `tags` must be keys of `src/data/tags.json`, identical in both languages. To add a topic, add it there first with an EN and FR label and description. A tag page appears once an article uses it.
+- Frontmatter `tags` must be keys of `src/data/tags.json`, identical in both languages. To add a topic, add it there first with an EN and FR label and description, and give it a cover motif in `src/lib/motifs.ts`. A tag page appears once an article uses it.
 - Use `##` headings only: the layout renders the title as H1.
 - Link other articles with relative URLs: `/blog/<slug>/` in `en.md`, `/fr/blog/<slug>/` in `fr.md`.
 - Link the work-with-me page once per language: `/work-with-me/` in `en.md`, `/fr/work-with-me/` in `fr.md` (`check` fails without it).

@@ -1,0 +1,27 @@
+---
+import type { TagId } from "../data/tags";
+import { motifs } from "../lib/motifs";
+
+interface Props {
+  tag: TagId;
+  size: number;
+}
+
+const { tag, size } = Astro.props;
+
+// Motif strokes are drawn for 1200px covers; keep them about 1.5px on screen.
+const scale = (1.5 / 3) * (200 / size);
+const markup = motifs[tag].replace(
+  /stroke-width="(\d+(?:\.\d+)?)"/g,
+  (_, width) => `stroke-width="${(Number(width) * scale).toFixed(2)}"`,
+);
+---
+
+<svg
+  width={size}
+  height={size}
+  viewBox="0 0 200 200"
+  aria-hidden="true"
+  focusable="false"
+  set:html={markup}
+/>

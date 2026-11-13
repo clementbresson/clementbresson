@@ -120,8 +120,7 @@ export function blogPostingNode(
   site: URL | undefined,
   post: Post,
   opts: {
-    coverUrl?: string;
-    fallbackImageUrl: string;
+    images: string[];
     wordCount: number;
     readingMinutes: number;
   },
@@ -136,7 +135,7 @@ export function blogPostingNode(
     mainEntityOfPage: { "@type": "WebPage", "@id": url },
     headline: post.data.title,
     description: post.data.description,
-    image: [opts.coverUrl ?? opts.fallbackImageUrl],
+    image: opts.images,
     datePublished: post.data.pubDate.toISOString(),
     dateModified: (post.data.updatedDate ?? post.data.pubDate).toISOString(),
     author: { "@id": personId(site) },

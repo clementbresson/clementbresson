@@ -12,6 +12,7 @@ import {
 } from "../lib/blog";
 import LangToggle from "./LangToggle.astro";
 import TagList from "./TagList.astro";
+import TagMark from "./TagMark.astro";
 
 interface Props {
   locale: Locale;
@@ -63,7 +64,12 @@ const topics = tags.map((x) => ({
   ) : (
     <ol class="list rise" style="--delay: 240ms">
       {posts.map((post) => (
-        <li class="item">
+        <li class:list={["item", !tag && "with-mark"]}>
+          {!tag && post.data.tags[0] && (
+            <span class="item-mark">
+              <TagMark tag={post.data.tags[0]} size={32} />
+            </span>
+          )}
           <a
             class="item-link"
             href={getRelativeLocaleUrl(locale, postPath(post.slug))}
@@ -152,6 +158,24 @@ const topics = tags.map((x) => ({
 
   .item + .item {
     margin-top: 40px;
+  }
+
+  .with-mark {
+    display: grid;
+    grid-template-columns: 32px minmax(0, 1fr);
+    column-gap: 20px;
+    align-items: start;
+  }
+
+  .item-mark {
+    grid-column: 1;
+    margin-top: 2px;
+    line-height: 0;
+    color: var(--color-ink);
+  }
+
+  .with-mark .item-link {
+    grid-column: 2;
   }
 
   .item-link {
