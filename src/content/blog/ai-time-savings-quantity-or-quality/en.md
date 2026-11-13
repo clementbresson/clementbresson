@@ -14,6 +14,6 @@ There are two ways to make the most of the time AI saves you:
 
 Which direction do you think is best?
 
-Personally, I'm more [team quality](/work-with-me/): in the long run, I'm convinced that's where the real business is won. On quantity, the competition has exploded.
+Personally, I'm more [team quality](/work-with-me/): in the long run, I'm convinced that's where the real business is won. On quantity, [the competition has exploded](/blog/ai-faster-but-above-all-better/).
 
 PS: of course, reality isn't binary, and it's about finding the right setting on a slider between more quantity and more quality.

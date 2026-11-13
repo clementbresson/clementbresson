@@ -14,6 +14,6 @@ Il y a deux façons de tirer profit du temps que fait gagner l'IA :
 
 Selon vous, c'est quoi la meilleure direction ?
 
-Personnellement, je suis plutôt [team qualité](/fr/work-with-me/) : sur le long terme, je suis convaincu que c'est là que le vrai business se gagne. Sur la quantité, la concurrence a explosé.
+Personnellement, je suis plutôt [team qualité](/fr/work-with-me/) : sur le long terme, je suis convaincu que c'est là que le vrai business se gagne. Sur la quantité, [la concurrence a explosé](/fr/blog/ai-faster-but-above-all-better/).
 
 PS : bien sûr, la réalité n'est pas binaire, et c'est un curseur à trouver entre l'augmentation de la quantité et celle de la qualité.
