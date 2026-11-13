@@ -7,7 +7,7 @@ linkedin: https://www.linkedin.com/feed/update/urn:li:activity:75024800745883893
 draft: false
 ---
 
-As developers, we often forget that building a new product is relatively easy.
+As developers, we often forget that [building a new product is relatively easy](/blog/building-the-mvp-is-the-easy-part/).
 
 Okay, it can get a bit complex. But it depends only on us, and we know we can get there.
 

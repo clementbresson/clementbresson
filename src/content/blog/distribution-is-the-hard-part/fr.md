@@ -7,7 +7,7 @@ linkedin: https://www.linkedin.com/feed/update/urn:li:activity:75024800745883893
 draft: false
 ---
 
-En tant que développeurs, on oublie souvent que créer un nouveau produit, c’est relativement simple.
+En tant que développeurs, on oublie souvent que [créer un nouveau produit, c’est relativement simple](/fr/blog/building-the-mvp-is-the-easy-part/).
 
 Ok, ça peut être un peu complexe. Mais ça ne dépend que de nous, et on sait qu’on peut y arriver.
 
