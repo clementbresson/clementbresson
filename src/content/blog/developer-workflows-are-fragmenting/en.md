@@ -50,7 +50,7 @@ Here is where I personally stand:
 - I still mostly use my own machine for the bulk of the work, plus cloud agents for simple things.
 - I still type on a keyboard (and my wife thanks me for it, without knowing it).
 - I am almost exclusively on [Orca](https://www.onorca.dev/) (an ADE well suited to managing several codebases and several worktrees per codebase), with an IDE now and then.
-- 2 to 5 agents at the same time, depending on how complex the task is.
+- [2 to 5 agents at the same time](/blog/my-agentic-workflow-parallel-worktrees/), depending on how complex the task is.
 - Focus on the [harness](/blog/ai-harness-guides-and-sensors/) and a quick skim review, with a skill that auto-stages anything low-risk and leaves me to carefully review what matters most.
 
 The harness is also [what I set up with teams moving to AI coding agents](/work-with-me/).

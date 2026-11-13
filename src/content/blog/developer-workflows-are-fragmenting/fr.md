@@ -50,7 +50,7 @@ Personnellement, voici où j'en suis :
 - J'utilise encore globalement ma machine pour le gros du travail, plus des agents cloud pour des choses simples.
 - Je tape encore au clavier (et ma femme me remercie sans le savoir).
 - Je suis quasi exclusivement sur [Orca](https://www.onorca.dev/) (un ADE bien fait pour gérer plusieurs codebases et plusieurs worktrees par codebase), avec un IDE de temps à autre.
-- 2 à 5 agents en même temps selon la complexité des tâches.
+- [2 à 5 agents en même temps](/fr/blog/my-agentic-workflow-parallel-worktrees/) selon la complexité des tâches.
 - Focus sur le [Harness](/fr/blog/ai-harness-guides-and-sensors/) et relecture diagonale, avec un skill pour auto-stager tout ce qui est peu critique et relire en détail le plus important.
 
 Le harness, c'est aussi [ce que je mets en place avec les équipes qui se mettent aux agents IA](/fr/work-with-me/).

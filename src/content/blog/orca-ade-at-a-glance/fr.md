@@ -26,7 +26,7 @@ Dans chaque worktree, un agent qui travaille sur une instance isolée du program
 
 Une vue d'ensemble de tous les agents qui tournent : ceux qui ont fini, ceux qui attendent une réponse.
 
-En soi, rien de nouveau... mais quand on travaille avec 3 à 6 sessions en parallèle sur 1 à 3 repositories en parallèle, ça donne une sacrée visibilité.
+En soi, rien de nouveau... mais quand on travaille avec [3 à 6 sessions en parallèle](/fr/blog/my-agentic-workflow-parallel-worktrees/) sur 1 à 3 repositories en parallèle, ça donne une sacrée visibilité.
 
 Et... je ne vais presque plus dans [Cursor](https://cursor.com/).
 
