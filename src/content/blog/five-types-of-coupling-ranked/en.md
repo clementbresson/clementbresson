@@ -37,7 +37,7 @@ You pass a whole object when you only use part of it. A needless dependency on i
 
 ## 5. Content coupling
 
-One module reaches into the internals of another. The worst. Run away from it. When it happens, it's often because there was no time to do better.
+One module [reaches into the internals of another](/blog/parnas-criteria-for-decomposing-into-modules/). The worst. Run away from it. When it happens, it's often because there was no time to do better.
 
 Can you think of others?
 

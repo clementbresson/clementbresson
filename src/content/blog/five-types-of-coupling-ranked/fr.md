@@ -37,7 +37,7 @@ On passe un objet complet alors qu'on n'en utilise qu'une partie. Dépendance in
 
 ## 5. Content coupling
 
-Un module accède aux internals d'un autre. Le pire. À fuir. Quand ça arrive, c'est souvent par contrainte de temps pour faire mieux.
+Un module [accède aux internals d'un autre](/fr/blog/parnas-criteria-for-decomposing-into-modules/). Le pire. À fuir. Quand ça arrive, c'est souvent par contrainte de temps pour faire mieux.
 
 Vous en voyez d'autres ?
 

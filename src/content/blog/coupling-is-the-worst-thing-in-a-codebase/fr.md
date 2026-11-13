@@ -9,7 +9,7 @@ draft: false
 
 Le pire sur une codebase... c'est le [couplage](/fr/blog/the-maintenance-effort-formula/).
 
-Tu peux avoir des modules un peu pourris en interne : s'ils sont bien découpés et avec des interfaces claires, ça ira.
+Tu peux avoir des modules un peu pourris en interne : s'ils sont [bien découpés](/fr/blog/parnas-criteria-for-decomposing-into-modules/) et avec des interfaces claires, ça ira.
 
 Mais à l'inverse, s'ils sont bien « meilleurs » (performants, optimisés...) mais [couplés les uns aux autres](/fr/blog/five-types-of-coupling-ranked/) dans tous les sens, tout va très vite devenir un enfer impossible à maintenir.
 

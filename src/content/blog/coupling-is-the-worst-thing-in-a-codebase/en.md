@@ -9,7 +9,7 @@ draft: false
 
 The worst thing in a codebase... is [coupling](/blog/the-maintenance-effort-formula/).
 
-You can have modules that are a bit rotten inside: if they are well separated and have clear interfaces, you'll be fine.
+You can have modules that are a bit rotten inside: if they are [well separated](/blog/parnas-criteria-for-decomposing-into-modules/) and have clear interfaces, you'll be fine.
 
 On the other hand, if they are much "better" (fast, optimised...) but [coupled to each other](/blog/five-types-of-coupling-ranked/) in every direction, everything will very quickly turn into an unmaintainable hell.
 
