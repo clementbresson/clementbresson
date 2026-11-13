@@ -48,7 +48,7 @@ sources:
 draft: false
 ---
 
-Sunday evening thought: work on your software architecture and craftsmanship.
+Sunday evening thought: work on your [software architecture](/blog/sound-architecture-over-correct-features/) and craftsmanship.
 
 It has never mattered more than in the AI era... and whatever you do, don't listen to anyone who says otherwise.
 

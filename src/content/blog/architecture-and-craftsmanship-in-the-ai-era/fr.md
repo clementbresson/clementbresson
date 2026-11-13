@@ -48,7 +48,7 @@ sources:
 draft: false
 ---
 
-Pensée du dimanche soir : bossez l'architecture logicielle et le craftsmanship.
+Pensée du dimanche soir : bossez l'[architecture logicielle](/fr/blog/sound-architecture-over-correct-features/) et le craftsmanship.
 
 Ça n'a jamais été aussi important qu'à l'ère de l'IA... et n'écoutez surtout pas ceux qui disent le contraire.
 
