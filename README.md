@@ -107,6 +107,8 @@ GitHub app → Actions → "Blog post" → Run workflow, paste the text — or p
 
 Every push to `main`, and a daily schedule (for scheduled articles), runs `.github/workflows/deploy.yml`: it validates the articles, builds the site, then deploys `dist/` as a Cloudflare Worker with static assets using `wrangler.jsonc`. Pull requests run the build and upload a Worker version whose preview URL is posted as a comment (`preview_urls` in `wrangler.jsonc`); nothing is deployed until the merge.
 
+After each deploy, `scripts/indexnow.ts` notifies [IndexNow](https://www.indexnow.org/) (Bing, Yandex, Seznam, Naver) of the pages that are new or whose `lastmod` changed: it compares the live sitemap with the build before deploying, then submits the list. The key is `public/7eeee43f95ac270749df574f2321d1aa.txt`; it is public by design. `node scripts/indexnow.ts submit-all` resubmits every URL of the last local build.
+
 One-time setup:
 
 1. **Cloudflare account**: create one at dash.cloudflare.com and note the _Account ID_ (Workers & Pages → Overview, right column).
