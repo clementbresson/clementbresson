@@ -60,6 +60,8 @@ And in the worst case, you may even realise during the exercise that you have no
 
 This mapping is [one of the first exercises I run with a team](/work-with-me/).
 
+Subdomains are often confused with bounded contexts: [here is how to tell them apart](/blog/subdomains-vs-bounded-contexts/).
+
 PS: I'm not inventing anything here. This is a plain-language take on concepts at the heart of DDD ([Eric Evans](https://www.domainlanguage.com/ddd/blue-book/), [Vlad Khononov](https://vladikk.com/page/books/)... and others).
 
 PPS: I keep these terms in English on purpose: translating them is counterproductive, I think. Better to speak the same language ;)

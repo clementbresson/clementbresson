@@ -60,6 +60,8 @@ Et dans le pire des cas, vous pouvez même vous rendre compte pendant l'exercice
 
 Cette cartographie, c'est [l'un des premiers exercices que je mène avec une équipe](/fr/work-with-me/).
 
+On confond souvent subdomains et bounded contexts : [voici comment les distinguer](/fr/blog/subdomains-vs-bounded-contexts/).
+
 PS : je n'invente absolument rien ici. C'est de la vulgarisation de concepts au cœur du DDD ([Eric Evans](https://www.domainlanguage.com/ddd/blue-book/), [Vlad Khononov](https://vladikk.com/page/books/)... etc.).
 
 PPS : désolé pour les anglicismes... mais traduire ces termes est contre-productif je pense. Mieux vaut parler le même langage ;)
