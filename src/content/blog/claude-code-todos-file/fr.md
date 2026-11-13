@@ -22,7 +22,7 @@ La meilleure option : le noter.
 
 L'idée : une consigne toute simple dans votre [CLAUDE.md](https://code.claude.com/docs/en/memory) : tout détail relevé pendant une tâche doit être noté dans le fichier `TODOS.md`, de façon concise. Vous pouvez aussi déclencher ça manuellement avec un `/btw à faire plus tard : ...` dans [Claude Code](https://claude.com/product/claude-code).
 
-Résultat : entre deux tâches, vous avez un mémo de petites choses à nettoyer. Et à l'heure de l'IA, une codebase propre et stricte reste le [meilleur harness possible](/fr/blog/rigorous-codebase-best-ai-harness/).
+Résultat : entre deux tâches, vous avez un mémo de [petites choses à nettoyer](/fr/blog/todos-and-human-todos-files/). Et à l'heure de l'IA, une codebase propre et stricte reste le [meilleur harness possible](/fr/blog/rigorous-codebase-best-ai-harness/).
 
 J'ajoute cette règle au [CLAUDE.md de chaque projet sur lequel j'interviens](/fr/work-with-me/).
 
