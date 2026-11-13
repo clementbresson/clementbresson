@@ -57,7 +57,7 @@ C'est pour ça qu'on dit souvent qu'un agrégat est une frontière de cohérence
 
 ## Pas d'agrégat gigantesque
 
-Attention, n'allez pas faire un agrégat gigantissime non plus. Préférez de petits agrégats : ce qui peut être cohérent « un peu plus tard » reste dehors. Mais dès que des règles doivent être garanties ensemble, à chaque instant : hop, ça va dans le même agrégat.
+Attention, n'allez pas faire un agrégat gigantissime non plus. Préférez de petits agrégats : ce qui peut être cohérent « un peu plus tard » [reste dehors](/fr/blog/outbox-pattern-consistency-between-aggregates/). Mais dès que des règles doivent être garanties ensemble, à chaque instant : hop, ça va dans le même agrégat.
 
 Placer ces frontières, c'est [un travail de modélisation que je mène avec les équipes que j'accompagne](/fr/work-with-me/).
 

@@ -57,7 +57,7 @@ That's why an aggregate is often described as a consistency boundary.
 
 ## No giant aggregates
 
-Careful, don't go building a gigantic aggregate either. Prefer small aggregates: whatever can be consistent "a little later" stays outside. But as soon as some rules must be guaranteed together, at every moment: boom, they go in the same aggregate.
+Careful, don't go building a gigantic aggregate either. Prefer small aggregates: whatever can be consistent "a little later" [stays outside](/blog/outbox-pattern-consistency-between-aggregates/). But as soon as some rules must be guaranteed together, at every moment: boom, they go in the same aggregate.
 
 Drawing those boundaries is [modelling work I do with the teams I advise](/work-with-me/).
 
