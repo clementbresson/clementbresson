@@ -1,8 +1,9 @@
 ---
 title: "My support offer for SMEs that build tools with AI"
 description: "AI-built internal tools getting out of control, insecure, fragile? Here is how I help small businesses get them back on track, progressively, at their own pace."
-pubDate: 2026-10-21
+pubDate: 2026-09-25
 tags: ["fractional", "ai-era"]
+linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7509307406745624576/
 sources:
   - title: "Airbnb"
     url: https://www.airbnb.com/

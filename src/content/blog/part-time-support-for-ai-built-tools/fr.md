@@ -1,8 +1,9 @@
 ---
 title: "Mon accompagnement pour les PME qui codent avec l'IA"
 description: "Outils internes codés avec l'IA hors de contrôle, non sécurisés, fragiles ? Voici comment je remets les PME d'équerre, progressivement, à leur rythme."
-pubDate: 2026-10-21
+pubDate: 2026-09-25
 tags: ["fractional", "ai-era"]
+linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7509307406745624576/
 sources:
   - title: "Airbnb"
     url: https://www.airbnb.com/
