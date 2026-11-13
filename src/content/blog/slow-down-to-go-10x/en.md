@@ -39,7 +39,7 @@ And to parallelise the work across several agents without them stepping on each 
 
 - [worktrees](/blog/orca-ade-at-a-glance/)
 - dependency management specific to each worktree
-- the ability to run several complete instances of the program, isolated from one another
+- the ability to run [several complete instances of the program](/blog/fresh-local-instance-and-observability-for-ai-agents/), isolated from one another
 
 And to ship all of that as you go: well-tuned, well-mastered CI/CD.
 

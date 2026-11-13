@@ -39,7 +39,7 @@ Et pour paralléliser le travail entre plusieurs agents sans qu'ils se marchent 
 
 - des [worktrees](/fr/blog/orca-ade-at-a-glance/)
 - une gestion des dépendances propre à chaque worktree
-- pouvoir lancer plusieurs instances complètes du programme, isolées les unes des autres
+- pouvoir lancer [plusieurs instances complètes du programme](/fr/blog/fresh-local-instance-and-observability-for-ai-agents/), isolées les unes des autres
 
 Et pour déployer tout ça au fur et à mesure : une CI/CD bien réglée et maîtrisée.
 

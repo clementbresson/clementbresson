@@ -15,7 +15,7 @@ Le prochain ? La machine. Et plus précisément : la RAM.
 
 ## Un agent, c’est un environnement complet
 
-Un agent qui travaille, ce n’est pas un process. C’est un environnement complet.
+Un agent qui travaille, ce n’est pas un process. C’est [un environnement complet](/fr/blog/fresh-local-instance-and-observability-for-ai-agents/).
 
 node_modules. Un serveur TypeScript. Docker. Une base Postgres. Une suite de tests qui tourne. Un [harnais](/fr/blog/ai-harness-guides-and-sensors/).
 

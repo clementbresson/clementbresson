@@ -15,7 +15,7 @@ The next one? The machine. More precisely: RAM.
 
 ## An agent is a full environment
 
-A working agent is not a process. It is a complete environment.
+A working agent is not a process. It is [a complete environment](/blog/fresh-local-instance-and-observability-for-ai-agents/).
 
 node_modules. A TypeScript server. Docker. A Postgres database. A test suite running. A [harness](/blog/ai-harness-guides-and-sensors/).
 
