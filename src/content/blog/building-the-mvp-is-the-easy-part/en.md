@@ -26,6 +26,6 @@ What's hard? [Everything else](/blog/side-projects-die-after-the-mvp/):
 - [keeping quality up over time](/work-with-me/)
 - …etc.
 
-So my advice to all the tech geniuses out there: team up with real business profiles (or genuinely build that skill yourself), and persevere, iterate on **one** project, over the long run (one year or more).
+So my advice to all the tech geniuses out there: [team up with real business profiles](/blog/pick-an-unsexy-business/) (or genuinely build that skill yourself), and persevere, iterate on **one** project, over the long run (one year or more).
 
 Happy building!

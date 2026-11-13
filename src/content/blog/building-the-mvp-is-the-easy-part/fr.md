@@ -26,6 +26,6 @@ Ce qui est dur ? [Tout le reste](/fr/blog/side-projects-die-after-the-mvp/) :
 - [maintenir la qualité sur la durée](/fr/work-with-me/)
 - …etc.
 
-Donc mon conseil à tous les génies de la tech : associez-vous avec de vrais profils business (ou développez vraiment cette compétence), et persévérez, itérez sur **un** projet, sur la durée (une ou plusieurs années).
+Donc mon conseil à tous les génies de la tech : [associez-vous avec de vrais profils business](/fr/blog/pick-an-unsexy-business/) (ou développez vraiment cette compétence), et persévérez, itérez sur **un** projet, sur la durée (une ou plusieurs années).
 
 Bon build !
