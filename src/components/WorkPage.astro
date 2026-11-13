@@ -74,11 +74,29 @@ const schema = [
     </div>
 
     <nav class="links rise" style="--delay: 320ms">
-      <a href={links.email}>{t.links.email}</a>
-      <a href={links.linkedin} target="_blank" rel="noopener">
+      <a
+        href={links.email}
+        data-umami-event="click-email"
+        data-umami-event-from="work-page"
+      >
+        {t.links.email}
+      </a>
+      <a
+        href={links.linkedin}
+        target="_blank"
+        rel="noopener"
+        data-umami-event="click-linkedin"
+        data-umami-event-from="work-page"
+      >
         {t.links.linkedin}
       </a>
-      <a href={links.malt} target="_blank" rel="noopener">
+      <a
+        href={links.malt}
+        target="_blank"
+        rel="noopener"
+        data-umami-event="click-malt"
+        data-umami-event-from="work-page"
+      >
         {t.links.malt}
       </a>
     </nav>

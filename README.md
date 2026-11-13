@@ -102,6 +102,7 @@ GitHub app → Actions → "Blog post" → Run workflow, paste the text — or p
 - Scheduling: give a future `pubDate` and push. The article stays out of the build until that day (Europe/Paris); the deploy workflow rebuilds every morning and publishes it.
 - The "Updated" date is derived from git: the day of the last commit that touched the language file (commits before `src/lib/modified-date.ts`'s baseline are ignored). It feeds the post page, `dateModified` and the sitemap, and only shows when later than `pubDate`. Set `updatedDate` in the frontmatter only to override it; uncommitted edits do not count.
 - Everything for SEO and AI search is generated at build: canonical and hreflang tags, Open Graph, JSON-LD (Person, WebSite, Blog, BlogPosting with citations, breadcrumbs), sitemap with `lastmod`, robots.txt allowing AI crawlers, llms.txt, RSS.
+- Analytics: [Umami](https://umami.is/) (cookieless, so no consent banner), loaded in `src/layouts/Base.astro` and counted only on clementbresson.com. Contact links carry `data-umami-event` (`click-work`, `click-email`, `click-linkedin`, `click-malt`…) with `data-umami-event-from` (`home`, `article`, `work-page`).
 
 ## Deploy (Cloudflare Workers, via GitHub Actions)
 

@@ -20,13 +20,23 @@ const isInternal = (href: string) => !href.includes(":");
     const href = links[key];
     if (isExternal(href)) {
       return (
-        <a href={href} target="_blank" rel="noopener">
+        <a
+          href={href}
+          target="_blank"
+          rel="noopener"
+          data-umami-event={`click-${key}`}
+          data-umami-event-from="home"
+        >
           {labels[key]}
         </a>
       );
     }
     return (
-      <a href={isInternal(href) ? getRelativeLocaleUrl(locale, href) : href}>
+      <a
+        href={isInternal(href) ? getRelativeLocaleUrl(locale, href) : href}
+        data-umami-event={`click-${key}`}
+        data-umami-event-from="home"
+      >
         {labels[key]}
       </a>
     );

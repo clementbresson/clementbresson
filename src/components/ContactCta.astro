@@ -36,11 +36,27 @@ const mailto = `${links.email}?subject=${encodeURIComponent(post.data.title)}`;
     </p>
     <p class="message">{message}</p>
     <p class="actions">
-      <a href={getRelativeLocaleUrl(post.locale, links.work)}>
+      <a
+        href={getRelativeLocaleUrl(post.locale, links.work)}
+        data-umami-event="click-work"
+        data-umami-event-from="article"
+      >
         {t.cta.howIWork}
       </a>
-      <a href={mailto}>{t.cta.email}</a>
-      <a href={links.linkedin} target="_blank" rel="noopener">
+      <a
+        href={mailto}
+        data-umami-event="click-email"
+        data-umami-event-from="article"
+      >
+        {t.cta.email}
+      </a>
+      <a
+        href={links.linkedin}
+        target="_blank"
+        rel="noopener"
+        data-umami-event="click-linkedin"
+        data-umami-event-from="article"
+      >
         {t.links.linkedin}
       </a>
     </p>
