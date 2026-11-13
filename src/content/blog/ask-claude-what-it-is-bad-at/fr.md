@@ -21,7 +21,7 @@ Une astuce [Claude Code](https://claude.com/product/claude-code) anti-chômage.
 
    Spoiler : [software architecture](/fr/blog/architecture-and-craftsmanship-in-the-ai-era/), [vraie compréhension des besoins métier](/fr/blog/the-value-is-in-the-business-rules/), communication humaine (no shit)... etc.
 
-2. Travailler tout ça à fond.
+2. [Travailler tout ça à fond](/fr/blog/learning-to-learn-efficiently/).
 
 Ça permet de préparer les « nouveaux » métiers de demain... et c'est absolument passionnant (si si, le [DDD](https://www.domainlanguage.com/ddd/blue-book/) est passionnant).
 

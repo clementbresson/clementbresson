@@ -21,7 +21,7 @@ A [Claude Code](https://claude.com/product/claude-code) tip to stay employable.
 
    Spoiler: [software architecture](/blog/architecture-and-craftsmanship-in-the-ai-era/), [real understanding of business needs](/blog/the-value-is-in-the-business-rules/), human communication (no shit)... etc.
 
-2. Work on all of that, hard.
+2. [Work on all of that, hard](/blog/learning-to-learn-efficiently/).
 
 It prepares you for the "new" jobs of tomorrow... and it's absolutely fascinating (yes, really, [DDD](https://www.domainlanguage.com/ddd/blue-book/) is fascinating).
 
