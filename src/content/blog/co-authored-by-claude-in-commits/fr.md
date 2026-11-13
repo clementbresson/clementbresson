@@ -14,7 +14,7 @@ sources:
 draft: false
 ---
 
-Vous assumez les `Co-Authored-By: Claude` dans vos commits et vos PR ?
+[Vous assumez](/fr/blog/co-authored-by-claude-debate/) les `Co-Authored-By: Claude` dans vos commits et vos PR ?
 
 Moi... à 100 % :)
 

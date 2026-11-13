@@ -14,7 +14,7 @@ sources:
 draft: false
 ---
 
-Do you own the `Co-Authored-By: Claude` lines in your commits and PRs?
+[Do you own](/blog/co-authored-by-claude-debate/) the `Co-Authored-By: Claude` lines in your commits and PRs?
 
 Me... 100% :)
 
