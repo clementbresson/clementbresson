@@ -20,7 +20,7 @@ You know, ArtCraft, that copycat of the Adobe suite written in Rust (with AI). I
 
 In the end, a huge amount of effort goes into recreating a solution that already exists. Potentially a waste of time and tokens?
 
-Why not try to create something new instead?
+Why not try to [create something new](/blog/music-video-engine-built-with-ai/) instead?
 
 We often see AI as an accelerator for what we already do. So only as a [speed gain](/blog/ai-time-savings-quantity-or-quality/).
 

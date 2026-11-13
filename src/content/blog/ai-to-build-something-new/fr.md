@@ -20,7 +20,7 @@ Vous savez, ArtCraft, c'est ce copycat de la suite Adobe fait en Rust (avec l'IA
 
 Au final, énormément d'effort est mis pour recréer une solution qui existe déjà. Potentiellement du gâchis de temps et de tokens ?
 
-Pourquoi ne pas plutôt essayer de créer quelque chose de nouveau ?
+Pourquoi ne pas plutôt essayer de [créer quelque chose de nouveau](/fr/blog/music-video-engine-built-with-ai/) ?
 
 On voit souvent l'IA comme un accélérateur de ce qu'on fait déjà. Donc uniquement comme un [gain de vitesse](/fr/blog/ai-time-savings-quantity-or-quality/).
 
