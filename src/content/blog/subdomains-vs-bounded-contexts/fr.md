@@ -59,6 +59,6 @@ Parce que leur but est différent.
 
 Les subdomains servent surtout à savoir quoi ne pas reconstruire en interne, où mettre son effort principal, et potentiellement à réévaluer la viabilité d'un projet. [J'en parle plus en détail ici](/fr/blog/core-supporting-generic-subdomains/) si cela vous intéresse.
 
-Les bounded contexts servent à organiser la solution pour qu'elle reste maintenable sur la durée. Tracer ces frontières, c'est [un travail que je fais main dans la main avec une équipe](/fr/work-with-me/).
+[Les bounded contexts servent à organiser la solution](/fr/blog/why-design-bounded-contexts/) pour qu'elle reste maintenable sur la durée. Tracer ces frontières, c'est [un travail que je fais main dans la main avec une équipe](/fr/work-with-me/).
 
 Si vous retenez subdomain = problème qui existe, et bounded context = solution qu'on design, c'est bon :)

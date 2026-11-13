@@ -59,6 +59,6 @@ Because their purpose is different.
 
 Subdomains mainly tell you what not to rebuild in-house, where to put your main effort, and potentially lead you to reassess a project's viability. [I go into more detail here](/blog/core-supporting-generic-subdomains/) if you are interested.
 
-Bounded contexts are there to organise the solution so that it stays maintainable over time. Drawing those boundaries is [work I do hand in hand with a team](/work-with-me/).
+[Bounded contexts are there to organise the solution](/blog/why-design-bounded-contexts/) so that it stays maintainable over time. Drawing those boundaries is [work I do hand in hand with a team](/work-with-me/).
 
 If you remember subdomain = a problem that exists, and bounded context = a solution you design, you're good :)
