@@ -1,8 +1,8 @@
 import { spawnSync } from "node:child_process";
 import { today } from "./publish-date.ts";
 
-// Commits up to this one migrated tooling and formatting: they are not article updates.
-const BASELINE = "18c772d";
+// Commits up to this one migrated tooling, formatting and the LinkedIn import: they are not article updates.
+const BASELINE = "c24d39e";
 
 const cache = new Map<string, Date | undefined>();
 
