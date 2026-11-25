@@ -33,3 +33,5 @@ And... I barely open [Cursor](https://cursor.com/) anymore.
 Do you use an [ADE](/blog/developer-workflows-are-fragmenting/) too? Have you tried others?
 
 Have a nice weekend!
+
+Since then, Orca has also made conversation formatting native, which got me thinking about [the point of homemade overlays](/blog/use-native-tools-not-custom-overlays/).

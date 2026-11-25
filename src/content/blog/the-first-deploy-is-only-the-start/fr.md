@@ -3,6 +3,7 @@ title: "Produit vibecodé : le premier déploiement n'est que le début"
 description: "Failles PHP et Next.js, 1 094 correctifs Microsoft, 95 000 CVE en 2026 : un produit vibecodé n'est jamais « fini », sa maintenance commence au déploiement."
 pubDate: 2026-11-13
 tags: ["security", "ai-era"]
+linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7527047619345391618/
 sources:
   - title: "Security advisory: Critical remote code execution vulnerabilities, update now"
     author: "The PHP Group"

@@ -33,3 +33,5 @@ Et... je ne vais presque plus dans [Cursor](https://cursor.com/).
 Vous aussi, vous utilisez un [ADE](/fr/blog/developer-workflows-are-fragmenting/) ? En avez-vous testé d'autres ?
 
 Bon week-end !
+
+Depuis, Orca a aussi rendu natif l'affichage des conversations, ce qui m'a fait réfléchir à [l'intérêt des surcouches maison](/fr/blog/use-native-tools-not-custom-overlays/).

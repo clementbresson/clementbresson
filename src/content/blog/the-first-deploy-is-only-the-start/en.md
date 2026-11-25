@@ -3,6 +3,7 @@ title: "A vibe-coded product isn't done at the first deploy"
 description: "PHP and Next.js flaws, 1,094 Microsoft fixes, 95,000 CVEs in 2026: a vibe-coded product is never done, and its maintenance starts on the day you deploy."
 pubDate: 2026-11-13
 tags: ["security", "ai-era"]
+linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7527047619345391618/
 sources:
   - title: "Security advisory: Critical remote code execution vulnerabilities, update now"
     author: "The PHP Group"

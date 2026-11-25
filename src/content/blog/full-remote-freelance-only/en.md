@@ -33,4 +33,6 @@ Maybe there are numbers I don't have, that would show a hybrid or on-site team i
 
 This hiring choice fits a broader trend: [the developer market is shifting fast](/blog/the-developer-market-is-shifting/), and the best profiles increasingly get to choose their format.
 
+And when an ad says full remote, it should not then [restrict it to one country](/blog/full-remote-but-france-only/).
+
 PS: freedom has to be earned, though. In return, I expect results (not hours, I don't care about that), professionalism and seriousness. And that shows very, very fast. A full remote freelancer who isn't serious: stop.

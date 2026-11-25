@@ -33,4 +33,6 @@ Il y a peut-être des chiffres que je n'ai pas, qui montreraient qu'une équipe 
 
 Ce choix de recrutement rejoint une tendance de fond : [le marché des développeurs est en pleine mutation](/fr/blog/the-developer-market-is-shifting/), et les meilleurs profils ont de plus en plus le choix du format.
 
+Et quand une offre annonce du full remote, ce n'est pas pour [le restreindre ensuite à un pays](/fr/blog/full-remote-but-france-only/).
+
 PS : la liberté, ça se mérite. En face, j'attends du résultat (pas des heures, ça je m'en fiche), du professionnalisme et du sérieux. Et ça, ça se voit très très vite. Un freelance full remote qui n'est pas sérieux : stop.

@@ -20,3 +20,5 @@ Et malheureusement, l'architecture est ce qu'il y a de plus compliqué en softwa
 - …
 
 Amis vibecoders, faites-vous accompagner sur ce qui compte le plus. [Un petit audit](/fr/work-with-me/), potentiellement quelques jours pour mettre en place la structure, puis quelques checks réguliers : vos projets vous remercieront sur la durée !
+
+Et avec l'IA, c'est encore plus vrai : [une architecture solide n'a jamais autant compté](/fr/blog/solid-architecture-matters-more-with-ai/).

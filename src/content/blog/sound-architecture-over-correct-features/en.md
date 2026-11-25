@@ -20,3 +20,5 @@ And unfortunately, architecture is the most complicated thing in software engine
 - …
 
 Fellow vibe coders, get support on what matters most. [A short audit](/work-with-me/), maybe a few days to set up the structure, then a few regular check-ups: your projects will thank you in the long run!
+
+And with AI, it is even more true: [solid architecture has never mattered more](/blog/solid-architecture-matters-more-with-ai/).

@@ -31,4 +31,6 @@ Combiné ensuite à [la technique que je présentais hier](/fr/blog/github-pr-re
 
 Car on le sait tous : la review est devenue [**le** goulot d'étranglement](/fr/blog/the-next-bottleneck-is-ram/)... et donc c'est là que se trouvent tous les gains, si on arrive à améliorer la situation.
 
+Ces passes successives servent aussi de test : si [vos reviews ne convergent pas](/fr/blog/ai-review-convergence-test/), le problème est souvent la codebase.
+
 PS : attention, cette boucle de review ne remplace en **rien** un scoping propre en amont, une architecture clean, de vrais fondamentaux, une dette technique archi limitée, un [harness poussé](/fr/blog/ai-harness-guides-and-sensors/)... etc. C'est juste **un** outil de plus en fin de pipeline. Tout ce qui vient avant, c'est [le travail de fond que je mène en amont avec une équipe](/fr/work-with-me/).

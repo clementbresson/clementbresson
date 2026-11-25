@@ -31,4 +31,6 @@ Then combined with [the technique I presented yesterday](/blog/github-pr-review-
 
 Because we all know it: review has become [**the** bottleneck](/blog/the-next-bottleneck-is-ram/)... and so that's where all the gains are, if we manage to improve the situation.
 
+These successive passes also work as a test: if [your reviews do not converge](/blog/ai-review-convergence-test/), the problem is often the codebase.
+
 PS: careful, this review loop in **no way** replaces proper scoping upfront, a clean architecture, real fundamentals, very limited technical debt, an [advanced harness](/blog/ai-harness-guides-and-sensors/)... etc. It's just **one** more tool at the end of the pipeline. Everything that comes before it is [the groundwork I do upstream with a team](/work-with-me/).
